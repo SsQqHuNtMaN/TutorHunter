@@ -16,55 +16,25 @@
   },
   "region": "mainland_china",
   "contact": {
-    "email": null,
-    "email_note": "JS加密",
-    "dblp_url": "https://dblp.org/pid/87/5876"
+    "scholar_url": "https://scholar.google.com/citations?user=7sFMIKoAAAAJ"
   },
   "research": {
-    "inferred_from_papers": [
-      "多媒体计算",
-      "计算机视觉",
-      "视频编码",
-      "多模态大模型",
-      "文档理解"
-    ],
-    "keywords": [
-      "multimedia",
-      "computer vision",
-      "video coding",
-      "multimodal",
-      "document AI"
-    ],
-    "tags": [
-      "Multimodal",
-      "Computer Vision",
-      "Video",
-      "LLM/MLLM"
-    ],
     "summary": {
-      "zh": "李厚强，中国科学技术大学教授、博导，信息科学技术学院副院长，IEEE Fellow。主要研究方向为多媒体计算、计算机视觉、视频编码。",
-      "en": "Prof. Houqiang Li, IEEE Fellow. Research: multimedia, CV, video coding."
+      "zh": "李厚强，教授、博导，IEEE Fellow，信息科学技术学院副院长。主要研究方向：视频编码与通信、计算机视觉、手语识别与翻译、多模态学习。Google Scholar已确认。",
+      "en": "Prof. Houqiang Li, IEEE Fellow. Research: video coding, CV, sign language recognition, multimodal learning. Google Scholar confirmed."
     }
   },
   "publications": {
-    "source": "web_search+homepage",
-    "source_url": "https://faculty.ustc.edu.cn/lihouqiang/zh_CN/lwcg/83276/list/6.htm",
-    "source_note": "WebSearch+主页论文列表",
-    "recent": [
-      {
-        "title": "DocPedia: 高分辨率多模态文档大模型",
-        "venue": "arXiv/Preprint",
-        "year": 2024,
-        "type": "preprint",
-        "source": "web_search"
-      }
-    ],
+    "source": "web_search+scholar",
+    "source_url": "https://scholar.google.com/citations?user=7sFMIKoAAAAJ",
+    "source_note": "Google Scholar confirmed; iVC Lab papers: https://ustc-ivclab.github.io/pages/papers/",
     "top_venues": [
       "IEEE TPAMI",
       "CVPR",
       "ICCV",
-      "NeurIPS",
-      "ICML",
+      "AAAI",
+      "IEEE TIP",
+      "IEEE TCSVT",
       "ACM Multimedia"
     ]
   },
@@ -91,11 +61,12 @@
   "education": [],
   "awards": [],
   "_sources": {
-    "web_search_done": true,
-    "fetched_at": "2026-06-13T12:00:00Z"
+    "scholar": "https://scholar.google.com/citations?user=7sFMIKoAAAAJ",
+    "web_search_done": true
   },
   "_quality": {
-    "overall": "medium",
-    "notes": "IEEE Fellow。主页论文列表有完整论文。"
-  }
+    "overall": "high",
+    "notes": "IEEE Fellow。Google Scholar已确认。iVC Lab主页有完整论文列表。"
+  },
+  "auto_tags_from_papers": []
 }

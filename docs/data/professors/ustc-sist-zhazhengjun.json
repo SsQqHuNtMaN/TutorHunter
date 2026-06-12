@@ -79,7 +79,7 @@
   "publications": {
     "source": "arxiv",
     "source_url": null,
-    "source_note": "DBLP:0 OR:0 arXiv:9",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
     "total_count": 55,
     "h_index": null,
     "recent": [
@@ -1393,7 +1393,7 @@
     "sub_pages_fetched": [],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-13T00:47:35.728993",
+    "fetched_at": "2026-06-13T00:59:23.512171",
     "papers_fetched": true
   },
   "_quality": {
@@ -1413,11 +1413,5 @@
     ],
     "notes": "基础信息已从主页获取。论文、邮箱、招生、学生去向等需从 Scholar 和子页面进一步获取。"
   },
-  "auto_tags_from_papers": [
-    "Computer Vision",
-    "LLM/MLLM",
-    "Image Restoration",
-    "Biomedical",
-    "3D Vision"
-  ]
+  "auto_tags_from_papers": []
 }

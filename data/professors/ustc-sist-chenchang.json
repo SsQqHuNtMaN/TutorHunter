@@ -22,7 +22,7 @@
     "office": null,
     "homepage_url": "http://faculty.ustc.edu.cn/chenchang/zh_CN/index.htm",
     "scholar_url": null,
-    "dblp_url": null
+    "dblp_url": "https://dblp.org/pid/c/ChinChenChang"
   },
   "research": {
     "homepage_directions": [],
@@ -59,7 +59,7 @@
   "publications": {
     "source": "arxiv",
     "source_url": "http://faculty.ustc.edu.cn/chenchang/zh_CN/lwcg/91244/list/index.htm",
-    "source_note": "DBLP:0 OR:0 arXiv:10",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
     "total_count": null,
     "h_index": null,
     "recent": [
@@ -543,7 +543,7 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-13T00:47:30.938114",
+    "fetched_at": "2026-06-13T00:59:15.490250",
     "web_search_done": true,
     "papers_fetched": true
   },
@@ -564,11 +564,5 @@
     ],
     "notes": "与陈卫东同实验室，密切合作。"
   },
-  "auto_tags_from_papers": [
-    "Circuit/IC",
-    "Computer Vision",
-    "Embodied AI",
-    "LLM/MLLM",
-    "Robotics"
-  ]
+  "auto_tags_from_papers": []
 }

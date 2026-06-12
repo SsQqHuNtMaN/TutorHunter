@@ -47,7 +47,7 @@
       "Speech/Audio"
     ],
     "is_recruiting": true,
-    "last_updated": "2026-06-13T00:47:30.891658"
+    "last_updated": "2026-06-13T00:59:14.484448"
   },
   {
     "id": "ustc-sist-caoyang",
@@ -77,7 +77,7 @@
       "Security"
     ],
     "is_recruiting": null,
-    "last_updated": "2026-06-13T00:47:30.928569"
+    "last_updated": "2026-06-13T00:59:14.845517"
   },
   {
     "id": "ustc-sist-caoyang1",
@@ -129,7 +129,7 @@
       "Multimodal"
     ],
     "is_recruiting": true,
-    "last_updated": "2026-06-13T00:47:30.938516"
+    "last_updated": "2026-06-13T00:59:15.157857"
   },
   {
     "id": "ustc-sist-chazhengjun",
@@ -181,7 +181,7 @@
       "Signal Processing"
     ],
     "is_recruiting": true,
-    "last_updated": "2026-06-13T00:47:30.938114"
+    "last_updated": "2026-06-13T00:59:15.490250"
   },
   {
     "id": "ustc-sist-chenhe",
@@ -207,7 +207,7 @@
       "Wireless/Comm"
     ],
     "is_recruiting": null,
-    "last_updated": "2026-06-13T00:47:30.907309"
+    "last_updated": "2026-06-13T00:59:16.501105"
   },
   {
     "id": "ustc-sist-chenli",
@@ -239,7 +239,7 @@
       "Wireless"
     ],
     "is_recruiting": true,
-    "last_updated": "2026-06-13T00:47:35.601597"
+    "last_updated": "2026-06-13T00:59:18.514026"
   },
   {
     "id": "ustc-sist-chenli1",
@@ -285,7 +285,7 @@
       "Vibration"
     ],
     "is_recruiting": null,
-    "last_updated": "2026-06-13T00:47:35.504227"
+    "last_updated": "2026-06-13T00:59:18.848341"
   },
   {
     "id": "ustc-sist-chenshuangwu",
@@ -314,7 +314,7 @@
       "Security"
     ],
     "is_recruiting": true,
-    "last_updated": "2026-06-13T00:47:35.874843"
+    "last_updated": "2026-06-13T00:59:19.309962"
   },
   {
     "id": "ustc-sist-chenweidong",
@@ -345,7 +345,7 @@
       "Speech/Audio"
     ],
     "is_recruiting": true,
-    "last_updated": "2026-06-13T00:47:35.883136"
+    "last_updated": "2026-06-13T00:59:19.568423"
   },
   {
     "id": "ustc-sist-chenweidong1",
@@ -957,7 +957,7 @@
       "Deep Learning"
     ],
     "is_recruiting": null,
-    "last_updated": "2026-06-13T12:00:00Z"
+    "last_updated": "2026-06-13T00:59:20.693864"
   },
   {
     "id": "ustc-sist-kanzhen",
@@ -1102,14 +1102,9 @@
       "en": "School of Information Science and Technology"
     },
     "region": "mainland_china",
-    "research_tags": [
-      "Multimodal",
-      "Computer Vision",
-      "Video",
-      "LLM/MLLM"
-    ],
+    "research_tags": [],
     "is_recruiting": null,
-    "last_updated": "2026-06-13T12:00:00Z"
+    "last_updated": ""
   },
   {
     "id": "ustc-sist-lihui1234",
@@ -1192,12 +1187,12 @@
     },
     "region": "mainland_china",
     "research_tags": [
-      "Speech/Audio",
       "Deep Learning",
-      "Generative AI"
+      "Generative AI",
+      "Speech/Audio"
     ],
     "is_recruiting": null,
-    "last_updated": "2026-06-13T12:00:00Z"
+    "last_updated": "2026-06-13T00:59:22.893755"
   },
   {
     "id": "ustc-sist-lishangbin",
@@ -2289,11 +2284,11 @@
     "region": "mainland_china",
     "research_tags": [
       "Control Systems",
-      "Robotics",
-      "Optimization"
+      "Optimization",
+      "Robotics"
     ],
     "is_recruiting": null,
-    "last_updated": "2026-06-13T12:00:00Z"
+    "last_updated": "2026-06-13T00:59:23.996170"
   },
   {
     "id": "ustc-sist-wangyujie",
@@ -3273,7 +3268,7 @@
       "Robotics"
     ],
     "is_recruiting": null,
-    "last_updated": "2026-06-13T00:47:35.728993"
+    "last_updated": "2026-06-13T00:59:23.512171"
   },
   {
     "id": "ustc-sist-zhengquan1",

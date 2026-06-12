@@ -50,8 +50,27 @@ def curl(url, timeout=15):
     except:
         return ''
 
+def name_match_score(candidate_name, target_name):
+    """Score how well a DBLP author name matches the target. Returns 0-100."""
+    c = candidate_name.lower().replace('  ', ' ')
+    t = target_name.lower()
+    # Direct match
+    if c == t: return 100
+    # Split into parts
+    c_parts = set(c.split())
+    t_parts = set(t.split())
+    common = c_parts & t_parts
+    if not common: return 0
+    # Score based on common parts
+    score = len(common) / max(len(t_parts), 1) * 80
+    # Bonus for matching first and last name
+    t_first, t_last = t.split()[0] if t.split() else '', t.split()[-1] if t.split() else ''
+    if t_last and t_last in c: score += 15
+    if t_first and t_first in c: score += 5
+    return min(score, 100)
+
 def search_dblp(name_en):
-    """Search DBLP for an author, return (pid_url, papers)"""
+    """Search DBLP for an author, return (pid_url, papers). Uses name matching to avoid wrong authors."""
     papers = []
     pid_url = None
     try:
@@ -64,10 +83,26 @@ def search_dblp(name_en):
         hits = data.get('result', {}).get('hits', {}).get('hit', [])
         if not hits: return None, []
 
-        # Take first match
-        info = hits[0].get('info', {})
+        # Try to find best matching author (not just first)
+        best_hit = None
+        best_score = 0
+        for h in hits[:10]:
+            info = h.get('info', {})
+            author_name = info.get('author', '')
+            url_str = info.get('url', '')
+            if not url_str or 'pid' not in url_str: continue
+            score = name_match_score(author_name, name_en)
+            if score > best_score:
+                best_score = score
+                best_hit = info
+
+        # Require minimum match score to avoid wrong authors
+        if not best_hit or best_score < 50:
+            return None, []
+
+        info = best_hit
         pid_url = info.get('url', '')
-        if not pid_url or 'pid' not in pid_url: return None, []
+        if not pid_url: return None, []
 
         # Step 2: Fetch papers
         xml = curl(pid_url + '.xml')
@@ -101,10 +136,11 @@ def search_dblp(name_en):
         return pid_url, papers
 
 def search_openreview(name_en):
-    """Search OpenReview for papers"""
+    """Search OpenReview for papers — use name+USTC to reduce noise"""
     papers = []
     try:
-        q = urllib.request.quote(name_en)
+        # Add institution context to reduce false matches
+        q = urllib.request.quote(f'{name_en} USTC')
         html = curl(f'https://api2.openreview.net/notes/search?term={q}&limit=15')
         if not html: return []
 
@@ -134,11 +170,13 @@ def search_openreview(name_en):
         return papers
 
 def search_arxiv(name_en):
-    """Search arXiv for papers"""
+    """Search arXiv for papers — use name+USTC format"""
     papers = []
     try:
-        q = urllib.request.quote(name_en.replace(' ', '_'))
-        xml = curl(f'http://export.arxiv.org/api/query?search_query=au:{q}&start=0&max_results=10&sortBy=lastUpdatedDate&sortOrder=descending')
+        # Include both name variants in search
+        name_parts = name_en.replace(' ', '_')
+        q = urllib.request.quote(f'au:{name_parts}+AND+all:USTC')
+        xml = curl(f'http://export.arxiv.org/api/query?search_query={q}&start=0&max_results=10&sortBy=lastUpdatedDate&sortOrder=descending')
         if not xml: return []
 
         entries = re.findall(r'<entry>(.*?)</entry>', xml, re.DOTALL)

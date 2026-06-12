@@ -55,9 +55,9 @@
     ]
   },
   "publications": {
-    "source": "openreview+arxiv",
+    "source": "openreview",
     "source_url": "https://ieeexplore.ieee.org/author/37086348873",
-    "source_note": "DBLP:0 OR:1 arXiv:10",
+    "source_note": "DBLP:0 OR:1 arXiv:0",
     "total_count": 60,
     "h_index": null,
     "recent": [
@@ -518,7 +518,7 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-13T00:47:30.891658",
+    "fetched_at": "2026-06-13T00:59:14.484448",
     "web_search_done": true,
     "dblp_fetched": true,
     "openreview_fetched": true,
@@ -539,9 +539,5 @@
     ],
     "notes": "邮箱/研究方向/论文数从WebSearch验证。Google Scholar待确认。"
   },
-  "auto_tags_from_papers": [
-    "Speech/Audio",
-    "Biomedical",
-    "Circuit/IC"
-  ]
+  "auto_tags_from_papers": []
 }

@@ -58,7 +58,7 @@
   "publications": {
     "source": "arxiv",
     "source_url": null,
-    "source_note": "DBLP:0 OR:0 arXiv:8",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
     "total_count": 40,
     "h_index": null,
     "recent": [
@@ -552,7 +552,7 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-13T00:47:35.874843",
+    "fetched_at": "2026-06-13T00:59:19.309962",
     "web_search_done": true,
     "papers_fetched": true
   },
@@ -573,10 +573,5 @@
     ],
     "notes": "原主页职称缺失，WebSearch确认为副教授/副研究员。"
   },
-  "auto_tags_from_papers": [
-    "Networking",
-    "Computer Vision",
-    "LLM/MLLM",
-    "Biomedical"
-  ]
+  "auto_tags_from_papers": []
 }

@@ -33,8 +33,8 @@
     ],
     "tags": [
       "Control Systems",
-      "Robotics",
-      "Optimization"
+      "Optimization",
+      "Robotics"
     ],
     "summary": {
       "zh": "王永，教授、博导，副院长。1978年中科大少年班。2024安徽省最美科技工作者。",
@@ -43,7 +43,7 @@
   },
   "publications": {
     "source": "web_search",
-    "source_note": "WebSearch+百度百科",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
     "recent": [
       {
         "title": "Event-triggered finite-time formation tracking of multi-agent systems",
@@ -84,10 +84,12 @@
   ],
   "_sources": {
     "web_search_done": true,
-    "fetched_at": "2026-06-13T12:00:00Z"
+    "fetched_at": "2026-06-13T00:59:23.996170",
+    "papers_fetched": true
   },
   "_quality": {
     "overall": "medium",
     "notes": "重要教授。邮箱非JS加密。"
-  }
+  },
+  "auto_tags_from_papers": []
 }

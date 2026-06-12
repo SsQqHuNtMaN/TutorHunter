@@ -61,7 +61,7 @@
   "publications": {
     "source": "arxiv",
     "source_url": "https://scholar.google.ca/citations?user=2282PT8AAAAJ",
-    "source_note": "DBLP:0 OR:0 arXiv:10",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
     "total_count": null,
     "h_index": null,
     "recent": [
@@ -641,7 +641,7 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-13T00:47:35.601597",
+    "fetched_at": "2026-06-13T00:59:18.514026",
     "web_search_done": true,
     "papers_fetched": true
   },
@@ -662,11 +662,5 @@
     ],
     "notes": "Google Scholar已确认。原标注\"讲师\"，实际为特任教授/副教授。"
   },
-  "auto_tags_from_papers": [
-    "Embodied AI",
-    "Biomedical",
-    "Circuit/IC",
-    "Computer Vision",
-    "Robotics"
-  ]
+  "auto_tags_from_papers": []
 }

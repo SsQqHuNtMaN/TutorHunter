@@ -47,11 +47,12 @@
   },
   "publications": {
     "source": "web_search",
-    "source_note": "IEEE Xplore有收录，具体列表待补充",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
     "top_venues": [
       "IEEE Trans",
       "Neurocomputing"
-    ]
+    ],
+    "recent": []
   },
   "students": {
     "inferred_from_papers": [],
@@ -77,10 +78,12 @@
   "awards": [],
   "_sources": {
     "web_search_done": true,
-    "fetched_at": "2026-06-13T12:00:00Z"
+    "fetched_at": "2026-06-13T00:59:20.693864",
+    "papers_fetched": true
   },
   "_quality": {
     "overall": "low",
     "notes": "待进一步搜索论文详情。"
-  }
+  },
+  "auto_tags_from_papers": []
 }

@@ -57,7 +57,7 @@
   "publications": {
     "source": "arxiv",
     "source_url": "https://xueshu.baidu.com/scholarID/CN-BW7384KJ",
-    "source_note": "DBLP:0 OR:0 arXiv:10",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
     "total_count": 46,
     "h_index": 13,
     "recent": [
@@ -680,7 +680,7 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-13T00:47:30.928569",
+    "fetched_at": "2026-06-13T00:59:14.845517",
     "web_search_done": true,
     "papers_fetched": true
   },
@@ -699,11 +699,5 @@
     ],
     "notes": "⚠️ 重名警告：USTC有两位曹洋。此为自动化系曹洋。"
   },
-  "auto_tags_from_papers": [
-    "Biomedical",
-    "Circuit/IC",
-    "LLM/MLLM",
-    "Security",
-    "Robotics"
-  ]
+  "auto_tags_from_papers": []
 }

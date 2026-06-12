@@ -59,7 +59,7 @@
   "publications": {
     "source": "arxiv",
     "source_url": "https://scholar.google.com/citations?user=8suupocAAAAJ",
-    "source_note": "DBLP:0 OR:0 arXiv:10",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
     "total_count": 150,
     "h_index": 35,
     "recent": [
@@ -825,7 +825,7 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-13T00:47:30.938516",
+    "fetched_at": "2026-06-13T00:59:15.157857",
     "web_search_done": true,
     "papers_fetched": true
   },
@@ -847,12 +847,5 @@
     ],
     "notes": "信息最完整。Scholar已确认，引用超2万次。"
   },
-  "auto_tags_from_papers": [
-    "Computer Vision",
-    "Biomedical",
-    "Multimodal",
-    "Embodied AI",
-    "LLM/MLLM",
-    "Circuit/IC"
-  ]
+  "auto_tags_from_papers": []
 }

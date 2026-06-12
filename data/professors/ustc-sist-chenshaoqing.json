@@ -52,7 +52,7 @@
   "publications": {
     "source": "arxiv",
     "source_url": "https://faculty.ustc.edu.cn/chenshaoqing/en/lwcg/229980/list/index.htm",
-    "source_note": "DBLP:0 OR:0 arXiv:3",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
     "total_count": null,
     "h_index": null,
     "recent": [
@@ -203,7 +203,7 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-13T00:47:35.504227",
+    "fetched_at": "2026-06-13T00:59:18.848341",
     "web_search_done": true,
     "papers_fetched": true
   },

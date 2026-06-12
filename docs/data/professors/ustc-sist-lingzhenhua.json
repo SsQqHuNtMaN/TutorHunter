@@ -37,9 +37,9 @@
       "speech enhancement"
     ],
     "tags": [
-      "Speech/Audio",
       "Deep Learning",
-      "Generative AI"
+      "Generative AI",
+      "Speech/Audio"
     ],
     "summary": {
       "zh": "凌震华，教授、博导，NERCSLIP智能语音团队负责人。2024年Interspeech 17篇+ICASSP 19篇。",
@@ -48,7 +48,7 @@
   },
   "publications": {
     "source": "web_search",
-    "source_note": "WebSearch; 2024: Interspeech 17 + ICASSP 19 = 36 papers",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
     "recent": [
       {
         "title": "NERCSLIP团队17篇论文被Interspeech 2024接收",
@@ -96,10 +96,12 @@
   "awards": [],
   "_sources": {
     "web_search_done": true,
-    "fetched_at": "2026-06-13T12:00:00Z"
+    "fetched_at": "2026-06-13T00:59:22.893755",
+    "papers_fetched": true
   },
   "_quality": {
     "overall": "medium",
     "notes": "2024年36篇顶会论文。艾杨也在此实验室。"
-  }
+  },
+  "auto_tags_from_papers": []
 }
