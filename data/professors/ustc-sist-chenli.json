@@ -46,20 +46,541 @@
       "en": "Li Chen, Professor/Associate Professor. Research: 6G/5G, ISAC, distributed ML, coded computing. NSFC Excellent Young Scientists Fund recipient. World Top 2% Scientists."
     },
     "tags": [
-      "Wireless",
       "6G",
-      "ISAC",
+      "Biomedical",
+      "Circuit/IC",
+      "Communications",
+      "Computer Vision",
       "Distributed ML",
-      "Communications"
+      "Embodied AI",
+      "ISAC",
+      "Robotics",
+      "Wireless"
     ]
   },
   "publications": {
-    "source": "google_scholar",
+    "source": "arxiv",
     "source_url": "https://scholar.google.ca/citations?user=2282PT8AAAAJ",
-    "source_note": "Google Scholar confirmed",
+    "source_note": "DBLP:0 OR:0 arXiv:10",
     "total_count": null,
     "h_index": null,
-    "recent": [],
+    "recent": [
+      {
+        "title": "RoboNaldo: Accurate, Stable and Powerful Humanoid Soccer Shooting via Motion-Guided Curriculum Reinforcement Learning",
+        "authors": [
+          {
+            "name": "Yichao Zhong",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yidan Lu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuhang Lu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Tianyang Tang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Haoguang Mai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yixuan Pan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Tianyu Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Li Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jingbo Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhongyu Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Peng Lu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hongyang Li",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "AGE-MIL: Anchor-Guided Evidence Learning for Patient-Level Prediction",
+        "authors": [
+          {
+            "name": "Jiawei Niu",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Jian Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Di Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Junbo Lu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhangcheng Liao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xuhao Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Honglin Zhong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Mireia Crispin-Ortuzar",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chen Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zeyu Gao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yi Cai",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "11 pages, 2 figures, MICCAI early accepted",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Martingale Solutions to a Stochastic Keller-Segel System with nonlocal Source and Super-linear Noise",
+        "authors": [
+          {
+            "name": "Qian Li",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Li Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jinhuan Wang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "41 pages",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "MBench: A Comprehensive Benchmark on Memory Capability for Video World Models",
+        "authors": [
+          {
+            "name": "Shengjun Zhang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Zhang Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Simin Huang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhenyu Tang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hanyang Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chensheng Dai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Min Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yifan Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuxin Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yingjie Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hao Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chen Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jing Lyu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yueqi Duan",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Project Page: https://peanutup.github.io/MBench-project/",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration",
+        "authors": [
+          {
+            "name": "Modi Shi",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Shijia Peng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jin Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Haoran Jiang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Tianyu Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Di Huang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ping Luo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hongyang Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Li Chen",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Project page: https://opendrivelab.com/EgoHumanoid",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "INTACT: Ego-Guided Typed Sparse Evidence Retrieval for Heterogeneous Collaborative Perception",
+        "authors": [
+          {
+            "name": "Chen Li",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Shengrong Yuan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jialong Zuo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xinzhong Zhu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Nong Sang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Changxin Gao",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "D2MDT: Department-aware Multidisciplinary Team Consultation with Deliberation for Efficient Clinical Prediction",
+        "authors": [
+          {
+            "name": "Yongqi Liang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Qidong Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chunze Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Lei Wu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jiusong Ge",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ni Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chen Li",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Preprint. 17 pages",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Reward Evolution with Graph-of-Thoughts: A Bi-Level Language Model Framework for Reinforcement Learning",
+        "authors": [
+          {
+            "name": "Changwei Yao",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Xinzi Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chen Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Marios Savvides",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Is Diversity All You Need for Scalable Robotic Manipulation?",
+        "authors": [
+          {
+            "name": "Modi Shi",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Li Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jin Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuxiang Lu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chiming Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Guanghui Ren",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ping Luo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Di Huang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Maoqing Yao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hongyang Li",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Code is available at https://github.com/OpenDriveLab/AgiBot-World",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "MATCH: Multi-faceted Adaptive Topo-Consistency for Semi-Supervised Histopathology Segmentation",
+        "authors": [
+          {
+            "name": "Meilong Xu",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Xiaoling Hu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shahira Abousamra",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chen Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chao Chen",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "20 pages, 6 figures. Accepted by NeurIPS 2025",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      }
+    ],
     "top_venues": [
       "IEEE TSP",
       "IEEE TCOM",
@@ -120,8 +641,9 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-12T23:40:08.068167",
-    "web_search_done": true
+    "fetched_at": "2026-06-13T00:47:35.601597",
+    "web_search_done": true,
+    "papers_fetched": true
   },
   "_quality": {
     "overall": "high",
@@ -139,5 +661,12 @@
       "publications_count"
     ],
     "notes": "Google Scholar已确认。原标注\"讲师\"，实际为特任教授/副教授。"
-  }
+  },
+  "auto_tags_from_papers": [
+    "Embodied AI",
+    "Biomedical",
+    "Circuit/IC",
+    "Computer Vision",
+    "Robotics"
+  ]
 }

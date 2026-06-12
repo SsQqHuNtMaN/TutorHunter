@@ -40,11 +40,14 @@
     "research_tags": [
       "AI",
       "Audio",
+      "Biomedical",
+      "Circuit/IC",
       "Signal Processing",
-      "Speech"
+      "Speech",
+      "Speech/Audio"
     ],
     "is_recruiting": true,
-    "last_updated": "2026-06-13T00:14:03.075825"
+    "last_updated": "2026-06-13T00:47:30.891658"
   },
   {
     "id": "ustc-sist-caoyang",
@@ -64,12 +67,17 @@
     },
     "region": "mainland_china",
     "research_tags": [
-      "CV",
       "AI",
-      "Deep Learning"
+      "Biomedical",
+      "CV",
+      "Circuit/IC",
+      "Deep Learning",
+      "LLM/MLLM",
+      "Robotics",
+      "Security"
     ],
     "is_recruiting": null,
-    "last_updated": "2026-06-12T23:40:08.068167"
+    "last_updated": "2026-06-13T00:47:30.928569"
   },
   {
     "id": "ustc-sist-caoyang1",
@@ -111,14 +119,17 @@
     "region": "mainland_china",
     "research_tags": [
       "AI",
+      "Biomedical",
       "CV",
+      "Circuit/IC",
       "Computer Vision",
       "Embodied AI",
       "LLM",
+      "LLM/MLLM",
       "Multimodal"
     ],
     "is_recruiting": true,
-    "last_updated": "2026-06-12T23:40:08.068167"
+    "last_updated": "2026-06-13T00:47:30.938516"
   },
   {
     "id": "ustc-sist-chazhengjun",
@@ -159,13 +170,18 @@
     },
     "region": "mainland_china",
     "research_tags": [
+      "Circuit/IC",
+      "Computer Vision",
+      "Embodied AI",
+      "Imaging",
+      "LLM/MLLM",
       "RF",
       "Radar",
-      "Signal Processing",
-      "Imaging"
+      "Robotics",
+      "Signal Processing"
     ],
     "is_recruiting": true,
-    "last_updated": "2026-06-12T23:40:08.068167"
+    "last_updated": "2026-06-13T00:47:30.938114"
   },
   {
     "id": "ustc-sist-chenhe",
@@ -184,9 +200,14 @@
       "en": "School of Information Science and Technology"
     },
     "region": "mainland_china",
-    "research_tags": [],
+    "research_tags": [
+      "Biomedical",
+      "Generative AI",
+      "LLM/MLLM",
+      "Wireless/Comm"
+    ],
     "is_recruiting": null,
-    "last_updated": "2026-06-12T23:40:08.068167"
+    "last_updated": "2026-06-13T00:47:30.907309"
   },
   {
     "id": "ustc-sist-chenli",
@@ -206,14 +227,19 @@
     },
     "region": "mainland_china",
     "research_tags": [
-      "Wireless",
       "6G",
-      "ISAC",
+      "Biomedical",
+      "Circuit/IC",
+      "Communications",
+      "Computer Vision",
       "Distributed ML",
-      "Communications"
+      "Embodied AI",
+      "ISAC",
+      "Robotics",
+      "Wireless"
     ],
     "is_recruiting": true,
-    "last_updated": "2026-06-12T23:40:08.068167"
+    "last_updated": "2026-06-13T00:47:35.601597"
   },
   {
     "id": "ustc-sist-chenli1",
@@ -254,12 +280,12 @@
     },
     "region": "mainland_china",
     "research_tags": [
+      "Automation",
       "Control",
-      "Vibration",
-      "Automation"
+      "Vibration"
     ],
     "is_recruiting": null,
-    "last_updated": "2026-06-12T23:40:08.068167"
+    "last_updated": "2026-06-13T00:47:35.504227"
   },
   {
     "id": "ustc-sist-chenshuangwu",
@@ -279,13 +305,16 @@
     },
     "region": "mainland_china",
     "research_tags": [
-      "Networking",
-      "Security",
+      "Biomedical",
+      "Communications",
+      "Computer Vision",
+      "LLM/MLLM",
       "ML",
-      "Communications"
+      "Networking",
+      "Security"
     ],
     "is_recruiting": true,
-    "last_updated": "2026-06-12T23:40:08.068167"
+    "last_updated": "2026-06-13T00:47:35.874843"
   },
   {
     "id": "ustc-sist-chenweidong",
@@ -305,13 +334,18 @@
     },
     "region": "mainland_china",
     "research_tags": [
-      "Radar",
+      "Biomedical",
+      "Circuit/IC",
+      "Computer Vision",
+      "Generative AI",
+      "Imaging",
       "Microwave",
+      "Radar",
       "Signal Processing",
-      "Imaging"
+      "Speech/Audio"
     ],
     "is_recruiting": true,
-    "last_updated": "2026-06-12T23:40:08.068167"
+    "last_updated": "2026-06-13T00:47:35.883136"
   },
   {
     "id": "ustc-sist-chenweidong1",
@@ -3208,19 +3242,22 @@
     },
     "region": "mainland_china",
     "research_tags": [
+      "3D Vision",
       "AI",
+      "Biomedical",
       "CV",
       "Computer Vision",
       "Deep Learning",
       "Generative AI",
       "Image Restoration",
+      "LLM/MLLM",
       "ML",
       "Multimodal",
       "Natural Language",
       "Robotics"
     ],
     "is_recruiting": null,
-    "last_updated": "2026-06-12T00:00:00Z"
+    "last_updated": "2026-06-13T00:47:35.728993"
   },
   {
     "id": "ustc-sist-zhengquan1",

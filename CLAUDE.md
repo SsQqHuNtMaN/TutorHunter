@@ -52,7 +52,7 @@ Phase C ─┼─ 后处理 + 自动部署
 | **WebSearch** | Claude 内置 | ⭐最佳 | 所有领域，知名度越高越准 |
 | **DBLP API** | `curl https://dblp.org/pid/{pid}.xml` | ✅ 很好 | CS/EE领域，需唯一名称 |
 | **OpenReview API** | `curl https://api2.openreview.net/notes/search?term=...` | ✅ 可用 | ML会议 (NeurIPS/ICML/ICLR) |
-| **arXiv API** | `curl http://export.arxiv.org/api/query?...` | ⚠️ 待验证 | 预印本 |
+| **arXiv API** | `curl http://export.arxiv.org/api/query?search_query=au:{name}` | ✅ 可用 | 预印本 |
 | **Google Scholar** | ❌ WebFetch 阻止 | 不可用 | — |
 | **Semantic Scholar** | ❌ API 空返回 | 不可用 | — |
 | **Google Scholar MCP** | 需 `pip install google-scholar-mcp-server` | ⚠️ 需权限 | 可直接搜索Scholar |
@@ -64,6 +64,22 @@ Phase C ─┼─ 后处理 + 自动部署
 - curl 必须用 `capture_output=True` + `.decode('utf-8', errors='replace')` 避免编码问题
 - 常见中文名重名严重（Li Chen 有几十个），需要用单位筛选
 - 非CS领域（控制、振动）不被DBLP收录
+
+### 多渠道论文搜集（collect_papers.py）
+
+```bash
+python scripts/collect_papers.py  # 5线程并发，DBLP+OpenReview+arXiv
+```
+
+**去重策略**：按标题归一化（小写+去标点+前60字符）去重。
+
+**执行流程**：
+1. DBLP: 搜索作者 → 取第一个匹配 → 获取论文XML → 筛选 year>=2024
+2. OpenReview: 搜索作者名 → 获取notes → 筛选 year>=2024
+3. arXiv: 搜索作者名 → 解析XML → 筛选 year>=2024
+4. 合并去重 → 生成研究方向标签 → 写入JSON
+
+**注意**：DBLP 名称歧义严重（Li Chen 几十个），只取第一个匹配；OpenReview 仅覆盖 ML 会议；arXiv 仅预印本。
 
 ### USTC 主页系统特征
 - 4+ 种 CMS 模板：jszwmb02, jszwmb08, jszw40, 自定义模板

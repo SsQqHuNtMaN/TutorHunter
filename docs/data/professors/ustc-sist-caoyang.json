@@ -22,7 +22,7 @@
     "office": null,
     "homepage_url": "http://faculty.ustc.edu.cn/caoyang1/zh_CN/index.htm",
     "scholar_url": null,
-    "dblp_url": null
+    "dblp_url": "https://dblp.org/pid/66/950"
   },
   "research": {
     "homepage_directions": [],
@@ -44,18 +44,584 @@
       "en": "Yang Cao, Associate Professor. Research: computer vision, deep learning. Baidu Scholar: 890 citations, H=13."
     },
     "tags": [
-      "CV",
       "AI",
-      "Deep Learning"
+      "Biomedical",
+      "CV",
+      "Circuit/IC",
+      "Deep Learning",
+      "LLM/MLLM",
+      "Robotics",
+      "Security"
     ]
   },
   "publications": {
-    "source": "baidu_scholar",
+    "source": "arxiv",
     "source_url": "https://xueshu.baidu.com/scholarID/CN-BW7384KJ",
-    "source_note": "百度学术; Google Scholar待确认",
+    "source_note": "DBLP:0 OR:0 arXiv:10",
     "total_count": 46,
     "h_index": 13,
-    "recent": [],
+    "recent": [
+      {
+        "title": "Back on Track: Aligning Rewards and States for Reasoning in Diffusion Large Language Models",
+        "authors": [
+          {
+            "name": "Yawen Shao",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Jie Xiao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Kai Zhu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yu Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hongchen Luo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xueyang Fu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Wei Zhai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zheng-Jun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Beyond Fixed Rounds: Data-Free Early Stopping for Practical Federated Learning",
+        "authors": [
+          {
+            "name": "Youngjoon Lee",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Hyukjoon Lee",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Seungrok Jung",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Andy Luo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jinu Gong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Joonhyuk Kang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Under Review",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Near-Field Coupling of Polypropylene Dielectric Waveguide Routed Near PCB Board at Terahertz Frequencies",
+        "authors": [
+          {
+            "name": "Wenbo Liu",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Jiabiao Zhao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Kefeng Huang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Peian Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Boquan Xu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Weidong Hu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jianjun Ma",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Submitted to Nano Communication Networks",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "CLFEC: A New Task for Unified Linguistic and Factual Error Correction in paragraph-level Chinese Professional Writing",
+        "authors": [
+          {
+            "name": "Jian Kai",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Zidong Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jiwen Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhengxiang Wu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Songtao Sun",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Fuyang Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Qiang Liu",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Stepwise Reasoning Enhancement for LLMs via External Subgraph Generation",
+        "authors": [
+          {
+            "name": "Xin Zhang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Baoxing Wu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Kai Song",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Siying Li",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "SeClaw: Spec-Driven Security Task Synthesis for Evaluating Autonomous Agents",
+        "authors": [
+          {
+            "name": "Hao Cheng",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Changtao Miao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Tianle Song",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yin Wu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "He Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Erjia Xiao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Junchi Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaoyu Shi",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yichi Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jing Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Taowen Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jinhao Duan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Mengshu Sun",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Peiyan Dong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xuan Shen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Renjing Xu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Kaidi Xu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jindong Gu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Bo Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jize Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chenhao Lin",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Philip Torr",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chao Shen",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Vector Linking via Cross-Model Local Isometric Consistency",
+        "authors": [
+          {
+            "name": "Ziying Chen",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "He Sun",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Beining Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Tianjian Yang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Accepted at ICML 2026",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Multi-Adapter Representation Interventions via Energy Calibration",
+        "authors": [
+          {
+            "name": "Manjiang Yu",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Hongji Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Junwei Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xue Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Priyanka Singh",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Lijie Hu",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Accepted by ICML 2026",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Tail-Aware HiFloat4: W4A4 Post-Training Quantization for Wan2.2",
+        "authors": [
+          {
+            "name": "Zhanfeng Feng",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Shuai Guo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xin Di",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Long Peng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations",
+        "authors": [
+          {
+            "name": "Kaichen Zhou",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Xinhai Chang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Taewhan Kim",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jiadong Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chufei Peng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Fangneng Zhan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hao Zhao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hao Dong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Kai Ming Ting",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ye Zhu",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2024,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      }
+    ],
     "top_venues": []
   },
   "students": {
@@ -114,11 +680,12 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-12T23:40:08.068167",
-    "web_search_done": true
+    "fetched_at": "2026-06-13T00:47:30.928569",
+    "web_search_done": true,
+    "papers_fetched": true
   },
   "_quality": {
-    "overall": "medium",
+    "overall": "high",
     "verified_via_multiple_sources": [
       "name",
       "email",
@@ -131,5 +698,12 @@
       "phone"
     ],
     "notes": "⚠️ 重名警告：USTC有两位曹洋。此为自动化系曹洋。"
-  }
+  },
+  "auto_tags_from_papers": [
+    "Biomedical",
+    "Circuit/IC",
+    "LLM/MLLM",
+    "Security",
+    "Robotics"
+  ]
 }

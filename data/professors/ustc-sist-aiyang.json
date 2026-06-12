@@ -47,14 +47,17 @@
     "tags": [
       "AI",
       "Audio",
+      "Biomedical",
+      "Circuit/IC",
       "Signal Processing",
-      "Speech"
+      "Speech",
+      "Speech/Audio"
     ]
   },
   "publications": {
-    "source": "dblp+openreview",
+    "source": "openreview+arxiv",
     "source_url": "https://ieeexplore.ieee.org/author/37086348873",
-    "source_note": "DBLP API + OpenReview API; 0 from DBLP, 1 from OpenReview",
+    "source_note": "DBLP:0 OR:1 arXiv:10",
     "total_count": 60,
     "h_index": null,
     "recent": [
@@ -67,6 +70,386 @@
         "url": "https://ieeexplore.ieee.org/author/37086348873",
         "citations": null,
         "source": "dblp+openreview"
+      },
+      {
+        "title": "Beyond WER: A Paired Acoustic Stress Test for Ambient Clinical Scribes",
+        "authors": [
+          {
+            "name": "Xiao-Hang Jiang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Han-Jie Guo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ying-Si Liang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Ai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhen-Hua Ling",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Lei Jiang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhi-Yang He",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Accepted to INTERSPEECH 2026",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "VoCodec: A Low-bitrate Streamable Neural Speech Codec with Voicing-driven Quantization",
+        "authors": [
+          {
+            "name": "Xiao-Hang Jiang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yang Ai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Rui-Chen Zheng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Li-Rong Dai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhen-Hua Ling",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ji Wu",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Accepted to INTERSPEECH 2026",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "An Ultra-Low-Bitrate Neural Speech Codec with Plain-to-Pseudo Synergistic Vector Quantization",
+        "authors": [
+          {
+            "name": "Xiao-Hang Jiang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yang Ai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Fei Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Rui-Chen Zheng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jian-Qing Gao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhen-Hua Ling",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ji Wu",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Accepted to INTERSPEECH 2026",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "UniVocal: Unified Speech-Singing Code-Switching Synthesis",
+        "authors": [
+          {
+            "name": "Yufei Shi",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Qian Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Wen Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiangang Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhen-Hua Ling",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Ai",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "accepted by ACL 2026",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "CFMDCTCodec: A Low-Bitrate Neural Speech Codec with Noise-Prior-aware Conditional Flow Matching for MDCT-Spectral Enhancement",
+        "authors": [
+          {
+            "name": "Xiao-Hang Jiang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yang Ai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hui-Peng Du",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhen-Hua Ling",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ji Wu",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Accepted by IEEE Transactions on Audio, Speech and Language Processing",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Ultra-Low-Bitrate Mel-Spectrogram-based Neural Speech Coding with Flow-Matching-based Refinement and Vocoding-driven Reconstruction",
+        "authors": [
+          {
+            "name": "Hui-Peng Du",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yang Ai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiao-Hang Jiang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuan Tian",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhen-Hua Ling",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Published at IEEE/ACM Transactions on Audio, Speech, and Language Processing",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "LatentFlowSR: High-Fidelity Audio Super-Resolution via Noise-Robust Latent Flow Matching",
+        "authors": [
+          {
+            "name": "Fei Liu",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yang Ai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hui-Peng Du",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yu-Fei Shi",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhen-Hua Ling",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "ParaGSE: Parallel Generative Speech Enhancement with Group-Vector-Quantization-based Neural Speech Codec",
+        "authors": [
+          {
+            "name": "Fei Liu",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yang Ai",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Accepted by ICASSP 2026",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "CodeSep: Low-Bitrate Codec-Driven Speech Separation with Base-Token Disentanglement and Auxiliary-Token Serial Prediction",
+        "authors": [
+          {
+            "name": "Hui-Peng Du",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yang Ai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiao-Hang Jiang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Rui-Chen Zheng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhen-Hua Ling",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Accepted by ICASSP 2026",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "DAIEN-TTS: Disentangled Audio Infilling for Environment-Aware Text-to-Speech Synthesis",
+        "authors": [
+          {
+            "name": "Ye-Xin Lu",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yu Gu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Kun Wei",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hui-Peng Du",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Ai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhen-Hua Ling",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Accepted by ICASSP 2026",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
       }
     ],
     "top_venues": [
@@ -135,13 +518,14 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-13T00:14:03.075825",
+    "fetched_at": "2026-06-13T00:47:30.891658",
     "web_search_done": true,
     "dblp_fetched": true,
-    "openreview_fetched": true
+    "openreview_fetched": true,
+    "papers_fetched": true
   },
   "_quality": {
-    "overall": "medium",
+    "overall": "high",
     "verified_via_multiple_sources": [
       "name",
       "title",
@@ -155,5 +539,9 @@
     ],
     "notes": "邮箱/研究方向/论文数从WebSearch验证。Google Scholar待确认。"
   },
-  "auto_tags_from_papers": []
+  "auto_tags_from_papers": [
+    "Speech/Audio",
+    "Biomedical",
+    "Circuit/IC"
+  ]
 }

@@ -44,18 +44,102 @@
       "en": "Shaoqing Chen, Engineer, PhD (USTC Automation). Research: active vibration control, magnetic levitation, ADRC."
     },
     "tags": [
+      "Automation",
       "Control",
-      "Vibration",
-      "Automation"
+      "Vibration"
     ]
   },
   "publications": {
-    "source": "homepage",
+    "source": "arxiv",
     "source_url": "https://faculty.ustc.edu.cn/chenshaoqing/en/lwcg/229980/list/index.htm",
-    "source_note": "主页论文列表",
+    "source_note": "DBLP:0 OR:0 arXiv:3",
     "total_count": null,
     "h_index": null,
-    "recent": [],
+    "recent": [
+      {
+        "title": "Remarks on Linear Growth of Vorticity Gradients and Support Diameters for 2D Euler Flow in Half-Plane",
+        "authors": [
+          {
+            "name": "Shaoqing Chen",
+            "role": "first_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yongzhong Sun",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Bistability and Noise-Induced Evasion in Tumor-Immune Dynamics with Antigen Accumulation and Immune Escape",
+        "authors": [
+          {
+            "name": "Mengfan Tan",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Shaoqing Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chunjin Wei",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Da Zhou",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "24 pages, 14 figures",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Fixed-budget simulation method for growing cell populations",
+        "authors": [
+          {
+            "name": "Shaoqing Chen",
+            "role": "first_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhou Fang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zheng Hu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Da Zhou",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "30 pages,2 figures",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      }
+    ],
     "top_venues": []
   },
   "students": {
@@ -119,8 +203,9 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-12T23:40:08.068167",
-    "web_search_done": true
+    "fetched_at": "2026-06-13T00:47:35.504227",
+    "web_search_done": true,
+    "papers_fetched": true
   },
   "_quality": {
     "overall": "medium",
@@ -137,5 +222,6 @@
       "student_destinations"
     ],
     "notes": "控制工程/自动化方向，非传统电子工程。"
-  }
+  },
+  "auto_tags_from_papers": []
 }

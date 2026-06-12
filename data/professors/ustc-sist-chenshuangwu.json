@@ -46,19 +46,441 @@
       "en": "Shuangwu Chen, Associate Professor, PhD. Research: intelligent networking, ML, network security. 40+ IEEE Trans papers. Anhui S&T Progress First Prize (2022)."
     },
     "tags": [
-      "Networking",
-      "Security",
+      "Biomedical",
+      "Communications",
+      "Computer Vision",
+      "LLM/MLLM",
       "ML",
-      "Communications"
+      "Networking",
+      "Security"
     ]
   },
   "publications": {
-    "source": "homepage",
+    "source": "arxiv",
     "source_url": null,
-    "source_note": "IEEE汇刊论文40余篇; ICOIN/SecureComm最佳论文",
+    "source_note": "DBLP:0 OR:0 arXiv:8",
     "total_count": 40,
     "h_index": null,
-    "recent": [],
+    "recent": [
+      {
+        "title": "Rethinking Stepwise Model Routing: A Cost-Efficient Table Reasoning Perspective",
+        "authors": [
+          {
+            "name": "Shenghao Ye",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yuxiang Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yu Guo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Dong Jin",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shuangwu Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jian Yang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "17pages, 15 figures, submitted to EMNLP 2026",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Rubric-Guided Process Reward for Stepwise Model Routing",
+        "authors": [
+          {
+            "name": "Shenghao Ye",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yu Guo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhengheng Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shuangwu Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jian Yang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "17 pages, 9 figures, submitted to EMNLP 2026",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Rethinking Table Pruning in TableQA: From Sequential Revisions to Gold Trajectory-Supervised Parallel Search",
+        "authors": [
+          {
+            "name": "Yu Guo",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Shenghao Ye",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shuangwu Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zijian Wen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Tao Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Qirui Bai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Dong Jin",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yunpeng Hou",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Huasen He",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jian Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaobin Tan",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "17 pages, 5 figures, accepted to ACL 2026 Oral",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models",
+        "authors": [
+          {
+            "name": "Qihui Zhu",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Tao Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuchen Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zijian Wen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Mengjie Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shuangwu Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaobin Tan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jian Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhenhua Dong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xianzhi Yu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yinfei Pan",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "CVPR 2026",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Bridging Network Fragmentation: A Semantic-Augmented DRL Framework for UAV-aided VANETs",
+        "authors": [
+          {
+            "name": "Gaoxiang Cao",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Wenke Yuan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Huasen He",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yunpeng Hou",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaofeng Jiang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shuangwu Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jian Yang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "13 pages, 13 figures. Submitted to IEEE Transactions on Cognitive Communications",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "HardSecBench: Benchmarking the Security Awareness of LLMs for Hardware Code Generation",
+        "authors": [
+          {
+            "name": "Qirui Chen",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Jingxian Shuai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shuangwu Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shenghao Ye",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zijian Wen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xufei Su",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jie Jin",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jiangming Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jun Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaobin Tan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jian Yang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "When TableQA Meets Noise: A Dual Denoising Framework for Complex Questions and Large-scale Tables",
+        "authors": [
+          {
+            "name": "Shenghao Ye",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yu Guo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Dong Jin",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yikai Shen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yunpeng Hou",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shuangwu Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jian Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaofeng Jiang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "24 pages, 24 figures, accepted to ACL 2026 Main",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "SQLForge: Synthesizing Reliable and Diverse Data to Enhance Text-to-SQL Reasoning in LLMs",
+        "authors": [
+          {
+            "name": "Yu Guo",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Dong Jin",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shenghao Ye",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shuangwu Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jian Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaobin Tan",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "12 pages, 7 figures, accepted to ACL Findings 2025",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      }
+    ],
     "top_venues": [
       "IEEE TCSVT"
     ]
@@ -130,11 +552,12 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-12T23:40:08.068167",
-    "web_search_done": true
+    "fetched_at": "2026-06-13T00:47:35.874843",
+    "web_search_done": true,
+    "papers_fetched": true
   },
   "_quality": {
-    "overall": "medium",
+    "overall": "high",
     "verified_via_multiple_sources": [
       "name",
       "title",
@@ -149,5 +572,11 @@
       "student_destinations"
     ],
     "notes": "原主页职称缺失，WebSearch确认为副教授/副研究员。"
-  }
+  },
+  "auto_tags_from_papers": [
+    "Networking",
+    "Computer Vision",
+    "LLM/MLLM",
+    "Biomedical"
+  ]
 }

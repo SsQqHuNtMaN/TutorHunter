@@ -22,7 +22,7 @@
     "office": "中科大高新校区一号学科楼 A449B",
     "homepage_url": "http://faculty.ustc.edu.cn/changxiaojun/zh_CN/index.htm",
     "scholar_url": "https://scholar.google.com/citations?user=8suupocAAAAJ",
-    "dblp_url": null
+    "dblp_url": "https://dblp.org/pid/116/8412"
   },
   "research": {
     "homepage_directions": [],
@@ -46,20 +46,583 @@
     },
     "tags": [
       "AI",
+      "Biomedical",
       "CV",
+      "Circuit/IC",
       "Computer Vision",
       "Embodied AI",
       "LLM",
+      "LLM/MLLM",
       "Multimodal"
     ]
   },
   "publications": {
-    "source": "web_search",
+    "source": "arxiv",
     "source_url": "https://scholar.google.com/citations?user=8suupocAAAAJ",
-    "source_note": "WebSearch获取; 150+ papers total, 20000+ citations",
+    "source_note": "DBLP:0 OR:0 arXiv:10",
     "total_count": 150,
     "h_index": 35,
     "recent": [
+      {
+        "title": "See, Plan, Rewind: Progress-Aware Vision-Language-Action Models for Robust Robotic Manipulation",
+        "authors": [
+          {
+            "name": "Tingjun Dai",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Mingfei Han",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Tingwen Du",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhiheng Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zihao Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhihui Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Salman Khan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jun Yu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Suggested to CVPR Findings. https://tingjundai.github.io/SPRVLA/",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "SRC-Flow: Compact Semantic Representations Enable Normalizing Flows for Image Generation",
+        "authors": [
+          {
+            "name": "Longtao Jiang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Jianmin Bao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhendong Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xin Tao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Pengfei Wan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhihui Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Zero-Shot Neural Network Evaluation with Sample-Wise Activation Patterns",
+        "authors": [
+          {
+            "name": "Yameng Peng",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Andy Song",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "HaythamM. Fayek",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Vic Ciesielski",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence. This",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Progressive Online Video Understanding with Evidence-Aligned Timing and Transparent Decisions",
+        "authors": [
+          {
+            "name": "Kecheng Zhang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Zongxin Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Mingfei Han",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Haihong Hao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yunzhi Zhuge",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Changlin Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Junhan Zhao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhihui Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Measuring Social Bias in Vision-Language Models with Face-Only Counterfactuals from Real Photos",
+        "authors": [
+          {
+            "name": "Haodong Chen",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Qiang Huang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jiaqi Zhao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Qiuping Jiang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jun Yu",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "18 pages, 18 figures, and 3 tables",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model",
+        "authors": [
+          {
+            "name": "Kaidong Zhang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Jian Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Rongtao Xu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yu Sun",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shuoshuo Xue",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Youpeng Wen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaoyu Guo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Minghao Guo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Weijia Liufu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Liu Zihou",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Kangyi Ji",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yangsong Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jiarun Zhu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jingzhi Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zihang Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ruiyi Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Meng Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jingming Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shen Zhao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Feng Zheng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ivan Laptev",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaodan Liang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "LatentPilot: Scene-Aware Vision-and-Language Navigation by Dreaming Ahead with Latent Visual Reasoning",
+        "authors": [
+          {
+            "name": "Haihong Hao",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Lei Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Mingfei Han",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Changlin Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Dong An",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuqiang Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhihui Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Project page:https://abdd.top/latentpilot/",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "FACE-net: Factual Calibration and Emotion Augmentation for Retrieval-enhanced Emotional Video Captioning",
+        "authors": [
+          {
+            "name": "Weidong Chen",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Cheng Ye",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhendong Mao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Peipei Song",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xinyan Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Lei Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yongdong Zhang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Submitted to TPAMI. 16 pages, 9 figures",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "EmoVerse: A MLLMs-Driven Emotion Representation Dataset for Interpretable Visual Emotion Analysis",
+        "authors": [
+          {
+            "name": "Yijie Guo",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Dexiang Hong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Weidong Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zihan She",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Cheng Ye",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhendong Mao",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "11 pages, 7 figures. This is a preprint version of a paper submitted to CVPR 202",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal Reasoning",
+        "authors": [
+          {
+            "name": "Yongxin Wang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Zhicheng Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Meng Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Mingfei Han",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Haokun Lin",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yingying Zhu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaodan Liang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
       {
         "title": "Simple Primitives With Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-Shot Learning",
         "authors": [
@@ -262,11 +825,12 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-12T23:40:08.068167",
-    "web_search_done": true
+    "fetched_at": "2026-06-13T00:47:30.938516",
+    "web_search_done": true,
+    "papers_fetched": true
   },
   "_quality": {
-    "overall": "medium",
+    "overall": "high",
     "verified_via_multiple_sources": [
       "name",
       "title",
@@ -284,6 +848,11 @@
     "notes": "信息最完整。Scholar已确认，引用超2万次。"
   },
   "auto_tags_from_papers": [
-    "Computer Vision"
+    "Computer Vision",
+    "Biomedical",
+    "Multimodal",
+    "Embodied AI",
+    "LLM/MLLM",
+    "Circuit/IC"
   ]
 }
