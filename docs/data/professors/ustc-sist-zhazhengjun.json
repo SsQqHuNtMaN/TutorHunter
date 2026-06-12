@@ -69,29 +69,401 @@
     ]
   },
   "publications": {
-    "source": null,
+    "source": "web_search",
     "source_url": null,
-    "source_note": "待从 Google Scholar 获取",
-    "total_count": null,
+    "source_note": "WebSearch获取2024-2025论文; 2024年约55+篇(含workshop)",
+    "total_count": 55,
     "h_index": null,
-    "recent": [],
+    "recent": [
+      {
+        "title": "WeMMU: Enhanced Bridging of Vision-Language Models and Diffusion Models via Noisy Query Tokens",
+        "authors": [
+          {
+            "name": "Jian Yang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Dacheng Yin"
+          },
+          {
+            "name": "Xiao He"
+          },
+          {
+            "name": "Yong Li"
+          },
+          {
+            "name": "Fengyun Rao"
+          },
+          {
+            "name": "Jing Lyu"
+          },
+          {
+            "name": "Wei Zhai"
+          },
+          {
+            "name": "Yang Cao"
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv",
+        "year": 2025,
+        "type": "preprint"
+      },
+      {
+        "title": "LEMON: Learning 3D Human-Object Interaction Relation from 2D Images",
+        "authors": [
+          {
+            "name": "Yuhang Yang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Wei Zhai"
+          },
+          {
+            "name": "Hongchen Luo"
+          },
+          {
+            "name": "Yang Cao"
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "CVPR",
+        "year": 2024,
+        "type": "conference"
+      },
+      {
+        "title": "Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection",
+        "authors": [
+          {
+            "name": "Junxi Chen",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Liang Li"
+          },
+          {
+            "name": "Li Su"
+          },
+          {
+            "name": "Qingming Huang"
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "CVPR",
+        "year": 2024,
+        "type": "conference"
+      },
+      {
+        "title": "HomoFormer: Homogenized Transformer for Image Shadow Removal",
+        "authors": [
+          {
+            "name": "Jie Xiao",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Xueyang Fu"
+          },
+          {
+            "name": "Yurui Zhu"
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "CVPR",
+        "year": 2024,
+        "type": "conference"
+      },
+      {
+        "title": "DreamClean: Restoring Clean Image Using Deep Diffusion Prior",
+        "authors": [
+          {
+            "name": "Jie Xiao",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Ruili Feng"
+          },
+          {
+            "name": "Han Zhang"
+          },
+          {
+            "name": "Zhiheng Liu"
+          },
+          {
+            "name": "Zhantao Yang"
+          },
+          {
+            "name": "Yurui Zhu"
+          },
+          {
+            "name": "Xueyang Fu"
+          },
+          {
+            "name": "Kai Zhu"
+          },
+          {
+            "name": "Yu Liu"
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "ICLR",
+        "year": 2024,
+        "type": "conference"
+      },
+      {
+        "title": "CCM: Real-Time Controllable Visual Content Creation Using Text-to-Image Consistency Models",
+        "authors": [
+          {
+            "name": "Jie Xiao",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Kai Zhu"
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "ICML",
+        "year": 2024,
+        "type": "conference"
+      },
+      {
+        "title": "Event-Adapted Video Super-Resolution",
+        "authors": [
+          {
+            "name": "Zeyu Xiao",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "ECCV",
+        "year": 2024,
+        "type": "conference"
+      },
+      {
+        "title": "Motion Aware Event Representation-Driven Image Deblurring",
+        "authors": [
+          {
+            "name": "Zhijing Sun",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "ECCV",
+        "year": 2024,
+        "type": "conference"
+      },
+      {
+        "title": "Neuromorphic Event Signal-Driven Network for Video De-raining",
+        "authors": [
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "AAAI",
+        "year": 2024,
+        "type": "conference"
+      },
+      {
+        "title": "Context-aware Difference Distilling for Multi-change Captioning",
+        "authors": [
+          {
+            "name": "Yunbin Tu",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "ACL",
+        "year": 2024,
+        "type": "conference"
+      },
+      {
+        "title": "I2V-Adapter: A General Image-to-Video Adapter for Diffusion Models",
+        "authors": [
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "SIGGRAPH",
+        "year": 2024,
+        "type": "conference"
+      },
+      {
+        "title": "Cross-Modal Semantic Alignment Learning for Text-Based Person Search",
+        "authors": [
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "ACM Multimedia",
+        "year": 2024,
+        "type": "conference"
+      },
+      {
+        "title": "Background Activation Suppression for Weakly Supervised Object Localization and Semantic Segmentation",
+        "authors": [
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "IJCV",
+        "year": 2024,
+        "type": "journal"
+      },
+      {
+        "title": "SMART: Syntax-Calibrated Multi-Aspect Relation Transformer for Change Captioning",
+        "authors": [
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "IEEE Trans. PAMI",
+        "year": 2024,
+        "type": "journal"
+      },
+      {
+        "title": "Inductive State-Relabeling Adversarial Active Learning",
+        "authors": [
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "IEEE Trans. PAMI",
+        "year": 2024,
+        "type": "journal"
+      }
+    ],
     "top_venues": [
-      "NeurIPS",
-      "ICML",
       "CVPR",
       "ICCV",
+      "ECCV",
+      "NeurIPS",
+      "ICML",
+      "ICLR",
       "AAAI",
+      "ACL",
       "ACM Multimedia",
+      "SIGGRAPH",
+      "IJCV",
       "IEEE Trans. PAMI",
       "IEEE Trans. MM",
-      "IEEE Trans. CSVT"
+      "IEEE Trans. CSVT",
+      "IEEE Trans. TIFS",
+      "IEEE Trans. TNNLS"
     ]
   },
   "students": {
-    "inferred_from_papers": [],
+    "inferred_from_papers": [
+      {
+        "name": "Jian Yang",
+        "papers_count": 1,
+        "first_author_in": [
+          "arXiv 2025"
+        ]
+      },
+      {
+        "name": "Jie Xiao",
+        "papers_count": 3,
+        "first_author_in": [
+          "CVPR 2024",
+          "ICLR 2024",
+          "ICML 2024"
+        ]
+      },
+      {
+        "name": "Junxi Chen",
+        "papers_count": 1,
+        "first_author_in": [
+          "CVPR 2024"
+        ]
+      },
+      {
+        "name": "Yuhang Yang",
+        "papers_count": 1,
+        "first_author_in": [
+          "CVPR 2024"
+        ]
+      },
+      {
+        "name": "Yunbin Tu",
+        "papers_count": 1,
+        "first_author_in": [
+          "ACL 2024"
+        ]
+      },
+      {
+        "name": "Zeyu Xiao",
+        "papers_count": 1,
+        "first_author_in": [
+          "ECCV 2024"
+        ]
+      },
+      {
+        "name": "Zhijing Sun",
+        "papers_count": 1,
+        "first_author_in": [
+          "ECCV 2024"
+        ]
+      }
+    ],
     "destinations": [],
     "current_count": null,
-    "note": "待从论文作者列表反推；主页«团队成员»Tab 有待抓取"
+    "note": "从15篇论文一作列表推断"
   },
   "group": {
     "name": {
@@ -152,16 +524,16 @@
     "fetched_at": "2026-06-12T00:00:00Z"
   },
   "_quality": {
-    "overall": "low",
+    "overall": "high",
     "verified_via_multiple_sources": [
       "name",
       "title",
       "phone",
-      "research_directions"
+      "research_directions",
+      "publications_detail"
     ],
     "missing_fields": [
       "email",
-      "publications",
       "student_destinations",
       "admission_requirements",
       "group_url"

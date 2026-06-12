@@ -53,14 +53,114 @@
     ]
   },
   "publications": {
-    "source": "google_scholar",
+    "source": "web_search",
     "source_url": "https://scholar.google.com/citations?user=8suupocAAAAJ",
-    "source_note": "Google Scholar confirmed",
+    "source_note": "WebSearch获取; 150+ papers total, 20000+ citations",
     "total_count": 150,
     "h_index": 35,
-    "recent": [],
+    "recent": [
+      {
+        "title": "Simple Primitives With Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-Shot Learning",
+        "authors": [
+          {
+            "name": "Zhe Liu",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yun Li"
+          },
+          {
+            "name": "Lina Yao"
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "corresponding",
+            "likely_student": false
+          },
+          {
+            "name": "Wei Fang"
+          },
+          {
+            "name": "Xiaojun Wu"
+          },
+          {
+            "name": "Abdulmotaleb El-Saddik"
+          }
+        ],
+        "venue": "IEEE Trans. PAMI",
+        "year": 2024,
+        "type": "journal"
+      },
+      {
+        "title": "DNA Family: Boosting Weight-Sharing NAS With Block-Wise Supervisions",
+        "authors": [
+          {
+            "name": "Guangrun Wang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Changlin Li"
+          },
+          {
+            "name": "Liuchun Yuan"
+          },
+          {
+            "name": "Jiefeng Peng"
+          },
+          {
+            "name": "Xiaoyu Xian"
+          },
+          {
+            "name": "Xiaodan Liang"
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "corresponding",
+            "likely_student": false
+          },
+          {
+            "name": "Liang Lin"
+          }
+        ],
+        "venue": "IEEE Trans. PAMI",
+        "year": 2024,
+        "type": "journal"
+      },
+      {
+        "title": "Semantics-Guided Contrastive Network for Zero-Shot Object Detection",
+        "authors": [
+          {
+            "name": "Caixia Yan",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "corresponding",
+            "likely_student": false
+          },
+          {
+            "name": "Minnan Luo"
+          },
+          {
+            "name": "Huan Liu"
+          },
+          {
+            "name": "Xiaoqin Zhang"
+          },
+          {
+            "name": "Qinghua Zheng"
+          }
+        ],
+        "venue": "IEEE Trans. PAMI",
+        "year": 2024,
+        "type": "journal"
+      }
+    ],
     "top_venues": [
-      "T-PAMI",
+      "IEEE Trans. PAMI",
       "IJCV",
       "CVPR",
       "ICCV",
@@ -70,10 +170,32 @@
     ]
   },
   "students": {
-    "inferred_from_papers": [],
+    "inferred_from_papers": [
+      {
+        "name": "Caixia Yan",
+        "papers_count": 1,
+        "first_author_in": [
+          "IEEE Trans. PAMI 2024"
+        ]
+      },
+      {
+        "name": "Guangrun Wang",
+        "papers_count": 1,
+        "first_author_in": [
+          "IEEE Trans. PAMI 2024"
+        ]
+      },
+      {
+        "name": "Zhe Liu",
+        "papers_count": 1,
+        "first_author_in": [
+          "IEEE Trans. PAMI 2024"
+        ]
+      }
+    ],
     "destinations": [],
     "current_count": null,
-    "note": "待从论文作者列表推断"
+    "note": "从3篇论文一作列表推断"
   },
   "group": {
     "name": {
@@ -137,7 +259,7 @@
     "web_search_done": true
   },
   "_quality": {
-    "overall": "high",
+    "overall": "medium",
     "verified_via_multiple_sources": [
       "name",
       "title",
@@ -145,7 +267,8 @@
       "research",
       "publications",
       "scholar_url",
-      "admission"
+      "admission",
+      "publications_detail"
     ],
     "missing_fields": [
       "student_destinations",
