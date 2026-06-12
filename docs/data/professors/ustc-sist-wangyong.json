@@ -2,9 +2,9 @@
   "id": "ustc-sist-wangyong",
   "name": {
     "zh": "王永",
-    "en": ""
+    "en": "Yong Wang"
   },
-  "title": "教授",
+  "title": "教授 / 博士生导师",
   "university": {
     "zh": "中国科学技术大学",
     "en": "USTC",
@@ -16,33 +16,47 @@
   },
   "region": "mainland_china",
   "contact": {
-    "email": null,
-    "email_note": "JS加密",
-    "phone": null,
-    "office": null,
-    "homepage_url": "http://faculty.ustc.edu.cn/wangyong/zh_CN/index.htm",
-    "scholar_url": null,
-    "dblp_url": null
+    "email": "yongwang@ustc.edu.cn",
+    "email_note": "WebSearch发现（非JS加密）"
   },
   "research": {
-    "homepage_directions": [],
-    "inferred_from_papers": [],
-    "inferred_from_papers_note": "待搜索",
-    "keywords": [],
+    "inferred_from_papers": [
+      "分数阶系统与控制",
+      "机器人控制",
+      "振动主动控制",
+      "飞行器制导"
+    ],
+    "keywords": [
+      "fractional order systems",
+      "robot control",
+      "vibration control"
+    ],
+    "tags": [
+      "Control Systems",
+      "Robotics",
+      "Optimization"
+    ],
     "summary": {
-      "zh": "",
-      "en": ""
-    },
-    "tags": []
+      "zh": "王永，教授、博导，副院长。1978年中科大少年班。2024安徽省最美科技工作者。",
+      "en": "Prof. Yong Wang, USTC Vice Dean. Fractional order systems, robotics."
+    }
   },
   "publications": {
-    "source": null,
-    "source_url": null,
-    "source_note": "待获取",
-    "total_count": null,
-    "h_index": null,
-    "recent": [],
-    "top_venues": []
+    "source": "web_search",
+    "source_note": "WebSearch+百度百科",
+    "recent": [
+      {
+        "title": "Event-triggered finite-time formation tracking of multi-agent systems",
+        "venue": "ISA Transactions",
+        "year": 2024,
+        "type": "journal",
+        "source": "web_search"
+      }
+    ],
+    "top_venues": [
+      "ISA Transactions",
+      "IEEE Trans Control"
+    ]
   },
   "students": {
     "inferred_from_papers": [],
@@ -64,21 +78,16 @@
     "source": "has_subpage"
   },
   "education": [],
-  "awards": [],
+  "awards": [
+    "安徽省最美科技工作者(2024)",
+    "中国自动化学会分数阶专委会主任(2025)"
+  ],
   "_sources": {
-    "homepage": "http://faculty.ustc.edu.cn/wangyong/zh_CN/index.htm",
-    "fetched_at": "2026-06-13T00:00:00Z"
+    "web_search_done": true,
+    "fetched_at": "2026-06-13T12:00:00Z"
   },
   "_quality": {
-    "overall": "low",
-    "verified_via_multiple_sources": [
-      "name"
-    ],
-    "missing_fields": [
-      "email",
-      "publications",
-      "research"
-    ],
-    "notes": "批量curl。待WebSearch补充。"
+    "overall": "medium",
+    "notes": "重要教授。邮箱非JS加密。"
   }
 }

@@ -2,9 +2,9 @@
   "id": "ustc-sist-lihouqiang",
   "name": {
     "zh": "李厚强",
-    "en": ""
+    "en": "Houqiang Li"
   },
-  "title": "教授 / 副教授 / 讲师 / 博士后 / 博导",
+  "title": "教授 / 博士生导师 / IEEE Fellow",
   "university": {
     "zh": "中国科学技术大学",
     "en": "USTC",
@@ -18,31 +18,55 @@
   "contact": {
     "email": null,
     "email_note": "JS加密",
-    "phone": null,
-    "office": null,
-    "homepage_url": "http://faculty.ustc.edu.cn/lihouqiang/zh_CN/index.htm",
-    "scholar_url": null,
-    "dblp_url": null
+    "dblp_url": "https://dblp.org/pid/87/5876"
   },
   "research": {
-    "homepage_directions": [],
-    "inferred_from_papers": [],
-    "inferred_from_papers_note": "待搜索",
-    "keywords": [],
+    "inferred_from_papers": [
+      "多媒体计算",
+      "计算机视觉",
+      "视频编码",
+      "多模态大模型",
+      "文档理解"
+    ],
+    "keywords": [
+      "multimedia",
+      "computer vision",
+      "video coding",
+      "multimodal",
+      "document AI"
+    ],
+    "tags": [
+      "Multimodal",
+      "Computer Vision",
+      "Video",
+      "LLM/MLLM"
+    ],
     "summary": {
-      "zh": "",
-      "en": ""
-    },
-    "tags": []
+      "zh": "李厚强，中国科学技术大学教授、博导，信息科学技术学院副院长，IEEE Fellow。主要研究方向为多媒体计算、计算机视觉、视频编码。",
+      "en": "Prof. Houqiang Li, IEEE Fellow. Research: multimedia, CV, video coding."
+    }
   },
   "publications": {
-    "source": null,
-    "source_url": null,
-    "source_note": "待获取",
-    "total_count": null,
-    "h_index": null,
-    "recent": [],
-    "top_venues": []
+    "source": "web_search+homepage",
+    "source_url": "https://faculty.ustc.edu.cn/lihouqiang/zh_CN/lwcg/83276/list/6.htm",
+    "source_note": "WebSearch+主页论文列表",
+    "recent": [
+      {
+        "title": "DocPedia: 高分辨率多模态文档大模型",
+        "venue": "arXiv/Preprint",
+        "year": 2024,
+        "type": "preprint",
+        "source": "web_search"
+      }
+    ],
+    "top_venues": [
+      "IEEE TPAMI",
+      "CVPR",
+      "ICCV",
+      "NeurIPS",
+      "ICML",
+      "ACM Multimedia"
+    ]
   },
   "students": {
     "inferred_from_papers": [],
@@ -67,21 +91,11 @@
   "education": [],
   "awards": [],
   "_sources": {
-    "listing_page": "page 4",
-    "homepage": "http://faculty.ustc.edu.cn/lihouqiang/zh_CN/index.htm",
-    "sub_pages_fetched": [],
-    "fetched_at": "2026-06-13T00:00:00Z"
+    "web_search_done": true,
+    "fetched_at": "2026-06-13T12:00:00Z"
   },
   "_quality": {
-    "overall": "low",
-    "verified_via_multiple_sources": [
-      "name"
-    ],
-    "missing_fields": [
-      "email",
-      "publications",
-      "research"
-    ],
-    "notes": "批量curl提取。待WebSearch补充。"
+    "overall": "medium",
+    "notes": "IEEE Fellow。主页论文列表有完整论文。"
   }
 }

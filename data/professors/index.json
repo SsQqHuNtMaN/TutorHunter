@@ -939,9 +939,9 @@
     "id": "ustc-sist-kangyu",
     "name": {
       "zh": "康宇",
-      "en": ""
+      "en": "Yu Kang"
     },
-    "title": "教授",
+    "title": "教授 / 博士生导师",
     "university": {
       "zh": "中国科学技术大学",
       "en": "USTC",
@@ -952,9 +952,12 @@
       "en": "School of Information Science and Technology"
     },
     "region": "mainland_china",
-    "research_tags": [],
+    "research_tags": [
+      "Computer Vision",
+      "Deep Learning"
+    ],
     "is_recruiting": null,
-    "last_updated": "2026-06-13T00:00:00Z"
+    "last_updated": "2026-06-13T12:00:00Z"
   },
   {
     "id": "ustc-sist-kanzhen",
@@ -1086,9 +1089,9 @@
     "id": "ustc-sist-lihouqiang",
     "name": {
       "zh": "李厚强",
-      "en": ""
+      "en": "Houqiang Li"
     },
-    "title": "教授 / 副教授 / 讲师 / 博士后 / 博导",
+    "title": "教授 / 博士生导师 / IEEE Fellow",
     "university": {
       "zh": "中国科学技术大学",
       "en": "USTC",
@@ -1099,9 +1102,14 @@
       "en": "School of Information Science and Technology"
     },
     "region": "mainland_china",
-    "research_tags": [],
+    "research_tags": [
+      "Multimodal",
+      "Computer Vision",
+      "Video",
+      "LLM/MLLM"
+    ],
     "is_recruiting": null,
-    "last_updated": "2026-06-13T00:00:00Z"
+    "last_updated": "2026-06-13T12:00:00Z"
   },
   {
     "id": "ustc-sist-lihui1234",
@@ -1170,9 +1178,9 @@
     "id": "ustc-sist-lingzhenhua",
     "name": {
       "zh": "凌震华",
-      "en": ""
+      "en": "Zhenhua Ling"
     },
-    "title": "",
+    "title": "教授 / 博士生导师",
     "university": {
       "zh": "中国科学技术大学",
       "en": "USTC",
@@ -1183,9 +1191,13 @@
       "en": "School of Information Science and Technology"
     },
     "region": "mainland_china",
-    "research_tags": [],
+    "research_tags": [
+      "Speech/Audio",
+      "Deep Learning",
+      "Generative AI"
+    ],
     "is_recruiting": null,
-    "last_updated": "2026-06-13T00:00:00Z"
+    "last_updated": "2026-06-13T12:00:00Z"
   },
   {
     "id": "ustc-sist-lishangbin",
@@ -2262,9 +2274,9 @@
     "id": "ustc-sist-wangyong",
     "name": {
       "zh": "王永",
-      "en": ""
+      "en": "Yong Wang"
     },
-    "title": "教授",
+    "title": "教授 / 博士生导师",
     "university": {
       "zh": "中国科学技术大学",
       "en": "USTC",
@@ -2275,9 +2287,13 @@
       "en": "School of Information Science and Technology"
     },
     "region": "mainland_china",
-    "research_tags": [],
+    "research_tags": [
+      "Control Systems",
+      "Robotics",
+      "Optimization"
+    ],
     "is_recruiting": null,
-    "last_updated": "2026-06-13T00:00:00Z"
+    "last_updated": "2026-06-13T12:00:00Z"
   },
   {
     "id": "ustc-sist-wangyujie",
