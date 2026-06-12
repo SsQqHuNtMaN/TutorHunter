@@ -1,0 +1,84 @@
+{
+  "id": "ustc-sist-yuanguofu",
+  "name": {
+    "zh": "袁国富",
+    "en": ""
+  },
+  "title": "",
+  "university": {
+    "zh": "中国科学技术大学",
+    "en": "USTC",
+    "short": "USTC"
+  },
+  "department": {
+    "zh": "信息科学技术学院",
+    "en": "School of Information Science and Technology"
+  },
+  "region": "mainland_china",
+  "contact": {
+    "email": null,
+    "email_note": "JS加密",
+    "phone": null,
+    "office": null,
+    "homepage_url": "http://faculty.ustc.edu.cn/yuanguofu/zh_CN/index.htm",
+    "scholar_url": null,
+    "dblp_url": null
+  },
+  "research": {
+    "homepage_directions": [],
+    "inferred_from_papers": [],
+    "inferred_from_papers_note": "待搜索",
+    "keywords": [],
+    "summary": {
+      "zh": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  "publications": {
+    "source": null,
+    "source_url": null,
+    "source_note": "待获取",
+    "total_count": null,
+    "h_index": null,
+    "recent": [],
+    "top_venues": []
+  },
+  "students": {
+    "inferred_from_papers": [],
+    "destinations": [],
+    "current_count": null,
+    "note": ""
+  },
+  "group": {
+    "name": {
+      "zh": "",
+      "en": ""
+    },
+    "url": null,
+    "source": "",
+    "peer_professor_ids": []
+  },
+  "admission": {
+    "is_recruiting": null,
+    "source": "has_subpage"
+  },
+  "education": [],
+  "awards": [],
+  "_sources": {
+    "homepage": "http://faculty.ustc.edu.cn/yuanguofu/zh_CN/index.htm",
+    "fetched_at": "2026-06-13T00:00:00Z"
+  },
+  "_quality": {
+    "overall": "low",
+    "verified_via_multiple_sources": [
+      "name"
+    ],
+    "missing_fields": [
+      "email",
+      "publications",
+      "research"
+    ],
+    "notes": "批量curl。待WebSearch补充。"
+  }
+}
