@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TutorHunter 导师猎人</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="app-header">
+        <div class="header-inner">
+            <div>
+                <span class="app-title">🎯 TutorHunter <small data-zh="导师猎人" data-en="Professor Database"></small></span>
+            </div>
+            <div class="header-actions">
+                <div class="lang-toggle">
+                    <button class="lang-btn active" data-lang="zh">中文</button>
+                    <button class="lang-btn" data-lang="en">EN</button>
+                </div>
+                <a href="comparison.xlsx" class="btn btn-outline btn-sm" download>
+                    📥 <span data-zh="下载 Excel" data-en="Download Excel"></span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="app-main">
+        <!-- Toolbar -->
+        <div class="toolbar">
+            <div class="search-box">
+                <span class="search-icon">🔍</span>
+                <input type="text" id="search-input"
+                       data-zh-placeholder="搜索姓名、院校、研究方向..."
+                       data-en-placeholder="Search name, university, research..."
+                       placeholder="搜索姓名、院校、研究方向...">
+            </div>
+            <select id="region-filter" class="filter-select">
+                <option value="all" data-zh="全部地区" data-en="All Regions">全部地区</option>
+                {% for r in regions %}
+                <option value="{{ r }}">{{ r }}</option>
+                {% endfor %}
+            </select>
+            <select id="university-filter" class="filter-select">
+                <option value="all" data-zh="全部院校" data-en="All Universities">全部院校</option>
+                {% for u in universities %}
+                <option value="{{ u }}">{{ u }}</option>
+                {% endfor %}
+            </select>
+            <select id="tag-filter" class="filter-select">
+                <option value="all" data-zh="全部方向" data-en="All Fields">全部方向</option>
+                {% for t in all_tags %}
+                <option value="{{ t }}">{{ t }}</option>
+                {% endfor %}
+            </select>
+            <select id="recruiting-filter" class="filter-select">
+                <option value="all" data-zh="招生状态：全部" data-en="Recruiting: All">招生状态：全部</option>
+                <option value="yes" data-zh="正在招生" data-en="Recruiting">正在招生</option>
+                <option value="no" data-zh="暂不招生" data-en="Not Recruiting">暂不招生</option>
+            </select>
+        </div>
+
+        <!-- Stats -->
+        <div class="stats-bar">
+            <span>
+                <span data-zh="共" data-en="Found "></span>
+                <span class="stats-count" id="professor-count">{{ total_count }}</span>
+                <span data-zh="位导师" data-en=" professors"></span>
+            </span>
+            <span style="font-size:0.85rem;color:var(--text-secondary);">
+                <span data-zh="更新于 " data-en="Updated: "></span>{{ generated_at[:10] if generated_at else '' }}
+            </span>
+        </div>
+
+        <!-- Comparison Table -->
+        <div id="table-container">
+            <!-- Rendered by comparison-table.js or Jinja2 server-side -->
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+        <p>TutorHunter · <span data-zh="导师信息辅助研究生申请工具" data-en="Professor Database for Graduate School Applications"></span></p>
+        <p style="font-size:0.8rem;">
+            <span data-zh="数据来源见各导师详情页" data-en="Data sources listed on each professor's detail page"></span> ·
+            <a href="https://github.com" target="_blank">GitHub</a>
+        </p>
+    </footer>
+
+    <!-- Embedded data for server-rendered initial state -->
+    <script id="embedded-data" type="application/json">
+    {{ professors | tojson | safe if professors else '[]' }}
+    </script>
+
+    <!-- JS Components -->
+    <script src="js/i18n.js"></script>
+    <script src="js/data-loader.js"></script>
+    <script src="js/comparison-table.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

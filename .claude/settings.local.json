@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p d:/Project/TutorHunter/.claude/skills/tutor-hunter/references)",
+      "Bash(mkdir -p d:/Project/TutorHunter/.claude/skills/tutor-hunter/templates)",
+      "Bash(ls \"C:\\\\\\\\Users\\\\\\\\xy_zx\\\\\\\\.claude\\\\\\\\projects\\\\\\\\d--Project-TutorHunter\\\\\\\\memory\\\\\\\\\")",
+      "Read(//c/Users/xy_zx/.claude/projects/d--Project-TutorHunter/memory/**)",
+      "Edit(/.claude/skills/tutor-hunter/**)"
+    ]
+  }
+}

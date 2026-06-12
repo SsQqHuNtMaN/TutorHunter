@@ -1,0 +1,171 @@
+{
+  "id": "ustc-sist-zhazhengjun",
+  "name": {
+    "zh": "查正军",
+    "en": "Zhengjun Zha"
+  },
+  "title": "教授 / 博士生导师 / 硕士生导师",
+  "university": {
+    "zh": "中国科学技术大学",
+    "en": "University of Science and Technology of China",
+    "short": "USTC"
+  },
+  "department": {
+    "zh": "信息科学技术学院",
+    "en": "School of Information Science and Technology"
+  },
+  "region": "mainland_china",
+  "contact": {
+    "email": null,
+    "email_note": "主页 JS 加密，需从论文页或 Scholar 获取",
+    "phone": "0551-63607147",
+    "office": null,
+    "homepage_url": "http://faculty.ustc.edu.cn/chazhengjun/zh_CN/index.htm",
+    "scholar_url": null,
+    "dblp_url": null
+  },
+  "research": {
+    "homepage_directions": [
+      {
+        "zh": "图像视频处理与分析",
+        "en": "Image and Video Processing and Analysis"
+      },
+      {
+        "zh": "计算机视觉",
+        "en": "Computer Vision"
+      },
+      {
+        "zh": "多模态大模型",
+        "en": "Multimodal Large Models"
+      },
+      {
+        "zh": "具身智能",
+        "en": "Embodied Intelligence"
+      },
+      {
+        "zh": "神经形态视觉",
+        "en": "Neuromorphic Vision"
+      }
+    ],
+    "inferred_from_papers": [],
+    "inferred_from_papers_note": "待从 Google Scholar 获取论文后由 LLM 归纳",
+    "keywords": [
+      "computer vision",
+      "multimodal learning",
+      "embodied intelligence",
+      "neuromorphic vision",
+      "deep learning"
+    ],
+    "summary": {
+      "zh": "查正军，中国科学技术大学讲席教授、二级教授、博导，人力资源部部长、类脑智能技术及应用国家工程实验室执行主任。主要从事计算机视觉、图像视频分析、多模态智能理解与生成、具身智能感知与决策、神经形态视觉等方面研究。国家杰出青年科学基金获得者、国家优秀青年科学基金获得者。研究成果发表于一系列ACM/IEEE Trans. 及CCF A类会议论文，多次获得国际会议论文奖励，包括ACM Multimedia最佳论文奖、AAAI杰出论文奖等。",
+      "en": "Prof. Zhengjun Zha is a Chair Professor at USTC, Executive Director of the National Engineering Laboratory for Brain-inspired Intelligence Technology and Application. His research focuses on computer vision, image/video analysis, multimodal intelligence, embodied intelligence, and neuromorphic vision. He is a recipient of the National Science Fund for Distinguished Young Scholars."
+    },
+    "tags": [
+      "AI",
+      "CV",
+      "ML",
+      "Multimodal",
+      "Robotics"
+    ]
+  },
+  "publications": {
+    "source": null,
+    "source_url": null,
+    "source_note": "待从 Google Scholar 获取",
+    "total_count": null,
+    "h_index": null,
+    "recent": [],
+    "top_venues": [
+      "NeurIPS",
+      "ICML",
+      "CVPR",
+      "ICCV",
+      "AAAI",
+      "ACM Multimedia",
+      "IEEE Trans. PAMI",
+      "IEEE Trans. MM",
+      "IEEE Trans. CSVT"
+    ]
+  },
+  "students": {
+    "inferred_from_papers": [],
+    "destinations": [],
+    "current_count": null,
+    "note": "待从论文作者列表反推；主页«团队成员»Tab 有待抓取"
+  },
+  "group": {
+    "name": {
+      "zh": "类脑智能技术及应用国家工程实验室",
+      "en": "National Engineering Laboratory for Brain-inspired Intelligence Technology and Application"
+    },
+    "url": null,
+    "source": "homepage_bio",
+    "peer_professor_ids": []
+  },
+  "admission": {
+    "is_recruiting": null,
+    "openings": null,
+    "requirements": {
+      "zh": null,
+      "en": null
+    },
+    "preferred_background": [],
+    "application_deadline": null,
+    "funding_notes": null,
+    "source": null,
+    "source_note": "待从主页«招生信息»子页面获取"
+  },
+  "education": [
+    {
+      "degree": "博士",
+      "school": "中国科学技术大学",
+      "major": "自动化",
+      "year": "2004-2009"
+    },
+    {
+      "degree": "学士",
+      "school": "中国科学技术大学",
+      "major": "自动化",
+      "year": "2000-2004"
+    }
+  ],
+  "awards": [
+    "国家杰出青年科学基金获得者",
+    "国家优秀青年科学基金获得者",
+    "国家创新人才计划青年项目",
+    "首届MIT TR35 China",
+    "中国科学院青年科学家奖",
+    "中国科学院优秀导师",
+    "霍英东教育基金会青年科学奖",
+    "国家教学成果二等奖",
+    "安徽省教学成果特等奖",
+    "安徽省自然科学一等奖",
+    "ACM Multimedia最佳论文奖",
+    "AAAI杰出论文奖"
+  ],
+  "_sources": {
+    "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList&wbtreeid=1014&st=0&id=1014&lang=zh_CN",
+    "homepage": "http://faculty.ustc.edu.cn/chazhengjun/zh_CN/index.htm",
+    "sub_pages_fetched": [],
+    "scholar": null,
+    "dblp": null,
+    "fetched_at": "2026-06-12T00:00:00Z"
+  },
+  "_quality": {
+    "overall": "low",
+    "verified_via_multiple_sources": [
+      "name",
+      "title",
+      "phone",
+      "research_directions"
+    ],
+    "missing_fields": [
+      "email",
+      "publications",
+      "student_destinations",
+      "admission_requirements",
+      "group_url"
+    ],
+    "notes": "基础信息已从主页获取。论文、邮箱、招生、学生去向等需从 Scholar 和子页面进一步获取。"
+  }
+}

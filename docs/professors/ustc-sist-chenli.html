@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>陈力 — TutorHunter</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="app-header">
+        <div class="header-inner">
+            <div>
+                <span class="app-title">🎯 TutorHunter</span>
+            </div>
+            <div class="header-actions">
+                <div class="lang-toggle">
+                    <button class="lang-btn active" data-lang="zh">中文</button>
+                    <button class="lang-btn" data-lang="en">EN</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="app-main">
+        <!-- Back link -->
+        <div class="detail-header-bar">
+            <a href="../index.html" class="back-link">← <span data-zh="返回全部导师" data-en="Back to All Professors"></span></a>
+        </div>
+
+        <!-- Hero Section -->
+        <div id="professor-hero" class="professor-hero">
+            <!-- Rendered by professor-card.js -->
+        </div>
+
+        <!-- Tabs -->
+        <nav class="tab-nav">
+            <button class="tab-btn active" data-tab="research" data-zh="研究方向" data-en="Research"></button>
+            <button class="tab-btn" data-tab="publications" data-zh="论文" data-en="Publications"></button>
+            <button class="tab-btn" data-tab="students" data-zh="学生" data-en="Students"></button>
+            <button class="tab-btn" data-tab="group" data-zh="课题组" data-en="Group"></button>
+            <button class="tab-btn" data-tab="admission" data-zh="招生" data-en="Admission"></button>
+            <button class="tab-btn" data-tab="sources" data-zh="数据来源" data-en="Sources"></button>
+        </nav>
+
+        <!-- Tab Contents -->
+        <div class="tab-content active" id="tab-research"></div>
+        <div class="tab-content" id="tab-publications"></div>
+        <div class="tab-content" id="tab-students"></div>
+        <div class="tab-content" id="tab-group"></div>
+        <div class="tab-content" id="tab-admission"></div>
+        <div class="tab-content" id="tab-sources"></div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+        <p>TutorHunter · <span data-zh="导师信息辅助研究生申请工具" data-en="Professor Database for Graduate School Applications"></span></p>
+    </footer>
+
+    <!-- Embedded professor data -->
+    <script id="embedded-data" type="application/json">
+    {"_quality": {"missing_fields": ["email", "publications", "student_destinations"], "notes": "\u57fa\u7840\u4fe1\u606f\u5df2\u63d0\u53d6\u3002\u8bba\u6587\u3001\u7814\u7a76\u65b9\u5411\u9700\u4eceGoogle Scholar\u83b7\u53d6\u3002", "overall": "low", "verified_via_multiple_sources": []}, "_sources": {"dblp": null, "fetched_at": "2026-06-12T23:30:00Z", "homepage": "http://faculty.ustc.edu.cn/chenli1/zh_CN/index.htm", "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList\u0026wbtreeid=1014\u0026st=0\u0026id=1014\u0026lang=zh_CN", "scholar": null, "sub_pages_fetched": ["\u9996\u9875", "\u79d1\u5b66\u7814\u7a76", "\u6559\u5b66\u4fe1\u606f", "\u83b7\u5956\u4fe1\u606f", "\u62db\u751f\u4fe1\u606f"]}, "admission": {"application_deadline": null, "funding_notes": null, "is_recruiting": null, "openings": null, "preferred_background": [], "requirements": {"en": null, "zh": null}, "source": "has_subpage", "source_note": "\u6709\u62db\u751f\u4fe1\u606f\u5b50\u9875\u9762"}, "awards": [], "contact": {"dblp_url": null, "email": null, "email_note": "JS\u52a0\u5bc6", "homepage_url": "http://faculty.ustc.edu.cn/chenli1/zh_CN/index.htm", "office": null, "phone": null, "scholar_url": null}, "department": {"en": "School of Information Science and Technology", "zh": "\u4fe1\u606f\u79d1\u5b66\u6280\u672f\u5b66\u9662"}, "destinations": [], "display_admission": "", "display_department": "\u4fe1\u606f\u79d1\u5b66\u6280\u672f\u5b66\u9662", "display_group": "", "display_name": "\u9648\u529b", "display_name_en": "Li Chen", "display_university": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66", "education": [], "group": {"name": {"en": "", "zh": ""}, "peer_professor_ids": [], "source": "", "url": null}, "has_dblp": false, "has_email": false, "has_phone": false, "has_scholar": false, "homepage_dirs": [], "id": "ustc-sist-chenli", "inferred_dirs": [], "inferred_students": [], "is_recruiting": null, "keywords": [], "missing_fields": ["email", "publications", "student_destinations"], "name": {"en": "Li Chen", "zh": "\u9648\u529b"}, "publications": {"h_index": null, "recent": [], "source": null, "source_note": "\u5f85\u4eceGoogle Scholar\u83b7\u53d6", "source_url": null, "top_venues": [], "total_count": null}, "quality_notes": "\u57fa\u7840\u4fe1\u606f\u5df2\u63d0\u53d6\u3002\u8bba\u6587\u3001\u7814\u7a76\u65b9\u5411\u9700\u4eceGoogle Scholar\u83b7\u53d6\u3002", "quality_overall": "low", "recent_pubs": [], "region": "mainland_china", "research": {"homepage_directions": [], "inferred_from_papers": [], "inferred_from_papers_note": "\u5f85\u4eceGoogle Scholar\u83b7\u53d6\u8bba\u6587\u540e\u5f52\u7eb3", "keywords": [], "summary": {"en": "", "zh": "\u9648\u529b\uff0c\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66\u7279\u4efb\u6559\u6388\u3001\u535a\u58eb\u751f\u5bfc\u5e08\u3002\u4e3b\u6301\u56fd\u5bb6\u4f18\u9752\u548c\u5b89\u5fbd\u7701\u6770\u9752\u9879\u76ee\u3002\u4e3b\u8981\u7814\u7a76\u65b9\u5411\u4e3a\u4e0b\u4e00\u4ee3\u65e0\u7ebf\u7f51\u7edc\u4e2d\u901a\u4fe1\u3001\u611f\u77e5\u548c\u8ba1\u7b97\u7684\u878d\u5408\uff0c\u53ca\u5176\u5728\u4ea7\u4e1a\u4e2d\u7684\u843d\u5730\u5e94\u7528\u3002\u7814\u7a76\u6210\u679c\u53d1\u8868\u4e8e\u672c\u9886\u57df\u9876\u7ea7\u520a\u7269\uff0c\u5305\u62ecIEEE J. Sel. Areas Commun.\u3001IEEE Trans. Signal Process.\u3001IEEE Trans. Commun.\u7b49\u3002\u7814\u7a76\u6210\u679c\u5f15\u8d77\u56fd\u5185\u5916\u540c\u884c\u5e7f\u6cdb\u5173\u6ce8\uff0c\u4e24\u9879\u6210\u679c\u5165\u9009\u5de5\u4fe1\u90e86G\u6f5c\u5728\u5173\u952e\u6280\u672f\uff0c\u8fde\u7eed\u591a\u5e74\u5165\u9009\u5168\u7403\u524d2%\u9876\u5c16\u79d1\u5b66\u5bb6\u3002\u83b7\u5b89\u5fbd\u7701\u81ea\u7136\u79d1\u5b66\u4e8c\u7b49\u5956\u3001\u534e\u4e3a\u9752\u5e74\u5b66\u8005\u5956\u3001\u5de5\u4fe1\u90e85G\u5e94\u7528\u5927\u8d5b\u4e00\u7b49\u5956\u3001\u534e\u4e3a\u96be\u9898\u706b\u82b1\u5956\u3001\u7fdf\u5149\u9f99\u5b66\u8005\u5956\u7b49\u3002\u53d7\u9080\u62c5\u4efb\u4e2d\u56fd\u7535\u5b50\u5b66\u4f1a\u901a\u4fe1\u5206\u4f1a\u59d4\u5458\uff0c\u4e2d\u56fd\u901a\u4fe1\u5b66\u4f1a\u9752\u5e74\u59d4\u5458\u3001\u4e2d\u5174\u901a\u8baf\u4ea7\u5b66\u7814\u5408\u4f5c\u9752\u5e74\u59d4\u5458\u7b49\u3002"}, "tags": []}, "sources": {"dblp": null, "fetched_at": "2026-06-12T23:30:00Z", "homepage": "http://faculty.ustc.edu.cn/chenli1/zh_CN/index.htm", "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList\u0026wbtreeid=1014\u0026st=0\u0026id=1014\u0026lang=zh_CN", "scholar": null, "sub_pages_fetched": ["\u9996\u9875", "\u79d1\u5b66\u7814\u7a76", "\u6559\u5b66\u4fe1\u606f", "\u83b7\u5956\u4fe1\u606f", "\u62db\u751f\u4fe1\u606f"]}, "students": {"current_count": null, "destinations": [], "inferred_from_papers": [], "note": "\u5f85\u4ece\u8bba\u6587\u4f5c\u8005\u5217\u8868\u63a8\u65ad"}, "tags": [], "title": "\u8bb2\u5e08", "university": {"en": "University of Science and Technology of China", "short": "USTC", "zh": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66"}}
+    </script>
+
+    <!-- JS Components -->
+    <script src="../js/i18n.js"></script>
+    <script src="../js/data-loader.js"></script>
+    <script src="../js/professor-card.js"></script>
+    <script>
+    (function () {
+        'use strict';
+
+        function init() {
+            var embeddedData = document.getElementById('embedded-data');
+            var professor = null;
+
+            if (embeddedData) {
+                try {
+                    professor = JSON.parse(embeddedData.textContent);
+                } catch (e) {
+                    console.warn('Failed to parse embedded data');
+                }
+            }
+
+            // Fallback: load from JSON file based on page filename
+            if (!professor || Object.keys(professor).length === 0) {
+                var pathParts = window.location.pathname.split('/');
+                var filename = pathParts[pathParts.length - 1];
+                var profId = filename.replace('.html', '');
+
+                if (window.TutorHunterData && profId) {
+                    window.TutorHunterData.loadProfessor(profId).then(function (data) {
+                        window.TutorHunterCard.renderDetailPage(data);
+                    }).catch(function (err) {
+                        console.error('Failed to load professor:', err);
+                    });
+                }
+                return;
+            }
+
+            if (window.TutorHunterCard) {
+                window.TutorHunterCard.renderDetailPage(professor);
+            }
+        }
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', init);
+        } else {
+            init();
+        }
+    })();
+    </script>
+</body>
+</html>

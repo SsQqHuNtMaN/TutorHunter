@@ -1,0 +1,974 @@
+[
+  {
+    "name": "艾杨",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/aiyang/zh_CN/index.htm",
+    "page": 1
+  },
+  {
+    "name": "曹洋",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/caoyang1/zh_CN/index.htm",
+    "page": 1
+  },
+  {
+    "name": "常晓军",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/changxiaojun/zh_CN/index.htm",
+    "page": 1
+  },
+  {
+    "name": "查正军",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/chazhengjun/zh_CN/index.htm",
+    "page": 1
+  },
+  {
+    "name": "陈畅",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/chenchang/zh_CN/index.htm",
+    "page": 1
+  },
+  {
+    "name": "陈鹤",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/ChenHe/zh_CN/index.htm",
+    "page": 1
+  },
+  {
+    "name": "陈力",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/chenli1/zh_CN/index.htm",
+    "page": 1
+  },
+  {
+    "name": "陈绍青",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/chenshaoqing/zh_CN/index.htm",
+    "page": 1
+  },
+  {
+    "name": "陈双武",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/ChenShuangWu/zh_CN/index.htm",
+    "page": 1
+  },
+  {
+    "name": "陈卫东",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/chenweidong/zh_CN/index.htm",
+    "page": 1
+  },
+  {
+    "name": "陈伟东",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/chenweidong1/zh_CN/index.htm",
+    "page": 1
+  },
+  {
+    "name": "陈晓辉",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/chenxiaohui/zh_CN/index.htm",
+    "page": 1
+  },
+  {
+    "name": "陈小良",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xlichen/zh_CN/index.htm",
+    "page": 2
+  },
+  {
+    "name": "陈雪锦",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm",
+    "page": 2
+  },
+  {
+    "name": "陈志波",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/chenzhibo/zh_CN/index.htm",
+    "page": 2
+  },
+  {
+    "name": "陈宗海",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/chenzonghai/zh_CN/index.htm",
+    "page": 2
+  },
+  {
+    "name": "戴礼荣",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/dailirong/zh_CN/index.htm",
+    "page": 2
+  },
+  {
+    "name": "戴旭初",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/daixuchu/zh_CN/index.htm",
+    "page": 2
+  },
+  {
+    "name": "丁卫平",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/dingweiping/zh_CN/index.htm",
+    "page": 2
+  },
+  {
+    "name": "杜俊",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/dujun/zh_CN/index.htm",
+    "page": 2
+  },
+  {
+    "name": "方毅",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/fangyi/zh_CN/index.htm",
+    "page": 2
+  },
+  {
+    "name": "付维明",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/fuweiming/zh_CN/index.htm",
+    "page": 2
+  },
+  {
+    "name": "傅雪阳",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/fuxueyang/zh_CN/index.htm",
+    "page": 2
+  },
+  {
+    "name": "付哲仁",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/fuzheren/en/index.htm",
+    "page": 2
+  },
+  {
+    "name": "高洪波",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/gaohongbo/zh_CN/index.htm",
+    "page": 3
+  },
+  {
+    "name": "龚晨",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/gongchen/zh_CN/index.htm",
+    "page": 3
+  },
+  {
+    "name": "郭凤谦",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/guofengqian/zh_CN/index.htm",
+    "page": 3
+  },
+  {
+    "name": "郭武",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/guowu/zh_CN/index.htm",
+    "page": 3
+  },
+  {
+    "name": "何华森",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/hehuasen/zh_CN/index.htm",
+    "page": 3
+  },
+  {
+    "name": "黄诺",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/huangnuo/zh_CN/index.htm",
+    "page": 3
+  },
+  {
+    "name": "胡红钢",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/huhonggang1/zh_CN/index.htm",
+    "page": 3
+  },
+  {
+    "name": "胡洋",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/yanghu/en/index.htm",
+    "page": 3
+  },
+  {
+    "name": "姜晓枫",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/jiangxiaofeng12/zh_CN/index.htm",
+    "page": 3
+  },
+  {
+    "name": "杨坚",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/jianyang/zh_CN/index.htm",
+    "page": 3
+  },
+  {
+    "name": "季海波",
+    "department": "",
+    "profile_url": "http://faculty.ustc.edu.cn/jihaibo/zh_CN/index.htm",
+    "page": 3
+  },
+  {
+    "name": "计洋",
+    "department": "",
+    "profile_url": "http://faculty.ustc.edu.cn/jiyang/zh_CN/index.htm",
+    "page": 3
+  },
+  {
+    "name": "康奇宇",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/kangqiyu/zh_CN/index.htm",
+    "page": 4
+  },
+  {
+    "name": "康宇",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/kangyu/zh_CN/index.htm",
+    "page": 4
+  },
+  {
+    "name": "阚震",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/kanzhen/zh_CN/index.htm",
+    "page": 4
+  },
+  {
+    "name": "匡森",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/kuangsen/zh_CN/index.htm",
+    "page": 4
+  },
+  {
+    "name": "李骜",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/liao/zh_CN/index.htm",
+    "page": 4
+  },
+  {
+    "name": "李斌",
+    "department": "类脑智能技术及应用国家工程实验",
+    "profile_url": "http://faculty.ustc.edu.cn/libin123/zh_CN/index.htm",
+    "page": 4
+  },
+  {
+    "name": "李成盼",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/LiChengPan/zh_CN/index.htm",
+    "page": 4
+  },
+  {
+    "name": "李厚强",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/lihouqiang/zh_CN/index.htm",
+    "page": 4
+  },
+  {
+    "name": "李辉",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/lihui1234/zh_CN/index.htm",
+    "page": 4
+  },
+  {
+    "name": "李礼",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/lil1/zh_CN/index.htm",
+    "page": 4
+  },
+  {
+    "name": "凌强",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/lingqiang/zh_CN/index.htm",
+    "page": 4
+  },
+  {
+    "name": "凌震华",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/lingzhenhua/en/index.htm",
+    "page": 4
+  },
+  {
+    "name": "李鹏飞",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/pfli/zh_CN/index.htm",
+    "page": 5
+  },
+  {
+    "name": "李上宾",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/lishangbin/zh_CN/index.htm",
+    "page": 5
+  },
+  {
+    "name": "刘爱萍",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/aipingliu/zh_CN/index.htm",
+    "page": 5
+  },
+  {
+    "name": "刘传彬",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/liucb92/zh_CN/index.htm",
+    "page": 5
+  },
+  {
+    "name": "刘东",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/dongeliu/zh_CN/index.htm",
+    "page": 5
+  },
+  {
+    "name": "刘发林",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/liufalin/zh_CN/index.htm",
+    "page": 5
+  },
+  {
+    "name": "刘际",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/liuji1/zh_CN/index.htm",
+    "page": 5
+  },
+  {
+    "name": "刘际",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/liuji/zh_CN/index.htm",
+    "page": 5
+  },
+  {
+    "name": "刘嘉威",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/liujiawei/zh_CN/index.htm",
+    "page": 5
+  },
+  {
+    "name": "刘军",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/liujun123/en/index.htm",
+    "page": 5
+  },
+  {
+    "name": "刘磊",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/liulei13/zh_CN/index.htm",
+    "page": 5
+  },
+  {
+    "name": "刘伟杰",
+    "department": "",
+    "profile_url": "http://faculty.ustc.edu.cn/lwj1993/zh_CN/index.htm",
+    "page": 5
+  },
+  {
+    "name": "刘武",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/liuwu/zh_CN/index.htm",
+    "page": 6
+  },
+  {
+    "name": "李煜",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/liyu1234567891011/zh_CN/index.htm",
+    "page": 6
+  },
+  {
+    "name": "李志慧",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/lizhihui/en/index.htm",
+    "page": 6
+  },
+  {
+    "name": "陆广华",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/luguanghua/zh_CN/index.htm",
+    "page": 6
+  },
+  {
+    "name": "卢汉成",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/luhancheng/zh_CN/index.htm",
+    "page": 6
+  },
+  {
+    "name": "吕文君",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wlv/zh_CN/index.htm",
+    "page": 6
+  },
+  {
+    "name": "毛震东",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm",
+    "page": 6
+  },
+  {
+    "name": "马麒超",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/maqichao/zh_CN/index.htm",
+    "page": 6
+  },
+  {
+    "name": "尼古拉",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/nigula/zh_CN/index.htm",
+    "page": 6
+  },
+  {
+    "name": "倪林",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/nilin/zh_CN/index.htm",
+    "page": 6
+  },
+  {
+    "name": "钱辰",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/qianchen1/zh_CN/index.htm",
+    "page": 6
+  },
+  {
+    "name": "秦家虎",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/qinjiahu/zh_CN/index.htm",
+    "page": 6
+  },
+  {
+    "name": "秦晓卫",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/qinxiaowei/zh_CN/index.htm",
+    "page": 7
+  },
+  {
+    "name": "邱本胜",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/qiubensheng/zh_CN/index.htm",
+    "page": 7
+  },
+  {
+    "name": "邱玲",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/qiuling/zh_CN/index.htm",
+    "page": 7
+  },
+  {
+    "name": "沙力",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/shali/zh_CN/index.htm",
+    "page": 7
+  },
+  {
+    "name": "尚伟伟",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/shangweiwei/zh_CN/index.htm",
+    "page": 7
+  },
+  {
+    "name": "盛捷",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/shengjie/zh_CN/index.htm",
+    "page": 7
+  },
+  {
+    "name": "宋嘉德",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/songjiade/zh_CN/index.htm",
+    "page": 7
+  },
+  {
+    "name": "宋培培",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/songpeipei/zh_CN/index.htm",
+    "page": 7
+  },
+  {
+    "name": "宋彦",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/songyan/zh_CN/index.htm",
+    "page": 7
+  },
+  {
+    "name": "苏觉",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/sujue/zh_CN/index.htm",
+    "page": 7
+  },
+  {
+    "name": "孙利国",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/sunliguo/zh_CN/index.htm",
+    "page": 7
+  },
+  {
+    "name": "孙晓艳",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/sunxiaoyan/zh_CN/index.htm",
+    "page": 7
+  },
+  {
+    "name": "孙震东",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/SunZhendong/zh_CN/index.htm",
+    "page": 8
+  },
+  {
+    "name": "谭小彬",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xbtan/zh_CN/index.htm",
+    "page": 8
+  },
+  {
+    "name": "田新梅",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/tianxinmei/zh_CN/index.htm",
+    "page": 8
+  },
+  {
+    "name": "田新梅",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/tianxinmei1/zh_CN/index.htm",
+    "page": 8
+  },
+  {
+    "name": "牛田野",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/ICIM/zh_CN/index.htm",
+    "page": 8
+  },
+  {
+    "name": "王百宗",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wangbaizong/zh_CN/index.htm",
+    "page": 8
+  },
+  {
+    "name": "王刚",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wanggang1/zh_CN/index.htm",
+    "page": 8
+  },
+  {
+    "name": "王海峰",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wanghaifeng/zh_CN/index.htm",
+    "page": 8
+  },
+  {
+    "name": "王浩",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wanghao1/zh_CN/index.htm",
+    "page": 8
+  },
+  {
+    "name": "王杰",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wangjie1/zh_CN/index.htm",
+    "page": 8
+  },
+  {
+    "name": "王纪凯",
+    "department": "",
+    "profile_url": "http://faculty.ustc.edu.cn/wangjikai/zh_CN/index.htm",
+    "page": 8
+  },
+  {
+    "name": "王雷",
+    "department": "",
+    "profile_url": "http://faculty.ustc.edu.cn/WangLei89/zh_CN/index.htm",
+    "page": 8
+  },
+  {
+    "name": "王明宝",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wangmingbao/zh_CN/index.htm",
+    "page": 9
+  },
+  {
+    "name": "王明会",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/mhwang/zh_CN/index.htm",
+    "page": 9
+  },
+  {
+    "name": "王嵩",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wangsong2/zh_CN/index.htm",
+    "page": 9
+  },
+  {
+    "name": "王卫东",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wangweidong1/zh_CN/index.htm",
+    "page": 9
+  },
+  {
+    "name": "王文杰",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wangwenjie/zh_CN/index.htm",
+    "page": 9
+  },
+  {
+    "name": "王兴虎",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wangxinghu/zh_CN/index.htm",
+    "page": 9
+  },
+  {
+    "name": "王艳明",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/WangYanming/zh_CN/index.htm",
+    "page": 9
+  },
+  {
+    "name": "王永",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wangyong/zh_CN/index.htm",
+    "page": 9
+  },
+  {
+    "name": "汪玉洁",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wangyujie/zh_CN/index.htm",
+    "page": 9
+  },
+  {
+    "name": "王子磊",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wangzilei/zh_CN/index.htm",
+    "page": 9
+  },
+  {
+    "name": "吴刚",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/wugang/zh_CN/index.htm",
+    "page": 9
+  },
+  {
+    "name": "吴乐",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/lewu/zh_CN/index.htm",
+    "page": 9
+  },
+  {
+    "name": "肖俊斌",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xiaojunbin/zh_CN/index.htm",
+    "page": 10
+  },
+  {
+    "name": "肖力",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xiaoli/zh_CN/index.htm",
+    "page": 10
+  },
+  {
+    "name": "肖鹏",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xiaopeng/zh_CN/index.htm",
+    "page": 10
+  },
+  {
+    "name": "肖鹏",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/pengxiao/zh_CN/index.htm",
+    "page": 10
+  },
+  {
+    "name": "夏晓波",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xiaxiaobo/zh_CN/index.htm",
+    "page": 10
+  },
+  {
+    "name": "谢超",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xiechao/zh_CN/index.htm",
+    "page": 10
+  },
+  {
+    "name": "谢洪涛",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xiehongtao/zh_CN/index.htm",
+    "page": 10
+  },
+  {
+    "name": "谢庆国",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xieqingguo/zh_CN/index.htm",
+    "page": 10
+  },
+  {
+    "name": "熊军林",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xiongjunlin/zh_CN/index.htm",
+    "page": 10
+  },
+  {
+    "name": "熊志伟",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xiongzhiwei/zh_CN/index.htm",
+    "page": 10
+  },
+  {
+    "name": "薛美盛",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xuemeisheng/zh_CN/index.htm",
+    "page": 10
+  },
+  {
+    "name": "徐光伟",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/XuGuangwei/zh_CN/index.htm",
+    "page": 10
+  },
+  {
+    "name": "徐金辉",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xujinhui1/zh_CN/index.htm",
+    "page": 11
+  },
+  {
+    "name": "徐骏",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xujun1/zh_CN/index.htm",
+    "page": 11
+  },
+  {
+    "name": "许小东",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xuxiaodong/zh_CN/index.htm",
+    "page": 11
+  },
+  {
+    "name": "徐旭",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xuxu/zh_CN/index.htm",
+    "page": 11
+  },
+  {
+    "name": "徐云生",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xuyunsheng/zh_CN/index.htm",
+    "page": 11
+  },
+  {
+    "name": "徐正元",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/xuzhengyuan/zh_CN/index.htm",
+    "page": 11
+  },
+  {
+    "name": "杨巾英",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/jinying/zh_CN/index.htm",
+    "page": 11
+  },
+  {
+    "name": "杨利",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/yangli1/zh_CN/index.htm",
+    "page": 11
+  },
+  {
+    "name": "杨文飞",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/yangwenfei/zh_CN/index.htm",
+    "page": 11
+  },
+  {
+    "name": "杨勋",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/yangxun/zh_CN/index.htm",
+    "page": 11
+  },
+  {
+    "name": "姚涵涛",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/yaohantao/zh_CN/index.htm",
+    "page": 11
+  },
+  {
+    "name": "殷保群",
+    "department": "",
+    "profile_url": "http://faculty.ustc.edu.cn/yinbaoqun/zh_CN/index.htm",
+    "page": 11
+  },
+  {
+    "name": "尹华锐",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/yinhuarui/zh_CN/index.htm",
+    "page": 12
+  },
+  {
+    "name": "袁国富",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/yuanguofu/zh_CN/index.htm",
+    "page": 12
+  },
+  {
+    "name": "袁平波",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/yuanpingbo/zh_CN/index.htm",
+    "page": 12
+  },
+  {
+    "name": "於俊",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/yujun_AI/zh_CN/index.htm",
+    "page": 12
+  },
+  {
+    "name": "于灵云",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/yulingyun/zh_CN/index.htm",
+    "page": 12
+  },
+  {
+    "name": "翟伟",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhaiwei/zh_CN/index.htm",
+    "page": 12
+  },
+  {
+    "name": "张岸",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhangan12/zh_CN/index.htm",
+    "page": 12
+  },
+  {
+    "name": "张彬",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhangbin/zh_CN/index.htm",
+    "page": 12
+  },
+  {
+    "name": "张结",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/jzhang6/zh_CN/index.htm",
+    "page": 12
+  },
+  {
+    "name": "张荣",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhangrong/zh_CN/index.htm",
+    "page": 12
+  },
+  {
+    "name": "张天柱",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhangtianzhu/zh_CN/index.htm",
+    "page": 12
+  },
+  {
+    "name": "张文逸",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhangwenyi/zh_CN/index.htm",
+    "page": 12
+  },
+  {
+    "name": "张勇东",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhangyongdong/zh_CN/index.htm",
+    "page": 13
+  },
+  {
+    "name": "赵峰",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhaofeng1/zh_CN/index.htm",
+    "page": 13
+  },
+  {
+    "name": "赵刚",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhaogang/zh_CN/index.htm",
+    "page": 13
+  },
+  {
+    "name": "赵明",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhaoming/zh_CN/index.htm",
+    "page": 13
+  },
+  {
+    "name": "赵云波",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhengquan1/zh_CN/index.htm",
+    "page": 13
+  },
+  {
+    "name": "郑烇",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhoufeng/zh_CN/index.htm",
+    "page": 13
+  },
+  {
+    "name": "周烽",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhoupengyuan/zh_CN/index.htm",
+    "page": 13
+  },
+  {
+    "name": "周鹏远",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhouwengang/zh_CN/index.htm",
+    "page": 13
+  },
+  {
+    "name": "周文罡",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhouwuyang/zh_CN/index.htm",
+    "page": 13
+  },
+  {
+    "name": "周武旸",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhouyi1234/zh_CN/index.htm",
+    "page": 13
+  },
+  {
+    "name": "周熠",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhouyuanyuan/zh_CN/index.htm",
+    "page": 13
+  },
+  {
+    "name": "周远远",
+    "department": "",
+    "profile_url": "",
+    "page": 13
+  },
+  {
+    "name": "朱贝尔",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhubeier/zh_CN/index.htm",
+    "page": 14
+  },
+  {
+    "name": "朱冰",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhubing/zh_CN/index.htm",
+    "page": 14
+  },
+  {
+    "name": "朱进",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhujin/zh_CN/index.htm",
+    "page": 14
+  },
+  {
+    "name": "朱静",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhujing/zh_CN/index.htm",
+    "page": 14
+  },
+  {
+    "name": "朱旗",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhuqi/zh_CN/index.htm",
+    "page": 14
+  },
+  {
+    "name": "朱祖勍",
+    "department": "信息科学技术学院",
+    "profile_url": "http://faculty.ustc.edu.cn/zhuzuqing/zh_CN/index.htm",
+    "page": 14
+  }
+]

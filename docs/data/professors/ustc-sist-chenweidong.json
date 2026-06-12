@@ -1,0 +1,107 @@
+{
+  "id": "ustc-sist-chenweidong",
+  "name": {
+    "zh": "陈卫东",
+    "en": "Weidong Chen"
+  },
+  "title": "教授",
+  "university": {
+    "zh": "中国科学技术大学",
+    "en": "University of Science and Technology of China",
+    "short": "USTC"
+  },
+  "department": {
+    "zh": "信息科学技术学院",
+    "en": "School of Information Science and Technology"
+  },
+  "region": "mainland_china",
+  "contact": {
+    "email": null,
+    "email_note": "JS加密",
+    "phone": null,
+    "office": null,
+    "homepage_url": "http://faculty.ustc.edu.cn/chenweidong/zh_CN/index.htm",
+    "scholar_url": null,
+    "dblp_url": null
+  },
+  "research": {
+    "homepage_directions": [],
+    "inferred_from_papers": [],
+    "inferred_from_papers_note": "待从Google Scholar获取论文后归纳",
+    "keywords": [],
+    "summary": {
+      "zh": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  "publications": {
+    "source": null,
+    "source_url": null,
+    "source_note": "待从Google Scholar获取",
+    "total_count": null,
+    "h_index": null,
+    "recent": [],
+    "top_venues": []
+  },
+  "students": {
+    "inferred_from_papers": [],
+    "destinations": [],
+    "current_count": null,
+    "note": "待从论文作者列表推断"
+  },
+  "group": {
+    "name": {
+      "zh": "",
+      "en": ""
+    },
+    "url": null,
+    "source": "",
+    "peer_professor_ids": []
+  },
+  "admission": {
+    "is_recruiting": null,
+    "openings": null,
+    "requirements": {
+      "zh": null,
+      "en": null
+    },
+    "preferred_background": [],
+    "application_deadline": null,
+    "funding_notes": null,
+    "source": "has_subpage",
+    "source_note": "有招生信息子页面"
+  },
+  "education": [],
+  "awards": [],
+  "_sources": {
+    "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList&wbtreeid=1014&st=0&id=1014&lang=zh_CN",
+    "homepage": "http://faculty.ustc.edu.cn/chenweidong/zh_CN/index.htm",
+    "sub_pages_fetched": [
+      "教学研究",
+      "教学资源",
+      "授课信息",
+      "教学成果",
+      "获奖信息",
+      "招生信息",
+      "学生信息",
+      "我的相册",
+      "教师博客",
+      "中文主页",
+      "教学研究"
+    ],
+    "scholar": null,
+    "dblp": null,
+    "fetched_at": "2026-06-12T23:30:00Z"
+  },
+  "_quality": {
+    "overall": "low",
+    "verified_via_multiple_sources": [],
+    "missing_fields": [
+      "email",
+      "publications",
+      "student_destinations"
+    ],
+    "notes": "基础信息已提取。论文、研究方向需从Google Scholar获取。"
+  }
+}
