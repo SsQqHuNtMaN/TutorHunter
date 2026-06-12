@@ -4,7 +4,7 @@
     "zh": "陈卫东",
     "en": "Weidong Chen"
   },
-  "title": "教授",
+  "title": "教授 / 博士生导师",
   "university": {
     "zh": "中国科学技术大学",
     "en": "University of Science and Technology of China",
@@ -16,9 +16,9 @@
   },
   "region": "mainland_china",
   "contact": {
-    "email": null,
-    "email_note": "JS加密",
-    "phone": null,
+    "email": "wdchen@ustc.edu.cn",
+    "email_note": "Web搜索交叉验证",
+    "phone": "0551-63601303",
     "office": null,
     "homepage_url": "http://faculty.ustc.edu.cn/chenweidong/zh_CN/index.htm",
     "scholar_url": null,
@@ -26,19 +26,34 @@
   },
   "research": {
     "homepage_directions": [],
-    "inferred_from_papers": [],
-    "inferred_from_papers_note": "待从Google Scholar获取论文后归纳",
-    "keywords": [],
+    "inferred_from_papers": [
+      "微波毫米波系统",
+      "雷达信号与信息处理",
+      "微波凝视关联成像",
+      "分布式雷达超分辨成像"
+    ],
+    "inferred_from_papers_note": "基于WebSearch（2026-06）",
+    "keywords": [
+      "microwave/mm-wave",
+      "radar signal processing",
+      "imaging",
+      "distributed radar"
+    ],
     "summary": {
-      "zh": "",
-      "en": ""
+      "zh": "陈卫东，教授、博士生导师，党委教师工作部部长/人力资源部部长。研究方向为微波毫米波系统、雷达信号与信息处理。获中科院科技进步一等奖/二等奖、中国科学院青年科学家奖。主讲《微波技术基础》《微波成像》。",
+      "en": "Prof. Weidong Chen, PhD supervisor. Research: microwave/mm-wave systems, radar signal processing. CAS S&T Progress Awards, CAS Young Scientist Award."
     },
-    "tags": []
+    "tags": [
+      "Radar",
+      "Microwave",
+      "Signal Processing",
+      "Imaging"
+    ]
   },
   "publications": {
-    "source": null,
-    "source_url": null,
-    "source_note": "待从Google Scholar获取",
+    "source": "homepage",
+    "source_url": "https://faculty.ustc.edu.cn/chenweidong/zh_CN/lwcg/8300/list/index.htm",
+    "source_note": "主页论文列表; Scholar重名严重",
     "total_count": null,
     "h_index": null,
     "recent": [],
@@ -52,28 +67,30 @@
   },
   "group": {
     "name": {
-      "zh": "",
-      "en": ""
+      "zh": "中国科学院电磁空间信息重点实验室",
+      "en": "CAS Key Lab of Electromagnetic Space Information"
     },
     "url": null,
-    "source": "",
-    "peer_professor_ids": []
+    "source": "web_search",
+    "peer_professor_ids": [
+      "ustc-sist-chenchang"
+    ]
   },
   "admission": {
-    "is_recruiting": null,
-    "openings": null,
-    "requirements": {
-      "zh": null,
-      "en": null
-    },
-    "preferred_background": [],
-    "application_deadline": null,
-    "funding_notes": null,
-    "source": "has_subpage",
-    "source_note": "有招生信息子页面"
+    "is_recruiting": true,
+    "preferred_background": [
+      "EE",
+      "Physics"
+    ],
+    "source": "web_search",
+    "source_note": "2026招生确认"
   },
   "education": [],
-  "awards": [],
+  "awards": [
+    "中科院科技进步一等奖",
+    "中科院科技进步二等奖",
+    "中国科学院青年科学家奖"
+  ],
   "_sources": {
     "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList&wbtreeid=1014&st=0&id=1014&lang=zh_CN",
     "homepage": "http://faculty.ustc.edu.cn/chenweidong/zh_CN/index.htm",
@@ -92,16 +109,23 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-12T23:30:00Z"
+    "fetched_at": "2026-06-12T23:40:08.068167",
+    "web_search_done": true
   },
   "_quality": {
-    "overall": "low",
-    "verified_via_multiple_sources": [],
-    "missing_fields": [
+    "overall": "medium",
+    "verified_via_multiple_sources": [
+      "name",
+      "title",
       "email",
-      "publications",
+      "phone",
+      "research",
+      "group"
+    ],
+    "missing_fields": [
+      "scholar_url",
       "student_destinations"
     ],
-    "notes": "基础信息已提取。论文、研究方向需从Google Scholar获取。"
+    "notes": "⚠️ Scholar重名严重(天津大学另有陈卫东)。与陈畅同实验室。"
   }
 }

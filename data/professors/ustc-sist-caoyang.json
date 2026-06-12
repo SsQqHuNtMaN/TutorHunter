@@ -16,8 +16,8 @@
   },
   "region": "mainland_china",
   "contact": {
-    "email": null,
-    "email_note": "JS加密",
+    "email": "forrest@ustc.edu.cn",
+    "email_note": "Web搜索交叉验证",
     "phone": null,
     "office": null,
     "homepage_url": "http://faculty.ustc.edu.cn/caoyang1/zh_CN/index.htm",
@@ -26,21 +26,35 @@
   },
   "research": {
     "homepage_directions": [],
-    "inferred_from_papers": [],
-    "inferred_from_papers_note": "待从Google Scholar获取论文后归纳",
-    "keywords": [],
+    "inferred_from_papers": [
+      "计算机视觉",
+      "深度学习",
+      "图像处理",
+      "排放源识别",
+      "城市流预测"
+    ],
+    "inferred_from_papers_note": "基于WebSearch（2026-06）; 百度学术H=13, 890 citations",
+    "keywords": [
+      "computer vision",
+      "deep learning",
+      "image processing"
+    ],
     "summary": {
-      "zh": "",
-      "en": ""
+      "zh": "曹洋，副教授。主要研究方向为计算机视觉、深度学习、图像处理。百度学术被引890次，H指数13。合作学者包括康宇、许镇义、赵云波。⚠️ USTC有两位曹洋（自动化系 vs 生医部），此条目为信息科学技术学院自动化系曹洋。",
+      "en": "Yang Cao, Associate Professor. Research: computer vision, deep learning. Baidu Scholar: 890 citations, H=13."
     },
-    "tags": []
+    "tags": [
+      "CV",
+      "AI",
+      "Deep Learning"
+    ]
   },
   "publications": {
-    "source": null,
-    "source_url": null,
-    "source_note": "待从Google Scholar获取",
-    "total_count": null,
-    "h_index": null,
+    "source": "baidu_scholar",
+    "source_url": "https://xueshu.baidu.com/scholarID/CN-BW7384KJ",
+    "source_note": "百度学术; Google Scholar待确认",
+    "total_count": 46,
+    "h_index": 13,
     "recent": [],
     "top_venues": []
   },
@@ -61,18 +75,17 @@
   },
   "admission": {
     "is_recruiting": null,
-    "openings": null,
-    "requirements": {
-      "zh": null,
-      "en": null
-    },
-    "preferred_background": [],
-    "application_deadline": null,
-    "funding_notes": null,
     "source": "has_subpage",
     "source_note": "有招生信息子页面"
   },
-  "education": [],
+  "education": [
+    {
+      "degree": "博士",
+      "school": "东北大学",
+      "major": "模式识别与智能系统",
+      "year": "1995-2004"
+    }
+  ],
   "awards": [],
   "_sources": {
     "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList&wbtreeid=1014&st=0&id=1014&lang=zh_CN",
@@ -101,16 +114,22 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-12T23:30:00Z"
+    "fetched_at": "2026-06-12T23:40:08.068167",
+    "web_search_done": true
   },
   "_quality": {
-    "overall": "low",
-    "verified_via_multiple_sources": [],
-    "missing_fields": [
+    "overall": "medium",
+    "verified_via_multiple_sources": [
+      "name",
       "email",
-      "publications",
-      "student_destinations"
+      "research",
+      "publications_count"
     ],
-    "notes": "基础信息已提取。论文、研究方向需从Google Scholar获取。"
+    "missing_fields": [
+      "scholar_url",
+      "student_destinations",
+      "phone"
+    ],
+    "notes": "⚠️ 重名警告：USTC有两位曹洋。此为自动化系曹洋。"
   }
 }

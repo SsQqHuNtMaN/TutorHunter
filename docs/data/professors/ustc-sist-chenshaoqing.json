@@ -16,8 +16,8 @@
   },
   "region": "mainland_china",
   "contact": {
-    "email": null,
-    "email_note": "JS加密",
+    "email": "windcsq@ustc.edu.cn",
+    "email_note": "Web搜索交叉验证",
     "phone": null,
     "office": null,
     "homepage_url": "http://faculty.ustc.edu.cn/chenshaoqing/zh_CN/index.htm",
@@ -26,19 +26,33 @@
   },
   "research": {
     "homepage_directions": [],
-    "inferred_from_papers": [],
-    "inferred_from_papers_note": "待从Google Scholar获取论文后归纳",
-    "keywords": [],
+    "inferred_from_papers": [
+      "振动主动控制",
+      "磁悬浮隔振器",
+      "自适应前馈控制",
+      "自抗扰控制(ADRC)"
+    ],
+    "inferred_from_papers_note": "基于WebSearch和主页项目/论文获取（2026-06）",
+    "keywords": [
+      "active vibration control",
+      "magnetic levitation",
+      "ADRC",
+      "adaptive control"
+    ],
     "summary": {
-      "zh": "",
-      "en": ""
+      "zh": "陈绍青，工程师，博士（自动化系，导航制导与控制）。研究方向为振动主动控制与隔振技术，包括磁悬浮隔振器的自适应前馈控制、自抗扰控制(ADRC)。应用涉及水下航行器减振降噪、空间微重力隔振及飞行器姿态控制。",
+      "en": "Shaoqing Chen, Engineer, PhD (USTC Automation). Research: active vibration control, magnetic levitation, ADRC."
     },
-    "tags": []
+    "tags": [
+      "Control",
+      "Vibration",
+      "Automation"
+    ]
   },
   "publications": {
-    "source": null,
-    "source_url": null,
-    "source_note": "待从Google Scholar获取",
+    "source": "homepage",
+    "source_url": "https://faculty.ustc.edu.cn/chenshaoqing/en/lwcg/229980/list/index.htm",
+    "source_note": "主页论文列表",
     "total_count": null,
     "h_index": null,
     "recent": [],
@@ -61,18 +75,23 @@
   },
   "admission": {
     "is_recruiting": null,
-    "openings": null,
-    "requirements": {
-      "zh": null,
-      "en": null
-    },
-    "preferred_background": [],
-    "application_deadline": null,
-    "funding_notes": null,
     "source": "has_subpage",
     "source_note": "有招生信息子页面"
   },
-  "education": [],
+  "education": [
+    {
+      "degree": "学士",
+      "school": "中国科学技术大学",
+      "major": "自动化",
+      "year": "2003-2007"
+    },
+    {
+      "degree": "博士",
+      "school": "中国科学技术大学",
+      "major": "导航、制导与控制",
+      "year": "2007-2013"
+    }
+  ],
   "awards": [],
   "_sources": {
     "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList&wbtreeid=1014&st=0&id=1014&lang=zh_CN",
@@ -100,16 +119,23 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-12T23:30:00Z"
+    "fetched_at": "2026-06-12T23:40:08.068167",
+    "web_search_done": true
   },
   "_quality": {
-    "overall": "low",
-    "verified_via_multiple_sources": [],
-    "missing_fields": [
+    "overall": "medium",
+    "verified_via_multiple_sources": [
+      "name",
+      "title",
       "email",
-      "publications",
+      "research",
+      "education"
+    ],
+    "missing_fields": [
+      "scholar_url",
+      "phone",
       "student_destinations"
     ],
-    "notes": "基础信息已提取。论文、研究方向需从Google Scholar获取。"
+    "notes": "控制工程/自动化方向，非传统电子工程。"
   }
 }

@@ -17,7 +17,7 @@
   "region": "mainland_china",
   "contact": {
     "email": null,
-    "email_note": "JS加密",
+    "email_note": "未找到",
     "phone": null,
     "office": null,
     "homepage_url": "http://faculty.ustc.edu.cn/ChenHe/zh_CN/index.htm",
@@ -27,7 +27,7 @@
   "research": {
     "homepage_directions": [],
     "inferred_from_papers": [],
-    "inferred_from_papers_note": "待从Google Scholar获取论文后归纳",
+    "inferred_from_papers_note": "信息不足",
     "keywords": [],
     "summary": {
       "zh": "",
@@ -36,9 +36,9 @@
     "tags": []
   },
   "publications": {
-    "source": null,
-    "source_url": null,
-    "source_note": "待从Google Scholar获取",
+    "source": "homepage",
+    "source_url": "http://faculty.ustc.edu.cn/ChenHe/zh_CN/lwcg/666353/list/index.htm",
+    "source_note": "主页有论文列表待抓取",
     "total_count": null,
     "h_index": null,
     "recent": [],
@@ -61,14 +61,6 @@
   },
   "admission": {
     "is_recruiting": null,
-    "openings": null,
-    "requirements": {
-      "zh": null,
-      "en": null
-    },
-    "preferred_background": [],
-    "application_deadline": null,
-    "funding_notes": null,
     "source": "has_subpage",
     "source_note": "有招生信息子页面"
   },
@@ -97,17 +89,21 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-12T23:30:00Z"
+    "fetched_at": "2026-06-12T23:40:08.068167",
+    "web_search_done": true
   },
   "_quality": {
     "overall": "low",
-    "verified_via_multiple_sources": [],
+    "verified_via_multiple_sources": [
+      "name",
+      "title"
+    ],
     "missing_fields": [
       "email",
+      "research",
       "publications",
-      "student_destinations",
-      "research_summary"
+      "student_destinations"
     ],
-    "notes": "基础信息已提取。论文、研究方向等需从Google Scholar进一步获取。"
+    "notes": "Web搜索信息有限。博士后阶段，信息少属正常。"
   }
 }

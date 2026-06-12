@@ -274,9 +274,40 @@ When the user wants to filter before extraction:
 3. Ask which keyword/direction to filter by
 4. Only extract matching professors
 
-## After Extraction
+## After Extraction — Auto Deploy
 
-After each batch of extractions:
-1. Update `data/professors/index.json` with new/modified entries
-2. Run: `python scripts/build_site.py`
-3. Report: "Extracted N professors. Site regenerated in docs/. Run `git add docs/ data/ && git commit && git push` to deploy."
+After each batch of extractions, **automatically commit and deploy**:
+
+### Step 1: Update index and rebuild
+```bash
+python scripts/build_site.py
+```
+
+### Step 2: Auto commit
+```bash
+git add data/ docs/ web/
+git commit -m "hunt: extract N professors at YYYY-MM-DD HH:MM"
+```
+Use a descriptive commit message like:
+- `"hunt: add 5 USTC SIST professors (batch 1)"` 
+- `"hunt: update 3 professors with Scholar data"`
+
+### Step 3: Auto push
+```bash
+git push
+```
+
+If `git push` fails (no remote, no permission):
+- Report the error clearly to the user
+- Suggest: `git remote add origin <url>` if remote is missing
+- The data is already saved locally in `data/` and `docs/` — nothing is lost
+
+### Step 4: Report summary
+```
+✅ Batch complete
+   Extracted: 5 professors
+   Committed: hunt: add 5 USTC SIST professors
+   Pushed: ✅ (or ❌ no remote configured)
+   Site: https://<username>.github.io/TutorHunter (if deployed)
+   Local: docs/index.html
+```

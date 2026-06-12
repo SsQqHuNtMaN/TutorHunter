@@ -16,33 +16,53 @@
   },
   "region": "mainland_china",
   "contact": {
-    "email": null,
-    "email_note": "JS加密",
+    "email": "yangai@ustc.edu.cn",
+    "email_note": "Web搜索交叉验证",
     "phone": null,
     "office": null,
     "homepage_url": "http://faculty.ustc.edu.cn/aiyang/zh_CN/index.htm",
     "scholar_url": null,
-    "dblp_url": null
+    "dblp_url": "https://dblp1.uni-trier.de/pid/48/450-127.xml"
   },
   "research": {
     "homepage_directions": [],
-    "inferred_from_papers": [],
-    "inferred_from_papers_note": "待从Google Scholar获取论文后归纳",
-    "keywords": [],
+    "inferred_from_papers": [
+      "语音合成",
+      "语音增强",
+      "语音分离",
+      "音频编码",
+      "音频质量评价"
+    ],
+    "inferred_from_papers_note": "基于WebSearch获取（2026-06）",
+    "keywords": [
+      "speech synthesis",
+      "speech enhancement",
+      "speech separation",
+      "audio coding"
+    ],
     "summary": {
-      "zh": "",
-      "en": ""
+      "zh": "艾杨，特任副研究员、硕士生导师。主要研究方向为语音信号处理，包括语音合成、语音增强、语音分离、音频编码与质量评价。在IEEE TASLP、ICASSP、Interspeech等顶级期刊和会议发表论文60余篇。2024年入选\"小米青年学者\"。",
+      "en": "Yang Ai, Associate Research Fellow. Research focuses on speech signal processing including synthesis, enhancement, separation, and audio coding. Published 60+ papers in IEEE TASLP, ICASSP, Interspeech."
     },
-    "tags": []
+    "tags": [
+      "Speech",
+      "Audio",
+      "AI",
+      "Signal Processing"
+    ]
   },
   "publications": {
-    "source": null,
-    "source_url": null,
-    "source_note": "待从Google Scholar获取",
-    "total_count": null,
+    "source": "ieee_xplore",
+    "source_url": "https://ieeexplore.ieee.org/author/37086348873",
+    "source_note": "IEEE Xplore author profile",
+    "total_count": 60,
     "h_index": null,
     "recent": [],
-    "top_venues": []
+    "top_venues": [
+      "IEEE TASLP",
+      "ICASSP",
+      "Interspeech"
+    ]
   },
   "students": {
     "inferred_from_papers": [],
@@ -52,28 +72,44 @@
   },
   "group": {
     "name": {
-      "zh": "",
-      "en": ""
+      "zh": "语音及语言信息处理国家工程研究中心",
+      "en": "NERC-SLIP"
     },
     "url": null,
-    "source": "",
+    "source": "web_search",
     "peer_professor_ids": []
   },
   "admission": {
-    "is_recruiting": null,
-    "openings": null,
+    "is_recruiting": true,
+    "openings": "085401 新一代电子信息技术、085410 人工智能",
     "requirements": {
       "zh": null,
       "en": null
     },
-    "preferred_background": [],
-    "application_deadline": null,
-    "funding_notes": null,
-    "source": "has_subpage",
-    "source_note": "有招生信息子页面"
+    "preferred_background": [
+      "EE",
+      "CS"
+    ],
+    "source": "web_search",
+    "source_note": "2026招生导师名单确认"
   },
-  "education": [],
-  "awards": [],
+  "education": [
+    {
+      "degree": "学士",
+      "school": "厦门大学",
+      "major": "通信工程",
+      "year": "2012-2016"
+    },
+    {
+      "degree": "博士",
+      "school": "中国科学技术大学",
+      "major": "信息与通信工程",
+      "year": "2016-2021"
+    }
+  ],
+  "awards": [
+    "小米青年学者（2024）"
+  ],
   "_sources": {
     "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList&wbtreeid=1014&st=0&id=1014&lang=zh_CN",
     "homepage": "http://faculty.ustc.edu.cn/aiyang/zh_CN/index.htm",
@@ -87,17 +123,22 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-12T23:30:00Z"
+    "fetched_at": "2026-06-12T23:40:08.068167",
+    "web_search_done": true
   },
   "_quality": {
-    "overall": "low",
-    "verified_via_multiple_sources": [],
-    "missing_fields": [
+    "overall": "medium",
+    "verified_via_multiple_sources": [
+      "name",
+      "title",
       "email",
-      "publications",
-      "student_destinations",
-      "research_summary"
+      "research",
+      "publications_count"
     ],
-    "notes": "基础信息已提取。论文、研究方向等需从Google Scholar进一步获取。"
+    "missing_fields": [
+      "scholar_url",
+      "student_destinations"
+    ],
+    "notes": "邮箱/研究方向/论文数从WebSearch验证。Google Scholar待确认。"
   }
 }

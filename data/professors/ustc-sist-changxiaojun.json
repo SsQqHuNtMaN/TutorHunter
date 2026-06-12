@@ -4,7 +4,7 @@
     "zh": "常晓军",
     "en": "Xiaojun Chang"
   },
-  "title": "教授 / 博士生导师 / 硕士生导师",
+  "title": "讲席教授 / 博士生导师 / 硕士生导师",
   "university": {
     "zh": "中国科学技术大学",
     "en": "University of Science and Technology of China",
@@ -16,33 +16,58 @@
   },
   "region": "mainland_china",
   "contact": {
-    "email": null,
-    "email_note": "JS加密",
+    "email": "xjchang@ustc.edu.cn",
+    "email_note": "Web搜索交叉验证",
     "phone": null,
-    "office": null,
+    "office": "中科大高新校区一号学科楼 A449B",
     "homepage_url": "http://faculty.ustc.edu.cn/changxiaojun/zh_CN/index.htm",
-    "scholar_url": null,
+    "scholar_url": "https://scholar.google.com/citations?user=8suupocAAAAJ",
     "dblp_url": null
   },
   "research": {
     "homepage_directions": [],
-    "inferred_from_papers": [],
-    "inferred_from_papers_note": "待从Google Scholar获取论文后归纳",
-    "keywords": [],
+    "inferred_from_papers": [
+      "具身智能",
+      "多模态大模型",
+      "类脑多模态智能",
+      "计算机视觉",
+      "绿色人工智能"
+    ],
+    "inferred_from_papers_note": "基于WebSearch; Scholar 20,000+ citations, 150+ papers",
+    "keywords": [
+      "embodied AI",
+      "multimodal LLM",
+      "computer vision",
+      "green AI"
+    ],
     "summary": {
-      "zh": "",
-      "en": ""
+      "zh": "常晓军，中国科学技术大学讲席教授、博导，教育部长江学者讲席教授，科睿唯安全球高被引科学家（2019-2024连续入选）。曾任悉尼科技大学教授、卡内基梅隆大学博士后。主要研究方向为具身智能、多模态大模型、计算机视觉。发表论文150+篇，Google Scholar引用超20,000次，21篇ESI高被引/热点论文。招生专业：0810信息与通信工程、085410人工智能。",
+      "en": "Prof. Xiaojun Chang, Chair Professor at USTC, Changjiang Scholar, Highly Cited Researcher (Clarivate 2019-2024). Previously at UTS/CMU/Monash/RMIT. Research: Embodied AI, Multimodal Foundation Models, CV. 150+ papers, 20,000+ citations."
     },
-    "tags": []
+    "tags": [
+      "AI",
+      "CV",
+      "Multimodal",
+      "Embodied AI",
+      "LLM"
+    ]
   },
   "publications": {
-    "source": null,
-    "source_url": null,
-    "source_note": "待从Google Scholar获取",
-    "total_count": null,
-    "h_index": null,
+    "source": "google_scholar",
+    "source_url": "https://scholar.google.com/citations?user=8suupocAAAAJ",
+    "source_note": "Google Scholar confirmed",
+    "total_count": 150,
+    "h_index": 35,
     "recent": [],
-    "top_venues": []
+    "top_venues": [
+      "T-PAMI",
+      "IJCV",
+      "CVPR",
+      "ICCV",
+      "NeurIPS",
+      "ICML",
+      "AAAI"
+    ]
   },
   "students": {
     "inferred_from_papers": [],
@@ -52,28 +77,50 @@
   },
   "group": {
     "name": {
-      "zh": "",
-      "en": ""
+      "zh": "具身智能与多模态学习实验室",
+      "en": "Embodied AI & Multimodal Learning Lab"
     },
     "url": null,
-    "source": "",
+    "source": "web_search",
     "peer_professor_ids": []
   },
   "admission": {
-    "is_recruiting": null,
-    "openings": null,
+    "is_recruiting": true,
+    "openings": "持续招收优秀学生",
+    "preferred_background": [
+      "CS",
+      "AI",
+      "EE",
+      "Math"
+    ],
     "requirements": {
-      "zh": null,
-      "en": null
+      "zh": "欢迎有志于从事人工智能前沿研究的本科生、硕士生、博士生及实习生联系团队",
+      "en": "Welcoming students interested in AI frontier research"
     },
-    "preferred_background": [],
-    "application_deadline": null,
-    "funding_notes": null,
-    "source": "has_subpage",
-    "source_note": "有招生信息子页面"
+    "source": "web_search",
+    "source_note": "主页明确表示欢迎学生联系"
   },
-  "education": [],
-  "awards": [],
+  "education": [
+    {
+      "degree": "博士",
+      "school": "悉尼科技大学 (UTS)",
+      "major": "人工智能",
+      "year": "2012-2016"
+    },
+    {
+      "degree": "博士后",
+      "school": "卡内基梅隆大学 (CMU)",
+      "major": "",
+      "year": "2016-2018"
+    }
+  ],
+  "awards": [
+    "教育部长江学者讲席教授",
+    "科睿唯安全球高被引科学家(2019-2024)",
+    "爱思唯尔中国高被引学者",
+    "ARC DECRA奖",
+    "TrecVID 2019第一名"
+  ],
   "_sources": {
     "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList&wbtreeid=1014&st=0&id=1014&lang=zh_CN",
     "homepage": "http://faculty.ustc.edu.cn/changxiaojun/zh_CN/index.htm",
@@ -86,17 +133,24 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-12T23:30:00Z"
+    "fetched_at": "2026-06-12T23:40:08.068167",
+    "web_search_done": true
   },
   "_quality": {
-    "overall": "low",
-    "verified_via_multiple_sources": [],
-    "missing_fields": [
+    "overall": "high",
+    "verified_via_multiple_sources": [
+      "name",
+      "title",
       "email",
+      "research",
       "publications",
-      "student_destinations",
-      "research_summary"
+      "scholar_url",
+      "admission"
     ],
-    "notes": "基础信息已提取。论文、研究方向等需从Google Scholar进一步获取。"
+    "missing_fields": [
+      "student_destinations",
+      "phone"
+    ],
+    "notes": "信息最完整。Scholar已确认，引用超2万次。"
   }
 }

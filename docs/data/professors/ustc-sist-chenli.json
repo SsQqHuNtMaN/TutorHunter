@@ -4,7 +4,7 @@
     "zh": "陈力",
     "en": "Li Chen"
   },
-  "title": "讲师",
+  "title": "特任教授 / 副教授 / 博士生导师",
   "university": {
     "zh": "中国科学技术大学",
     "en": "University of Science and Technology of China",
@@ -16,33 +16,55 @@
   },
   "region": "mainland_china",
   "contact": {
-    "email": null,
-    "email_note": "JS加密",
+    "email": "chenli87@ustc.edu.cn",
+    "email_note": "Web搜索交叉验证; 个人主页 staff.ustc.edu.cn/~chenli87/",
     "phone": null,
     "office": null,
     "homepage_url": "http://faculty.ustc.edu.cn/chenli1/zh_CN/index.htm",
-    "scholar_url": null,
+    "scholar_url": "https://scholar.google.ca/citations?user=2282PT8AAAAJ",
     "dblp_url": null
   },
   "research": {
     "homepage_directions": [],
-    "inferred_from_papers": [],
-    "inferred_from_papers_note": "待从Google Scholar获取论文后归纳",
-    "keywords": [],
+    "inferred_from_papers": [
+      "6G/5G无线通信",
+      "通信感知计算一体化(ISAC)",
+      "分布式机器学习",
+      "编码存储与计算",
+      "边缘计算"
+    ],
+    "inferred_from_papers_note": "基于WebSearch（2026-06）",
+    "keywords": [
+      "6G",
+      "ISAC",
+      "distributed ML",
+      "coded computing",
+      "wireless"
+    ],
     "summary": {
-      "zh": "陈力，中国科学技术大学特任教授、博士生导师。主持国家优青和安徽省杰青项目。主要研究方向为下一代无线网络中通信、感知和计算的融合，及其在产业中的落地应用。研究成果发表于本领域顶级刊物，包括IEEE J. Sel. Areas Commun.、IEEE Trans. Signal Process.、IEEE Trans. Commun.等。研究成果引起国内外同行广泛关注，两项成果入选工信部6G潜在关键技术，连续多年入选全球前2%顶尖科学家。获安徽省自然科学二等奖、华为青年学者奖、工信部5G应用大赛一等奖、华为难题火花奖、翟光龙学者奖等。受邀担任中国电子学会通信分会委员，中国通信学会青年委员、中兴通讯产学研合作青年委员等。",
-      "en": ""
+      "zh": "陈力，特任教授/副教授，博士生导师。研究方向为下一代无线通信(6G/5G)、通信感知计算一体化(ISAC)、分布式机器学习与编码计算。国家优秀青年科学基金获得者。连续多年入选全球前2%顶尖科学家。获安徽省自然科学二等奖、华为青年学者奖。IMT-2030(6G)推进组成员。",
+      "en": "Li Chen, Professor/Associate Professor. Research: 6G/5G, ISAC, distributed ML, coded computing. NSFC Excellent Young Scientists Fund recipient. World Top 2% Scientists."
     },
-    "tags": []
+    "tags": [
+      "Wireless",
+      "6G",
+      "ISAC",
+      "Distributed ML",
+      "Communications"
+    ]
   },
   "publications": {
-    "source": null,
-    "source_url": null,
-    "source_note": "待从Google Scholar获取",
+    "source": "google_scholar",
+    "source_url": "https://scholar.google.ca/citations?user=2282PT8AAAAJ",
+    "source_note": "Google Scholar confirmed",
     "total_count": null,
     "h_index": null,
     "recent": [],
-    "top_venues": []
+    "top_venues": [
+      "IEEE TSP",
+      "IEEE TCOM",
+      "IEEE JSAC"
+    ]
   },
   "students": {
     "inferred_from_papers": [],
@@ -52,28 +74,40 @@
   },
   "group": {
     "name": {
-      "zh": "",
-      "en": ""
+      "zh": "无线光通信中国科学院重点实验室",
+      "en": "CAS Key Lab of Wireless-Optical Communications"
     },
-    "url": null,
-    "source": "",
+    "url": "http://woc-lab.ustc.edu.cn",
+    "source": "web_search",
     "peer_professor_ids": []
   },
   "admission": {
-    "is_recruiting": null,
-    "openings": null,
-    "requirements": {
-      "zh": null,
-      "en": null
-    },
-    "preferred_background": [],
-    "application_deadline": null,
-    "funding_notes": null,
-    "source": "has_subpage",
-    "source_note": "有招生信息子页面"
+    "is_recruiting": true,
+    "preferred_background": [
+      "EE",
+      "CS",
+      "Math"
+    ],
+    "funding_notes": "主持国家优青、安徽省杰青",
+    "source": "web_search",
+    "source_note": "实验室招生页面确认"
   },
-  "education": [],
-  "awards": [],
+  "education": [
+    {
+      "degree": "博士",
+      "school": "中国科学技术大学",
+      "major": "",
+      "year": ""
+    }
+  ],
+  "awards": [
+    "国家优秀青年科学基金",
+    "安徽省杰出青年科学基金",
+    "全球前2%顶尖科学家(连续多年)",
+    "安徽省自然科学二等奖",
+    "华为青年学者奖",
+    "工信部5G应用大赛一等奖"
+  ],
   "_sources": {
     "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList&wbtreeid=1014&st=0&id=1014&lang=zh_CN",
     "homepage": "http://faculty.ustc.edu.cn/chenli1/zh_CN/index.htm",
@@ -86,16 +120,24 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-12T23:30:00Z"
+    "fetched_at": "2026-06-12T23:40:08.068167",
+    "web_search_done": true
   },
   "_quality": {
-    "overall": "low",
-    "verified_via_multiple_sources": [],
-    "missing_fields": [
+    "overall": "high",
+    "verified_via_multiple_sources": [
+      "name",
+      "title",
       "email",
-      "publications",
-      "student_destinations"
+      "research",
+      "scholar_url",
+      "awards"
     ],
-    "notes": "基础信息已提取。论文、研究方向需从Google Scholar获取。"
+    "missing_fields": [
+      "phone",
+      "student_destinations",
+      "publications_count"
+    ],
+    "notes": "Google Scholar已确认。原标注\"讲师\"，实际为特任教授/副教授。"
   }
 }
