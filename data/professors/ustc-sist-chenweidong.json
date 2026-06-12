@@ -1,0 +1,569 @@
+{
+  "id": "ustc-sist-chenweidong",
+  "name": {
+    "zh": "陈卫东",
+    "en": "Weidong Chen"
+  },
+  "title": "教授 / 博士生导师",
+  "university": {
+    "zh": "中国科学技术大学",
+    "en": "University of Science and Technology of China",
+    "short": "USTC"
+  },
+  "department": {
+    "zh": "信息科学技术学院",
+    "en": "School of Information Science and Technology"
+  },
+  "region": "mainland_china",
+  "contact": {
+    "email": "wdchen@ustc.edu.cn",
+    "email_note": "Web搜索交叉验证",
+    "phone": "0551-63601303",
+    "office": null,
+    "homepage_url": "http://faculty.ustc.edu.cn/chenweidong/zh_CN/index.htm",
+    "scholar_url": null,
+    "dblp_url": null
+  },
+  "research": {
+    "homepage_directions": [],
+    "inferred_from_papers": [
+      "微波毫米波系统",
+      "雷达信号与信息处理",
+      "微波凝视关联成像",
+      "分布式雷达超分辨成像"
+    ],
+    "inferred_from_papers_note": "基于WebSearch（2026-06）",
+    "keywords": [
+      "microwave/mm-wave",
+      "radar signal processing",
+      "imaging",
+      "distributed radar"
+    ],
+    "summary": {
+      "zh": "陈卫东，教授、博士生导师，党委教师工作部部长/人力资源部部长。研究方向为微波毫米波系统、雷达信号与信息处理。获中科院科技进步一等奖/二等奖、中国科学院青年科学家奖。主讲《微波技术基础》《微波成像》。",
+      "en": "Prof. Weidong Chen, PhD supervisor. Research: microwave/mm-wave systems, radar signal processing. CAS S&T Progress Awards, CAS Young Scientist Award."
+    },
+    "tags": [
+      "Biomedical",
+      "Circuit/IC",
+      "Computer Vision",
+      "Generative AI",
+      "Imaging",
+      "Microwave",
+      "Radar",
+      "Signal Processing",
+      "Speech/Audio"
+    ]
+  },
+  "publications": {
+    "source": "arxiv",
+    "source_url": "https://faculty.ustc.edu.cn/chenweidong/zh_CN/lwcg/8300/list/index.htm",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
+    "total_count": null,
+    "h_index": null,
+    "recent": [
+      {
+        "title": "Audio-Visual Exchange-Aware Token Pruning for Efficient Audio-Visual Captioning",
+        "authors": [
+          {
+            "name": "Zihan Meng",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Dexiang Hong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Weidong Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ziyu Zhou",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Bo Hu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhendong Mao",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Towards Accurate Emotion-Attributed Video Captioning via Fine-grained Emotion-Cause Pair Extraction",
+        "authors": [
+          {
+            "name": "Weidong Chen",
+            "role": "first_author",
+            "likely_student": false
+          },
+          {
+            "name": "Cheng Ye",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhendong Mao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Liping Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xinyan Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yongdong Zhang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "CreatiParser: Generative Image Parsing of Raster Graphic Designs into Editable Layers",
+        "authors": [
+          {
+            "name": "Weidong Chen",
+            "role": "first_author",
+            "likely_student": false
+          },
+          {
+            "name": "Dexiang Hong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhendong Mao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yutao Cheng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xinyan Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Lei Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yongdong Zhang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "A Multi-Agent Framework with Structured Reasoning and Reflective Refinement for Multimodal Empathetic Response Generation",
+        "authors": [
+          {
+            "name": "Liping Wang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Cheng Ye",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Weidong Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Peipei Song",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Bo Hu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhendong Mao",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Submitted to ACM Multimetida 2026",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Unified Unsupervised and Sparsely-Supervised 3D Object Detection by Semantic Pseudo-Labeling and Prototype Learning",
+        "authors": [
+          {
+            "name": "Yushen He",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Lei Zhao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Weidong Chen",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "CT-VoxelMap: Efficient Continuous-Time LiDAR-Inertial Odometry with Probabilistic Adaptive Voxel Mapping",
+        "authors": [
+          {
+            "name": "Lei Zhao",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Xingyi Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Tianchen Deng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chuan Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Han Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Weidong Chen",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "FACE-net: Factual Calibration and Emotion Augmentation for Retrieval-enhanced Emotional Video Captioning",
+        "authors": [
+          {
+            "name": "Weidong Chen",
+            "role": "first_author",
+            "likely_student": false
+          },
+          {
+            "name": "Cheng Ye",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhendong Mao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Peipei Song",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xinyan Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Lei Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yongdong Zhang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Submitted to TPAMI. 16 pages, 9 figures",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "U-OBCA: Uncertainty-Aware Optimization-Based Collision Avoidance via Wasserstein Distributionally Robust Chance Constraints",
+        "authors": [
+          {
+            "name": "Zehao Wang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yuxuan Tang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Han Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jingchuan Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Weidong Chen",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "EmoVerse: A MLLMs-Driven Emotion Representation Dataset for Interpretable Visual Emotion Analysis",
+        "authors": [
+          {
+            "name": "Yijie Guo",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Dexiang Hong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Weidong Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zihan She",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Cheng Ye",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaojun Chang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhendong Mao",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "11 pages, 7 figures. This is a preprint version of a paper submitted to CVPR 202",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "CreatiDesign: A Unified Multi-Conditional Diffusion Transformer for Creative Graphic Design",
+        "authors": [
+          {
+            "name": "Hui Zhang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Dexiang Hong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Maoke Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yutao Cheng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhao Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Weidong Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jie Shao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xinglong Wu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zuxuan Wu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yu-Gang Jiang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Accepted by ICLR 2026",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      }
+    ],
+    "top_venues": []
+  },
+  "students": {
+    "inferred_from_papers": [],
+    "destinations": [],
+    "current_count": null,
+    "note": "待从论文作者列表推断"
+  },
+  "group": {
+    "name": {
+      "zh": "中国科学院电磁空间信息重点实验室",
+      "en": "CAS Key Lab of Electromagnetic Space Information"
+    },
+    "url": null,
+    "source": "web_search",
+    "peer_professor_ids": [
+      "ustc-sist-chenchang"
+    ]
+  },
+  "admission": {
+    "is_recruiting": true,
+    "preferred_background": [
+      "EE",
+      "Physics"
+    ],
+    "source": "web_search",
+    "source_note": "2026招生确认"
+  },
+  "education": [],
+  "awards": [
+    "中科院科技进步一等奖",
+    "中科院科技进步二等奖",
+    "中国科学院青年科学家奖"
+  ],
+  "_sources": {
+    "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList&wbtreeid=1014&st=0&id=1014&lang=zh_CN",
+    "homepage": "http://faculty.ustc.edu.cn/chenweidong/zh_CN/index.htm",
+    "sub_pages_fetched": [
+      "教学研究",
+      "教学资源",
+      "授课信息",
+      "教学成果",
+      "获奖信息",
+      "招生信息",
+      "学生信息",
+      "我的相册",
+      "教师博客",
+      "中文主页",
+      "教学研究"
+    ],
+    "scholar": null,
+    "dblp": null,
+    "fetched_at": "2026-06-13T00:59:19.568423",
+    "web_search_done": true,
+    "papers_fetched": true
+  },
+  "_quality": {
+    "overall": "high",
+    "verified_via_multiple_sources": [
+      "name",
+      "title",
+      "email",
+      "phone",
+      "research",
+      "group"
+    ],
+    "missing_fields": [
+      "scholar_url",
+      "student_destinations"
+    ],
+    "notes": "⚠️ Scholar重名严重(天津大学另有陈卫东)。与陈畅同实验室。"
+  },
+  "auto_tags_from_papers": []
+}

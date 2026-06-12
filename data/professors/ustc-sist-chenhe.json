@@ -1,0 +1,501 @@
+{
+  "id": "ustc-sist-chenhe",
+  "name": {
+    "zh": "陈鹤",
+    "en": "He Chen"
+  },
+  "title": "博士后研究员",
+  "university": {
+    "zh": "中国科学技术大学",
+    "en": "University of Science and Technology of China",
+    "short": "USTC"
+  },
+  "department": {
+    "zh": "信息科学技术学院",
+    "en": "School of Information Science and Technology"
+  },
+  "region": "mainland_china",
+  "contact": {
+    "email": null,
+    "email_note": "未找到",
+    "phone": null,
+    "office": null,
+    "homepage_url": "http://faculty.ustc.edu.cn/ChenHe/zh_CN/index.htm",
+    "scholar_url": null,
+    "dblp_url": "https://dblp.org/pid/137/0264"
+  },
+  "research": {
+    "homepage_directions": [],
+    "inferred_from_papers": [],
+    "inferred_from_papers_note": "信息不足",
+    "keywords": [],
+    "summary": {
+      "zh": "",
+      "en": ""
+    },
+    "tags": [
+      "Biomedical",
+      "Generative AI",
+      "LLM/MLLM",
+      "Wireless/Comm"
+    ]
+  },
+  "publications": {
+    "source": "arxiv",
+    "source_url": "http://faculty.ustc.edu.cn/ChenHe/zh_CN/lwcg/666353/list/index.htm",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
+    "total_count": null,
+    "h_index": null,
+    "recent": [
+      {
+        "title": "Earth-OneVision: Extending Remote Sensing Multimodal Large Language Models to More Sensor Modalities and Tasks",
+        "authors": [
+          {
+            "name": "Miaoxin Cai",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Guanqun Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Wei Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Guangyao Zhou",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yin Zhuang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Tong Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hao Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "He Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jun Li",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "The Omitted Noise Contribution of Surface Normal Variation: Farassat's Formulation 1A revisited",
+        "authors": [
+          {
+            "name": "Qitian Tao",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Chen He",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaohua Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhengwu Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jiale Lu",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching",
+        "authors": [
+          {
+            "name": "Xu Pan",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Qiyuan Ma",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Mingyue Dong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "He Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Wei Ji",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xianwei Zheng",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "14 pages",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "ISAC-Enabled Grant-Free Uplink via Artificial-Path Delay Modulation",
+        "authors": [
+          {
+            "name": "Ruiqi Kong",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "He Chen",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "6 pages",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Practical Cross-Band Channel Prediction for AI-RAN via Physics-Guided Deep Unfolding",
+        "authors": [
+          {
+            "name": "Ruiqi Kong",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "He Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaojun Lin",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "2 pages",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "FreeForm: Reduced-Order Deformable Simulation from Particle-Based Skinning Eigenmodes",
+        "authors": [
+          {
+            "name": "Donglai Xiang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Vismay Modi",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Rishit Dagli",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ty Trusty",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Gilles Daviet",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Anka He Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Nicholas Sharp",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "David I. W. Levin",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "CVPR 2026, project website: https://research.nvidia.com/labs/sil/projects/freefo",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Diagnosing Harmful Continuation in Answer-Correct Long-CoT Training Traces",
+        "authors": [
+          {
+            "name": "Chen He",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yuhao Wu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Lei Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Wenxuan Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Fumin Shen",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Diffuse to Detect: Generative Diffusion Models for Unsupervised IC Anomaly Detection",
+        "authors": [
+          {
+            "name": "Yuxuan Yin",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Chen He",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Todd Jacobs",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jialei He",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Boxun Xu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Robert Jin",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Peng Li",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "9 pages, 5 figures",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "UHR-Micro: Diagnosing and Mitigating the Resolution Illusion in Earth Observation VLMs",
+        "authors": [
+          {
+            "name": "Shuo Ni",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Tong Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jing Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "He Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Haonan Guo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ning Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Bo Du",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Spurious Stationarity and Hardness Results for Bregman Proximal-Type Algorithms",
+        "authors": [
+          {
+            "name": "He Chen",
+            "role": "first_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jiajin Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Anthony Man-Cho So",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2024,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      }
+    ],
+    "top_venues": []
+  },
+  "students": {
+    "inferred_from_papers": [],
+    "destinations": [],
+    "current_count": null,
+    "note": "待从论文作者列表推断"
+  },
+  "group": {
+    "name": {
+      "zh": "",
+      "en": ""
+    },
+    "url": null,
+    "source": "",
+    "peer_professor_ids": []
+  },
+  "admission": {
+    "is_recruiting": null,
+    "source": "has_subpage",
+    "source_note": "有招生信息子页面"
+  },
+  "education": [],
+  "awards": [],
+  "_sources": {
+    "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList&wbtreeid=1014&st=0&id=1014&lang=zh_CN",
+    "homepage": "http://faculty.ustc.edu.cn/ChenHe/zh_CN/index.htm",
+    "sub_pages_fetched": [
+      "首页",
+      "科学研究",
+      "研究领域",
+      "论文成果",
+      "专利",
+      "著作成果",
+      "科研项目",
+      "教学研究",
+      "教学资源",
+      "授课信息",
+      "教学成果",
+      "获奖信息",
+      "招生信息",
+      "学生信息",
+      "我的相册",
+      "教师博客"
+    ],
+    "scholar": null,
+    "dblp": null,
+    "fetched_at": "2026-06-13T00:59:16.501105",
+    "web_search_done": true,
+    "papers_fetched": true
+  },
+  "_quality": {
+    "overall": "high",
+    "verified_via_multiple_sources": [
+      "name",
+      "title"
+    ],
+    "missing_fields": [
+      "email",
+      "research",
+      "student_destinations"
+    ],
+    "notes": "Web搜索信息有限。博士后阶段，信息少属正常。"
+  },
+  "auto_tags_from_papers": []
+}

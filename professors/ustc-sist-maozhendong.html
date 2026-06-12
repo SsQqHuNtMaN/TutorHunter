@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>毛震东 — TutorHunter</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="app-header">
+        <div class="header-inner">
+            <div>
+                <span class="app-title">🎯 TutorHunter</span>
+            </div>
+            <div class="header-actions">
+                <div class="lang-toggle">
+                    <button class="lang-btn active" data-lang="zh">中文</button>
+                    <button class="lang-btn" data-lang="en">EN</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="app-main">
+        <!-- Back link -->
+        <div class="detail-header-bar">
+            <a href="../index.html" class="back-link">← <span data-zh="返回全部导师" data-en="Back to All Professors"></span></a>
+        </div>
+
+        <!-- Hero Section -->
+        <div id="professor-hero" class="professor-hero">
+            <!-- Rendered by professor-card.js -->
+        </div>
+
+        <!-- Tabs -->
+        <nav class="tab-nav">
+            <button class="tab-btn active" data-tab="research" data-zh="研究方向" data-en="Research"></button>
+            <button class="tab-btn" data-tab="publications" data-zh="论文" data-en="Publications"></button>
+            <button class="tab-btn" data-tab="students" data-zh="学生" data-en="Students"></button>
+            <button class="tab-btn" data-tab="group" data-zh="课题组" data-en="Group"></button>
+            <button class="tab-btn" data-tab="admission" data-zh="招生" data-en="Admission"></button>
+            <button class="tab-btn" data-tab="sources" data-zh="数据来源" data-en="Sources"></button>
+        </nav>
+
+        <!-- Tab Contents -->
+        <div class="tab-content active" id="tab-research"></div>
+        <div class="tab-content" id="tab-publications"></div>
+        <div class="tab-content" id="tab-students"></div>
+        <div class="tab-content" id="tab-group"></div>
+        <div class="tab-content" id="tab-admission"></div>
+        <div class="tab-content" id="tab-sources"></div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+        <p>TutorHunter · <span data-zh="导师信息辅助研究生申请工具" data-en="Professor Database for Graduate School Applications"></span></p>
+    </footer>
+
+    <!-- Embedded professor data -->
+    <script id="embedded-data" type="application/json">
+    {"_quality": {"missing_fields": ["email", "publications", "research"], "notes": "\u6279\u91cfcurl\u63d0\u53d6\u3002\u5f85WebSearch\u8865\u5145\u3002", "overall": "low", "verified_via_multiple_sources": ["name"]}, "_sources": {"fetched_at": "2026-06-13T00:00:00Z", "homepage": "http://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm", "listing_page": "page 6", "sub_pages_fetched": []}, "admission": {"is_recruiting": null, "source": "has_subpage", "source_note": "\u6709\u62db\u751f\u5b50\u9875\u9762"}, "awards": [], "contact": {"dblp_url": null, "email": null, "email_note": "JS\u52a0\u5bc6", "homepage_url": "http://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm", "office": null, "phone": null, "scholar_url": null}, "department": {"en": "School of Information Science and Technology", "zh": "\u4fe1\u606f\u79d1\u5b66\u6280\u672f\u5b66\u9662"}, "destinations": [], "display_admission": "", "display_department": "\u4fe1\u606f\u79d1\u5b66\u6280\u672f\u5b66\u9662", "display_group": "", "display_name": "\u6bdb\u9707\u4e1c", "display_name_en": "", "display_university": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66", "education": [], "group": {"name": {"en": "", "zh": ""}, "peer_professor_ids": [], "source": "", "url": null}, "has_dblp": false, "has_email": false, "has_phone": false, "has_scholar": false, "homepage_dirs": [], "id": "ustc-sist-maozhendong", "inferred_dirs": [], "inferred_students": [], "is_recruiting": null, "keywords": [], "missing_fields": ["email", "publications", "research"], "name": {"en": "", "zh": "\u6bdb\u9707\u4e1c"}, "publications": {"h_index": null, "recent": [], "source": null, "source_note": "\u5f85\u83b7\u53d6", "source_url": null, "top_venues": [], "total_count": null}, "quality_notes": "\u6279\u91cfcurl\u63d0\u53d6\u3002\u5f85WebSearch\u8865\u5145\u3002", "quality_overall": "low", "recent_pubs": [], "region": "mainland_china", "research": {"homepage_directions": [], "inferred_from_papers": [], "inferred_from_papers_note": "\u5f85\u641c\u7d22", "keywords": [], "summary": {"en": "", "zh": ""}, "tags": []}, "sources": {"fetched_at": "2026-06-13T00:00:00Z", "homepage": "http://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm", "listing_page": "page 6", "sub_pages_fetched": []}, "students": {"current_count": null, "destinations": [], "inferred_from_papers": [], "note": ""}, "tags": [], "title": "\u6559\u6388 / \u526f\u6559\u6388 / \u7814\u7a76\u5458 / \u526f\u7814\u7a76\u5458", "university": {"en": "USTC", "short": "USTC", "zh": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66"}}
+    </script>
+
+    <!-- JS Components -->
+    <script src="../js/i18n.js"></script>
+    <script src="../js/data-loader.js"></script>
+    <script src="../js/professor-card.js"></script>
+    <script>
+    (function () {
+        'use strict';
+
+        function init() {
+            var embeddedData = document.getElementById('embedded-data');
+            var professor = null;
+
+            if (embeddedData) {
+                try {
+                    professor = JSON.parse(embeddedData.textContent);
+                } catch (e) {
+                    console.warn('Failed to parse embedded data');
+                }
+            }
+
+            // Fallback: load from JSON file based on page filename
+            if (!professor || Object.keys(professor).length === 0) {
+                var pathParts = window.location.pathname.split('/');
+                var filename = pathParts[pathParts.length - 1];
+                var profId = filename.replace('.html', '');
+
+                if (window.TutorHunterData && profId) {
+                    window.TutorHunterData.loadProfessor(profId).then(function (data) {
+                        window.TutorHunterCard.renderDetailPage(data);
+                    }).catch(function (err) {
+                        console.error('Failed to load professor:', err);
+                    });
+                }
+                return;
+            }
+
+            if (window.TutorHunterCard) {
+                window.TutorHunterCard.renderDetailPage(professor);
+            }
+        }
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', init);
+        } else {
+            init();
+        }
+    })();
+    </script>
+</body>
+</html>

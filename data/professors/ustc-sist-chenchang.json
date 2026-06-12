@@ -1,0 +1,568 @@
+{
+  "id": "ustc-sist-chenchang",
+  "name": {
+    "zh": "陈畅",
+    "en": "Chang Chen"
+  },
+  "title": "正高级工程师",
+  "university": {
+    "zh": "中国科学技术大学",
+    "en": "University of Science and Technology of China",
+    "short": "USTC"
+  },
+  "department": {
+    "zh": "信息科学技术学院",
+    "en": "School of Information Science and Technology"
+  },
+  "region": "mainland_china",
+  "contact": {
+    "email": "chench@ustc.edu.cn",
+    "email_note": "Web搜索交叉验证",
+    "phone": null,
+    "office": null,
+    "homepage_url": "http://faculty.ustc.edu.cn/chenchang/zh_CN/index.htm",
+    "scholar_url": null,
+    "dblp_url": "https://dblp.org/pid/c/ChinChenChang"
+  },
+  "research": {
+    "homepage_directions": [],
+    "inferred_from_papers": [
+      "射频微波系统",
+      "雷达成像信号处理",
+      "压缩感知与稀疏恢复",
+      "滤波器设计",
+      "涡旋电磁波超分辨成像"
+    ],
+    "inferred_from_papers_note": "基于WebSearch（2026-06）; 主持国家自然科学基金面上项目(65万)",
+    "keywords": [
+      "RF/microwave",
+      "radar imaging",
+      "compressive sensing",
+      "filter design"
+    ],
+    "summary": {
+      "zh": "陈畅，正高级工程师，博士。研究方向为射频微波系统与信号处理技术。主持国家自然科学基金面上项目(65万)。与陈卫东教授同属中国科学院电磁空间信息重点实验室。招生专业：080904电磁场与微波技术、085401新一代电子信息技术。",
+      "en": "Chang Chen, Senior Engineer, PhD. Research: RF/microwave systems, radar imaging. Co-located with Prof. Weidong Chen at CAS Key Lab of Electromagnetic Space Information."
+    },
+    "tags": [
+      "Circuit/IC",
+      "Computer Vision",
+      "Embodied AI",
+      "Imaging",
+      "LLM/MLLM",
+      "RF",
+      "Radar",
+      "Robotics",
+      "Signal Processing"
+    ]
+  },
+  "publications": {
+    "source": "arxiv",
+    "source_url": "http://faculty.ustc.edu.cn/chenchang/zh_CN/lwcg/91244/list/index.htm",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
+    "total_count": null,
+    "h_index": null,
+    "recent": [
+      {
+        "title": "Probing Multimodal Large Language Models on Cognitive Biases in Chinese Short-Video Misinformation",
+        "authors": [
+          {
+            "name": "Jen-tse Huang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Chang Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shiyang Lai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Wenxuan Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Michelle R. Kaufman",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Mark Dredze",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Accepted to ACL 2026 (Findings)",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Before the Shutter: Aesthetic and Actionable Portrait Photography Planning in 3D Scenes",
+        "authors": [
+          {
+            "name": "Ruixiang Jiang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Chang Wen Chen",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration",
+        "authors": [
+          {
+            "name": "Zhengding Hu",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Mingge Lu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhen Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jixuan Ruan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chang Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zaifeng Pan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yue Guan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ruiyi Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhongkai Yu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chao Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yufei Ding",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Beyond Fidelity: Semantic Similarity Assessment in Low-Level Image Processing",
+        "authors": [
+          {
+            "name": "Runjie Wang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Weiling Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Tiesong Zhao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chang Wen Chen",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "JigsawRL: Assembling RL Pipelines for Efficient LLM Post-Training",
+        "authors": [
+          {
+            "name": "Zhengding Hu",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Hehua Ouyang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chang Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zaifeng Pan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yue Guan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhongkai Yu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhen Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Steven Swanson",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yufei Ding",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "EgoSelf: From Memory to Personalized Egocentric Assistant",
+        "authors": [
+          {
+            "name": "Yanshuo Wang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yuan Xu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xuesong Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jie Hong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yizhou Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chang Wen Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Wentao Zhu",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "BLADE: Adaptive Wi-Fi Contention Control for Next-Generation Real-Time Communication",
+        "authors": [
+          {
+            "name": "Fengqian Guo",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yuhan Zhou",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Longwei Jiang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Congcong Miao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuxin Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chenren Xu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hancheng Lu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chang Wen Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yaxiong Xie",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Honghao Liu",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Robotic Scene Cloning:Advancing Zero-Shot Robotic Scene Adaptation in Manipulation via Visual Prompt Editing",
+        "authors": [
+          {
+            "name": "Binyuan Huang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yuqing Wen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yucheng Zhao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yaosi Hu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Tiancai Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chang Wen Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Haoqiang Fan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhenzhong Chen",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Convergence of Neural Network Policies for Risk--Reward Optimization",
+        "authors": [
+          {
+            "name": "Chang Chen",
+            "role": "first_author",
+            "likely_student": false
+          },
+          {
+            "name": "Duy-Minh Dang",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "29 pages, 3 figures",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder",
+        "authors": [
+          {
+            "name": "Tianyu Zhang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Dong Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chang Wen Chen",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      }
+    ],
+    "top_venues": []
+  },
+  "students": {
+    "inferred_from_papers": [],
+    "destinations": [],
+    "current_count": null,
+    "note": "待从论文作者列表推断"
+  },
+  "group": {
+    "name": {
+      "zh": "中国科学院电磁空间信息重点实验室",
+      "en": "CAS Key Lab of Electromagnetic Space Information"
+    },
+    "url": null,
+    "source": "web_search",
+    "peer_professor_ids": [
+      "ustc-sist-chenweidong"
+    ]
+  },
+  "admission": {
+    "is_recruiting": true,
+    "openings": "080904电磁场与微波技术、085401新一代电子信息技术",
+    "preferred_background": [
+      "EE",
+      "Physics"
+    ],
+    "source": "web_search",
+    "source_note": "2026招生确认"
+  },
+  "education": [
+    {
+      "degree": "博士",
+      "school": "中国科学技术大学",
+      "major": "",
+      "year": ""
+    }
+  ],
+  "awards": [],
+  "_sources": {
+    "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList&wbtreeid=1014&st=0&id=1014&lang=zh_CN",
+    "homepage": "http://faculty.ustc.edu.cn/chenchang/zh_CN/index.htm",
+    "sub_pages_fetched": [
+      "首页",
+      "研究领域",
+      "论文成果",
+      "专利",
+      "著作成果",
+      "科研项目",
+      "教学资源",
+      "授课信息",
+      "教学成果",
+      "获奖信息",
+      "招生信息",
+      "学生信息",
+      "我的相册",
+      "教师博客"
+    ],
+    "scholar": null,
+    "dblp": null,
+    "fetched_at": "2026-06-13T00:59:15.490250",
+    "web_search_done": true,
+    "papers_fetched": true
+  },
+  "_quality": {
+    "overall": "high",
+    "verified_via_multiple_sources": [
+      "name",
+      "title",
+      "email",
+      "research",
+      "group",
+      "admission"
+    ],
+    "missing_fields": [
+      "scholar_url",
+      "phone",
+      "student_destinations"
+    ],
+    "notes": "与陈卫东同实验室，密切合作。"
+  },
+  "auto_tags_from_papers": []
+}

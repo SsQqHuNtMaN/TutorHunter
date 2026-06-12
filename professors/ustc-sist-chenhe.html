@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>陈鹤 — TutorHunter</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="app-header">
+        <div class="header-inner">
+            <div>
+                <span class="app-title">🎯 TutorHunter</span>
+            </div>
+            <div class="header-actions">
+                <div class="lang-toggle">
+                    <button class="lang-btn active" data-lang="zh">中文</button>
+                    <button class="lang-btn" data-lang="en">EN</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="app-main">
+        <!-- Back link -->
+        <div class="detail-header-bar">
+            <a href="../index.html" class="back-link">← <span data-zh="返回全部导师" data-en="Back to All Professors"></span></a>
+        </div>
+
+        <!-- Hero Section -->
+        <div id="professor-hero" class="professor-hero">
+            <!-- Rendered by professor-card.js -->
+        </div>
+
+        <!-- Tabs -->
+        <nav class="tab-nav">
+            <button class="tab-btn active" data-tab="research" data-zh="研究方向" data-en="Research"></button>
+            <button class="tab-btn" data-tab="publications" data-zh="论文" data-en="Publications"></button>
+            <button class="tab-btn" data-tab="students" data-zh="学生" data-en="Students"></button>
+            <button class="tab-btn" data-tab="group" data-zh="课题组" data-en="Group"></button>
+            <button class="tab-btn" data-tab="admission" data-zh="招生" data-en="Admission"></button>
+            <button class="tab-btn" data-tab="sources" data-zh="数据来源" data-en="Sources"></button>
+        </nav>
+
+        <!-- Tab Contents -->
+        <div class="tab-content active" id="tab-research"></div>
+        <div class="tab-content" id="tab-publications"></div>
+        <div class="tab-content" id="tab-students"></div>
+        <div class="tab-content" id="tab-group"></div>
+        <div class="tab-content" id="tab-admission"></div>
+        <div class="tab-content" id="tab-sources"></div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+        <p>TutorHunter · <span data-zh="导师信息辅助研究生申请工具" data-en="Professor Database for Graduate School Applications"></span></p>
+    </footer>
+
+    <!-- Embedded professor data -->
+    <script id="embedded-data" type="application/json">
+    {"_quality": {"missing_fields": ["email", "research", "student_destinations"], "notes": "Web\u641c\u7d22\u4fe1\u606f\u6709\u9650\u3002\u535a\u58eb\u540e\u9636\u6bb5\uff0c\u4fe1\u606f\u5c11\u5c5e\u6b63\u5e38\u3002", "overall": "high", "verified_via_multiple_sources": ["name", "title"]}, "_sources": {"dblp": null, "fetched_at": "2026-06-13T00:59:16.501105", "homepage": "http://faculty.ustc.edu.cn/ChenHe/zh_CN/index.htm", "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList\u0026wbtreeid=1014\u0026st=0\u0026id=1014\u0026lang=zh_CN", "papers_fetched": true, "scholar": null, "sub_pages_fetched": ["\u9996\u9875", "\u79d1\u5b66\u7814\u7a76", "\u7814\u7a76\u9886\u57df", "\u8bba\u6587\u6210\u679c", "\u4e13\u5229", "\u8457\u4f5c\u6210\u679c", "\u79d1\u7814\u9879\u76ee", "\u6559\u5b66\u7814\u7a76", "\u6559\u5b66\u8d44\u6e90", "\u6388\u8bfe\u4fe1\u606f", "\u6559\u5b66\u6210\u679c", "\u83b7\u5956\u4fe1\u606f", "\u62db\u751f\u4fe1\u606f", "\u5b66\u751f\u4fe1\u606f", "\u6211\u7684\u76f8\u518c", "\u6559\u5e08\u535a\u5ba2"], "web_search_done": true}, "admission": {"is_recruiting": null, "source": "has_subpage", "source_note": "\u6709\u62db\u751f\u4fe1\u606f\u5b50\u9875\u9762"}, "auto_tags_from_papers": [], "awards": [], "contact": {"dblp_url": "https://dblp.org/pid/137/0264", "email": null, "email_note": "\u672a\u627e\u5230", "homepage_url": "http://faculty.ustc.edu.cn/ChenHe/zh_CN/index.htm", "office": null, "phone": null, "scholar_url": null}, "department": {"en": "School of Information Science and Technology", "zh": "\u4fe1\u606f\u79d1\u5b66\u6280\u672f\u5b66\u9662"}, "destinations": [], "display_admission": "", "display_department": "\u4fe1\u606f\u79d1\u5b66\u6280\u672f\u5b66\u9662", "display_group": "", "display_name": "\u9648\u9e64", "display_name_en": "He Chen", "display_university": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66", "education": [], "group": {"name": {"en": "", "zh": ""}, "peer_professor_ids": [], "source": "", "url": null}, "has_dblp": true, "has_email": false, "has_phone": false, "has_scholar": false, "homepage_dirs": [], "id": "ustc-sist-chenhe", "inferred_dirs": [], "inferred_students": [], "is_recruiting": null, "keywords": [], "missing_fields": ["email", "research", "student_destinations"], "name": {"en": "He Chen", "zh": "\u9648\u9e64"}, "publications": {"h_index": null, "recent": [{"authors": [{"likely_student": true, "name": "Miaoxin Cai", "role": "first_author"}, {"likely_student": false, "name": "Guanqun Wang", "role": "co_author"}, {"likely_student": false, "name": "Wei Zhang", "role": "co_author"}, {"likely_student": false, "name": "Guangyao Zhou", "role": "co_author"}, {"likely_student": false, "name": "Yin Zhuang", "role": "co_author"}, {"likely_student": false, "name": "Tong Zhang", "role": "co_author"}, {"likely_student": false, "name": "Hao Wang", "role": "co_author"}, {"likely_student": false, "name": "He Chen", "role": "co_author"}, {"likely_student": false, "name": "Jun Li", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "Earth-OneVision: Extending Remote Sensing Multimodal Large Language Models to More Sensor Modalities and Tasks", "type": "preprint", "url": "", "venue": "arXiv preprint", "year": 2026}, {"authors": [{"likely_student": true, "name": "Qitian Tao", "role": "first_author"}, {"likely_student": false, "name": "Chen He", "role": "co_author"}, {"likely_student": false, "name": "Xiaohua Liu", "role": "co_author"}, {"likely_student": false, "name": "Zhengwu Chen", "role": "co_author"}, {"likely_student": false, "name": "Jiale Lu", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "The Omitted Noise Contribution of Surface Normal Variation: Farassat\u0027s Formulation 1A revisited", "type": "preprint", "url": "", "venue": "arXiv preprint", "year": 2026}, {"authors": [{"likely_student": true, "name": "Xu Pan", "role": "first_author"}, {"likely_student": false, "name": "Qiyuan Ma", "role": "co_author"}, {"likely_student": false, "name": "Mingyue Dong", "role": "co_author"}, {"likely_student": false, "name": "He Chen", "role": "co_author"}, {"likely_student": false, "name": "Wei Ji", "role": "co_author"}, {"likely_student": false, "name": "Xianwei Zheng", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching", "type": "preprint", "url": "", "venue": "14 pages", "year": 2026}, {"authors": [{"likely_student": true, "name": "Ruiqi Kong", "role": "first_author"}, {"likely_student": false, "name": "He Chen", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "ISAC-Enabled Grant-Free Uplink via Artificial-Path Delay Modulation", "type": "preprint", "url": "", "venue": "6 pages", "year": 2026}, {"authors": [{"likely_student": true, "name": "Ruiqi Kong", "role": "first_author"}, {"likely_student": false, "name": "He Chen", "role": "co_author"}, {"likely_student": false, "name": "Xiaojun Lin", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "Practical Cross-Band Channel Prediction for AI-RAN via Physics-Guided Deep Unfolding", "type": "preprint", "url": "", "venue": "2 pages", "year": 2026}, {"authors": [{"likely_student": true, "name": "Donglai Xiang", "role": "first_author"}, {"likely_student": false, "name": "Vismay Modi", "role": "co_author"}, {"likely_student": false, "name": "Rishit Dagli", "role": "co_author"}, {"likely_student": false, "name": "Ty Trusty", "role": "co_author"}, {"likely_student": false, "name": "Gilles Daviet", "role": "co_author"}, {"likely_student": false, "name": "Anka He Chen", "role": "co_author"}, {"likely_student": false, "name": "Nicholas Sharp", "role": "co_author"}, {"likely_student": false, "name": "David I. W. Levin", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "FreeForm: Reduced-Order Deformable Simulation from Particle-Based Skinning Eigenmodes", "type": "preprint", "url": "", "venue": "CVPR 2026, project website: https://research.nvidia.com/labs/sil/projects/freefo", "year": 2026}, {"authors": [{"likely_student": true, "name": "Chen He", "role": "first_author"}, {"likely_student": false, "name": "Yuhao Wu", "role": "co_author"}, {"likely_student": false, "name": "Lei Wang", "role": "co_author"}, {"likely_student": false, "name": "Wenxuan Zhang", "role": "co_author"}, {"likely_student": false, "name": "Fumin Shen", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "Diagnosing Harmful Continuation in Answer-Correct Long-CoT Training Traces", "type": "preprint", "url": "", "venue": "arXiv preprint", "year": 2026}, {"authors": [{"likely_student": true, "name": "Yuxuan Yin", "role": "first_author"}, {"likely_student": false, "name": "Chen He", "role": "co_author"}, {"likely_student": false, "name": "Todd Jacobs", "role": "co_author"}, {"likely_student": false, "name": "Jialei He", "role": "co_author"}, {"likely_student": false, "name": "Boxun Xu", "role": "co_author"}, {"likely_student": false, "name": "Robert Jin", "role": "co_author"}, {"likely_student": false, "name": "Peng Li", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "Diffuse to Detect: Generative Diffusion Models for Unsupervised IC Anomaly Detection", "type": "preprint", "url": "", "venue": "9 pages, 5 figures", "year": 2026}, {"authors": [{"likely_student": true, "name": "Shuo Ni", "role": "first_author"}, {"likely_student": false, "name": "Tong Wang", "role": "co_author"}, {"likely_student": false, "name": "Jing Zhang", "role": "co_author"}, {"likely_student": false, "name": "He Chen", "role": "co_author"}, {"likely_student": false, "name": "Haonan Guo", "role": "co_author"}, {"likely_student": false, "name": "Ning Zhang", "role": "co_author"}, {"likely_student": false, "name": "Bo Du", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "UHR-Micro: Diagnosing and Mitigating the Resolution Illusion in Earth Observation VLMs", "type": "preprint", "url": "", "venue": "arXiv preprint", "year": 2026}, {"authors": [{"likely_student": false, "name": "He Chen", "role": "first_author"}, {"likely_student": false, "name": "Jiajin Li", "role": "co_author"}, {"likely_student": false, "name": "Anthony Man-Cho So", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "Spurious Stationarity and Hardness Results for Bregman Proximal-Type Algorithms", "type": "preprint", "url": "", "venue": "arXiv preprint", "year": 2024}], "source": "arxiv", "source_note": "DBLP:0 OR:0 arXiv:0", "source_url": "http://faculty.ustc.edu.cn/ChenHe/zh_CN/lwcg/666353/list/index.htm", "top_venues": [], "total_count": null}, "quality_notes": "Web\u641c\u7d22\u4fe1\u606f\u6709\u9650\u3002\u535a\u58eb\u540e\u9636\u6bb5\uff0c\u4fe1\u606f\u5c11\u5c5e\u6b63\u5e38\u3002", "quality_overall": "high", "recent_pubs": [{"authors": [{"likely_student": true, "name": "Miaoxin Cai", "role": "first_author"}, {"likely_student": false, "name": "Guanqun Wang", "role": "co_author"}, {"likely_student": false, "name": "Wei Zhang", "role": "co_author"}, {"likely_student": false, "name": "Guangyao Zhou", "role": "co_author"}, {"likely_student": false, "name": "Yin Zhuang", "role": "co_author"}, {"likely_student": false, "name": "Tong Zhang", "role": "co_author"}, {"likely_student": false, "name": "Hao Wang", "role": "co_author"}, {"likely_student": false, "name": "He Chen", "role": "co_author"}, {"likely_student": false, "name": "Jun Li", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "Earth-OneVision: Extending Remote Sensing Multimodal Large Language Models to More Sensor Modalities and Tasks", "type": "preprint", "url": "", "venue": "arXiv preprint", "year": 2026}, {"authors": [{"likely_student": true, "name": "Qitian Tao", "role": "first_author"}, {"likely_student": false, "name": "Chen He", "role": "co_author"}, {"likely_student": false, "name": "Xiaohua Liu", "role": "co_author"}, {"likely_student": false, "name": "Zhengwu Chen", "role": "co_author"}, {"likely_student": false, "name": "Jiale Lu", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "The Omitted Noise Contribution of Surface Normal Variation: Farassat\u0027s Formulation 1A revisited", "type": "preprint", "url": "", "venue": "arXiv preprint", "year": 2026}, {"authors": [{"likely_student": true, "name": "Xu Pan", "role": "first_author"}, {"likely_student": false, "name": "Qiyuan Ma", "role": "co_author"}, {"likely_student": false, "name": "Mingyue Dong", "role": "co_author"}, {"likely_student": false, "name": "He Chen", "role": "co_author"}, {"likely_student": false, "name": "Wei Ji", "role": "co_author"}, {"likely_student": false, "name": "Xianwei Zheng", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching", "type": "preprint", "url": "", "venue": "14 pages", "year": 2026}, {"authors": [{"likely_student": true, "name": "Ruiqi Kong", "role": "first_author"}, {"likely_student": false, "name": "He Chen", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "ISAC-Enabled Grant-Free Uplink via Artificial-Path Delay Modulation", "type": "preprint", "url": "", "venue": "6 pages", "year": 2026}, {"authors": [{"likely_student": true, "name": "Ruiqi Kong", "role": "first_author"}, {"likely_student": false, "name": "He Chen", "role": "co_author"}, {"likely_student": false, "name": "Xiaojun Lin", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "Practical Cross-Band Channel Prediction for AI-RAN via Physics-Guided Deep Unfolding", "type": "preprint", "url": "", "venue": "2 pages", "year": 2026}, {"authors": [{"likely_student": true, "name": "Donglai Xiang", "role": "first_author"}, {"likely_student": false, "name": "Vismay Modi", "role": "co_author"}, {"likely_student": false, "name": "Rishit Dagli", "role": "co_author"}, {"likely_student": false, "name": "Ty Trusty", "role": "co_author"}, {"likely_student": false, "name": "Gilles Daviet", "role": "co_author"}, {"likely_student": false, "name": "Anka He Chen", "role": "co_author"}, {"likely_student": false, "name": "Nicholas Sharp", "role": "co_author"}, {"likely_student": false, "name": "David I. W. Levin", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "FreeForm: Reduced-Order Deformable Simulation from Particle-Based Skinning Eigenmodes", "type": "preprint", "url": "", "venue": "CVPR 2026, project website: https://research.nvidia.com/labs/sil/projects/freefo", "year": 2026}, {"authors": [{"likely_student": true, "name": "Chen He", "role": "first_author"}, {"likely_student": false, "name": "Yuhao Wu", "role": "co_author"}, {"likely_student": false, "name": "Lei Wang", "role": "co_author"}, {"likely_student": false, "name": "Wenxuan Zhang", "role": "co_author"}, {"likely_student": false, "name": "Fumin Shen", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "Diagnosing Harmful Continuation in Answer-Correct Long-CoT Training Traces", "type": "preprint", "url": "", "venue": "arXiv preprint", "year": 2026}, {"authors": [{"likely_student": true, "name": "Yuxuan Yin", "role": "first_author"}, {"likely_student": false, "name": "Chen He", "role": "co_author"}, {"likely_student": false, "name": "Todd Jacobs", "role": "co_author"}, {"likely_student": false, "name": "Jialei He", "role": "co_author"}, {"likely_student": false, "name": "Boxun Xu", "role": "co_author"}, {"likely_student": false, "name": "Robert Jin", "role": "co_author"}, {"likely_student": false, "name": "Peng Li", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "Diffuse to Detect: Generative Diffusion Models for Unsupervised IC Anomaly Detection", "type": "preprint", "url": "", "venue": "9 pages, 5 figures", "year": 2026}, {"authors": [{"likely_student": true, "name": "Shuo Ni", "role": "first_author"}, {"likely_student": false, "name": "Tong Wang", "role": "co_author"}, {"likely_student": false, "name": "Jing Zhang", "role": "co_author"}, {"likely_student": false, "name": "He Chen", "role": "co_author"}, {"likely_student": false, "name": "Haonan Guo", "role": "co_author"}, {"likely_student": false, "name": "Ning Zhang", "role": "co_author"}, {"likely_student": false, "name": "Bo Du", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "UHR-Micro: Diagnosing and Mitigating the Resolution Illusion in Earth Observation VLMs", "type": "preprint", "url": "", "venue": "arXiv preprint", "year": 2026}, {"authors": [{"likely_student": false, "name": "He Chen", "role": "first_author"}, {"likely_student": false, "name": "Jiajin Li", "role": "co_author"}, {"likely_student": false, "name": "Anthony Man-Cho So", "role": "corresponding"}], "citations": null, "source": "arxiv", "title": "Spurious Stationarity and Hardness Results for Bregman Proximal-Type Algorithms", "type": "preprint", "url": "", "venue": "arXiv preprint", "year": 2024}], "region": "mainland_china", "research": {"homepage_directions": [], "inferred_from_papers": [], "inferred_from_papers_note": "\u4fe1\u606f\u4e0d\u8db3", "keywords": [], "summary": {"en": "", "zh": ""}, "tags": ["Biomedical", "Generative AI", "LLM/MLLM", "Wireless/Comm"]}, "sources": {"dblp": null, "fetched_at": "2026-06-13T00:59:16.501105", "homepage": "http://faculty.ustc.edu.cn/ChenHe/zh_CN/index.htm", "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList\u0026wbtreeid=1014\u0026st=0\u0026id=1014\u0026lang=zh_CN", "papers_fetched": true, "scholar": null, "sub_pages_fetched": ["\u9996\u9875", "\u79d1\u5b66\u7814\u7a76", "\u7814\u7a76\u9886\u57df", "\u8bba\u6587\u6210\u679c", "\u4e13\u5229", "\u8457\u4f5c\u6210\u679c", "\u79d1\u7814\u9879\u76ee", "\u6559\u5b66\u7814\u7a76", "\u6559\u5b66\u8d44\u6e90", "\u6388\u8bfe\u4fe1\u606f", "\u6559\u5b66\u6210\u679c", "\u83b7\u5956\u4fe1\u606f", "\u62db\u751f\u4fe1\u606f", "\u5b66\u751f\u4fe1\u606f", "\u6211\u7684\u76f8\u518c", "\u6559\u5e08\u535a\u5ba2"], "web_search_done": true}, "students": {"current_count": null, "destinations": [], "inferred_from_papers": [], "note": "\u5f85\u4ece\u8bba\u6587\u4f5c\u8005\u5217\u8868\u63a8\u65ad"}, "tags": ["Biomedical", "Generative AI", "LLM/MLLM", "Wireless/Comm"], "title": "\u535a\u58eb\u540e\u7814\u7a76\u5458", "university": {"en": "University of Science and Technology of China", "short": "USTC", "zh": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66"}}
+    </script>
+
+    <!-- JS Components -->
+    <script src="../js/i18n.js"></script>
+    <script src="../js/data-loader.js"></script>
+    <script src="../js/professor-card.js"></script>
+    <script>
+    (function () {
+        'use strict';
+
+        function init() {
+            var embeddedData = document.getElementById('embedded-data');
+            var professor = null;
+
+            if (embeddedData) {
+                try {
+                    professor = JSON.parse(embeddedData.textContent);
+                } catch (e) {
+                    console.warn('Failed to parse embedded data');
+                }
+            }
+
+            // Fallback: load from JSON file based on page filename
+            if (!professor || Object.keys(professor).length === 0) {
+                var pathParts = window.location.pathname.split('/');
+                var filename = pathParts[pathParts.length - 1];
+                var profId = filename.replace('.html', '');
+
+                if (window.TutorHunterData && profId) {
+                    window.TutorHunterData.loadProfessor(profId).then(function (data) {
+                        window.TutorHunterCard.renderDetailPage(data);
+                    }).catch(function (err) {
+                        console.error('Failed to load professor:', err);
+                    });
+                }
+                return;
+            }
+
+            if (window.TutorHunterCard) {
+                window.TutorHunterCard.renderDetailPage(professor);
+            }
+        }
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', init);
+        } else {
+            init();
+        }
+    })();
+    </script>
+</body>
+</html>

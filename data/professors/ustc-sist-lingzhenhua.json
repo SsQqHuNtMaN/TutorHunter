@@ -1,0 +1,107 @@
+{
+  "id": "ustc-sist-lingzhenhua",
+  "name": {
+    "zh": "凌震华",
+    "en": "Zhenhua Ling"
+  },
+  "title": "教授 / 博士生导师",
+  "university": {
+    "zh": "中国科学技术大学",
+    "en": "USTC",
+    "short": "USTC"
+  },
+  "department": {
+    "zh": "信息科学技术学院",
+    "en": "School of Information Science and Technology"
+  },
+  "region": "mainland_china",
+  "contact": {
+    "email": null,
+    "email_note": "未找到",
+    "phone": null,
+    "office": null,
+    "homepage_url": "http://faculty.ustc.edu.cn/lingzhenhua/en/index.htm",
+    "scholar_url": null,
+    "dblp_url": null
+  },
+  "research": {
+    "inferred_from_papers": [
+      "语音合成",
+      "语音识别",
+      "语音增强",
+      "音频信号处理"
+    ],
+    "keywords": [
+      "speech synthesis",
+      "speech recognition",
+      "speech enhancement"
+    ],
+    "tags": [
+      "Deep Learning",
+      "Generative AI",
+      "Speech/Audio"
+    ],
+    "summary": {
+      "zh": "凌震华，教授、博导，NERCSLIP智能语音团队负责人。2024年Interspeech 17篇+ICASSP 19篇。",
+      "en": "Prof. Zhenhua Ling, NERCSLIP speech team lead. 36 papers at top speech conferences in 2024."
+    }
+  },
+  "publications": {
+    "source": "web_search",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
+    "recent": [
+      {
+        "title": "NERCSLIP团队17篇论文被Interspeech 2024接收",
+        "venue": "Interspeech",
+        "year": 2024,
+        "type": "conference",
+        "source": "web_search"
+      },
+      {
+        "title": "NERCSLIP团队19篇论文被ICASSP 2024接收",
+        "venue": "ICASSP",
+        "year": 2024,
+        "type": "conference",
+        "source": "web_search"
+      }
+    ],
+    "top_venues": [
+      "ICASSP",
+      "Interspeech",
+      "IEEE TASLP"
+    ],
+    "total_count_2024": 36
+  },
+  "students": {
+    "inferred_from_papers": [],
+    "destinations": [],
+    "current_count": null,
+    "note": ""
+  },
+  "group": {
+    "name": {
+      "zh": "语音及语言信息处理国家工程研究中心",
+      "en": "NERCSLIP"
+    },
+    "peer_professor_ids": [
+      "ustc-sist-aiyang"
+    ]
+  },
+  "admission": {
+    "is_recruiting": null,
+    "source": null,
+    "source_note": ""
+  },
+  "education": [],
+  "awards": [],
+  "_sources": {
+    "web_search_done": true,
+    "fetched_at": "2026-06-13T00:59:22.893755",
+    "papers_fetched": true
+  },
+  "_quality": {
+    "overall": "medium",
+    "notes": "2024年36篇顶会论文。艾杨也在此实验室。"
+  },
+  "auto_tags_from_papers": []
+}

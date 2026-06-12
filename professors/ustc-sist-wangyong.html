@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>王永 — TutorHunter</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="app-header">
+        <div class="header-inner">
+            <div>
+                <span class="app-title">🎯 TutorHunter</span>
+            </div>
+            <div class="header-actions">
+                <div class="lang-toggle">
+                    <button class="lang-btn active" data-lang="zh">中文</button>
+                    <button class="lang-btn" data-lang="en">EN</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="app-main">
+        <!-- Back link -->
+        <div class="detail-header-bar">
+            <a href="../index.html" class="back-link">← <span data-zh="返回全部导师" data-en="Back to All Professors"></span></a>
+        </div>
+
+        <!-- Hero Section -->
+        <div id="professor-hero" class="professor-hero">
+            <!-- Rendered by professor-card.js -->
+        </div>
+
+        <!-- Tabs -->
+        <nav class="tab-nav">
+            <button class="tab-btn active" data-tab="research" data-zh="研究方向" data-en="Research"></button>
+            <button class="tab-btn" data-tab="publications" data-zh="论文" data-en="Publications"></button>
+            <button class="tab-btn" data-tab="students" data-zh="学生" data-en="Students"></button>
+            <button class="tab-btn" data-tab="group" data-zh="课题组" data-en="Group"></button>
+            <button class="tab-btn" data-tab="admission" data-zh="招生" data-en="Admission"></button>
+            <button class="tab-btn" data-tab="sources" data-zh="数据来源" data-en="Sources"></button>
+        </nav>
+
+        <!-- Tab Contents -->
+        <div class="tab-content active" id="tab-research"></div>
+        <div class="tab-content" id="tab-publications"></div>
+        <div class="tab-content" id="tab-students"></div>
+        <div class="tab-content" id="tab-group"></div>
+        <div class="tab-content" id="tab-admission"></div>
+        <div class="tab-content" id="tab-sources"></div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+        <p>TutorHunter · <span data-zh="导师信息辅助研究生申请工具" data-en="Professor Database for Graduate School Applications"></span></p>
+    </footer>
+
+    <!-- Embedded professor data -->
+    <script id="embedded-data" type="application/json">
+    {"_quality": {"notes": "\u91cd\u8981\u6559\u6388\u3002\u90ae\u7bb1\u975eJS\u52a0\u5bc6\u3002", "overall": "medium"}, "_sources": {"fetched_at": "2026-06-13T00:59:23.996170", "papers_fetched": true, "web_search_done": true}, "admission": {"is_recruiting": null, "source": "has_subpage"}, "auto_tags_from_papers": [], "awards": ["\u5b89\u5fbd\u7701\u6700\u7f8e\u79d1\u6280\u5de5\u4f5c\u8005(2024)", "\u4e2d\u56fd\u81ea\u52a8\u5316\u5b66\u4f1a\u5206\u6570\u9636\u4e13\u59d4\u4f1a\u4e3b\u4efb(2025)"], "contact": {"email": "yongwang@ustc.edu.cn", "email_note": "WebSearch\u53d1\u73b0\uff08\u975eJS\u52a0\u5bc6\uff09"}, "department": {"en": "School of Information Science and Technology", "zh": "\u4fe1\u606f\u79d1\u5b66\u6280\u672f\u5b66\u9662"}, "destinations": [], "display_admission": "", "display_department": "\u4fe1\u606f\u79d1\u5b66\u6280\u672f\u5b66\u9662", "display_group": "", "display_name": "\u738b\u6c38", "display_name_en": "Yong Wang", "display_university": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66", "education": [], "group": {"name": {"en": "", "zh": ""}, "peer_professor_ids": [], "source": "", "url": null}, "has_dblp": false, "has_email": true, "has_phone": false, "has_scholar": false, "homepage_dirs": [], "id": "ustc-sist-wangyong", "inferred_dirs": ["\u5206\u6570\u9636\u7cfb\u7edf\u4e0e\u63a7\u5236", "\u673a\u5668\u4eba\u63a7\u5236", "\u632f\u52a8\u4e3b\u52a8\u63a7\u5236", "\u98de\u884c\u5668\u5236\u5bfc"], "inferred_students": [], "is_recruiting": null, "keywords": ["fractional order systems", "robot control", "vibration control"], "missing_fields": [], "name": {"en": "Yong Wang", "zh": "\u738b\u6c38"}, "publications": {"recent": [{"source": "web_search", "title": "Event-triggered finite-time formation tracking of multi-agent systems", "type": "journal", "venue": "ISA Transactions", "year": 2024}], "source": "web_search", "source_note": "DBLP:0 OR:0 arXiv:0", "top_venues": ["ISA Transactions", "IEEE Trans Control"]}, "quality_notes": "\u91cd\u8981\u6559\u6388\u3002\u90ae\u7bb1\u975eJS\u52a0\u5bc6\u3002", "quality_overall": "medium", "recent_pubs": [{"source": "web_search", "title": "Event-triggered finite-time formation tracking of multi-agent systems", "type": "journal", "venue": "ISA Transactions", "year": 2024}], "region": "mainland_china", "research": {"inferred_from_papers": ["\u5206\u6570\u9636\u7cfb\u7edf\u4e0e\u63a7\u5236", "\u673a\u5668\u4eba\u63a7\u5236", "\u632f\u52a8\u4e3b\u52a8\u63a7\u5236", "\u98de\u884c\u5668\u5236\u5bfc"], "keywords": ["fractional order systems", "robot control", "vibration control"], "summary": {"en": "Prof. Yong Wang, USTC Vice Dean. Fractional order systems, robotics.", "zh": "\u738b\u6c38\uff0c\u6559\u6388\u3001\u535a\u5bfc\uff0c\u526f\u9662\u957f\u30021978\u5e74\u4e2d\u79d1\u5927\u5c11\u5e74\u73ed\u30022024\u5b89\u5fbd\u7701\u6700\u7f8e\u79d1\u6280\u5de5\u4f5c\u8005\u3002"}, "tags": ["Control Systems", "Optimization", "Robotics"]}, "sources": {"fetched_at": "2026-06-13T00:59:23.996170", "papers_fetched": true, "web_search_done": true}, "students": {"current_count": null, "destinations": [], "inferred_from_papers": [], "note": ""}, "tags": ["Control Systems", "Optimization", "Robotics"], "title": "\u6559\u6388 / \u535a\u58eb\u751f\u5bfc\u5e08", "university": {"en": "USTC", "short": "USTC", "zh": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66"}}
+    </script>
+
+    <!-- JS Components -->
+    <script src="../js/i18n.js"></script>
+    <script src="../js/data-loader.js"></script>
+    <script src="../js/professor-card.js"></script>
+    <script>
+    (function () {
+        'use strict';
+
+        function init() {
+            var embeddedData = document.getElementById('embedded-data');
+            var professor = null;
+
+            if (embeddedData) {
+                try {
+                    professor = JSON.parse(embeddedData.textContent);
+                } catch (e) {
+                    console.warn('Failed to parse embedded data');
+                }
+            }
+
+            // Fallback: load from JSON file based on page filename
+            if (!professor || Object.keys(professor).length === 0) {
+                var pathParts = window.location.pathname.split('/');
+                var filename = pathParts[pathParts.length - 1];
+                var profId = filename.replace('.html', '');
+
+                if (window.TutorHunterData && profId) {
+                    window.TutorHunterData.loadProfessor(profId).then(function (data) {
+                        window.TutorHunterCard.renderDetailPage(data);
+                    }).catch(function (err) {
+                        console.error('Failed to load professor:', err);
+                    });
+                }
+                return;
+            }
+
+            if (window.TutorHunterCard) {
+                window.TutorHunterCard.renderDetailPage(professor);
+            }
+        }
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', init);
+        } else {
+            init();
+        }
+    })();
+    </script>
+</body>
+</html>

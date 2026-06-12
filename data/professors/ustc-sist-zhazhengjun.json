@@ -1,0 +1,1417 @@
+{
+  "id": "ustc-sist-zhazhengjun",
+  "name": {
+    "zh": "查正军",
+    "en": "Zhengjun Zha"
+  },
+  "title": "教授 / 博士生导师 / 硕士生导师",
+  "university": {
+    "zh": "中国科学技术大学",
+    "en": "University of Science and Technology of China",
+    "short": "USTC"
+  },
+  "department": {
+    "zh": "信息科学技术学院",
+    "en": "School of Information Science and Technology"
+  },
+  "region": "mainland_china",
+  "contact": {
+    "email": null,
+    "email_note": "主页 JS 加密，需从论文页或 Scholar 获取",
+    "phone": "0551-63607147",
+    "office": null,
+    "homepage_url": "http://faculty.ustc.edu.cn/chazhengjun/zh_CN/index.htm",
+    "scholar_url": null,
+    "dblp_url": null
+  },
+  "research": {
+    "homepage_directions": [
+      {
+        "zh": "图像视频处理与分析",
+        "en": "Image and Video Processing and Analysis"
+      },
+      {
+        "zh": "计算机视觉",
+        "en": "Computer Vision"
+      },
+      {
+        "zh": "多模态大模型",
+        "en": "Multimodal Large Models"
+      },
+      {
+        "zh": "具身智能",
+        "en": "Embodied Intelligence"
+      },
+      {
+        "zh": "神经形态视觉",
+        "en": "Neuromorphic Vision"
+      }
+    ],
+    "inferred_from_papers": [],
+    "inferred_from_papers_note": "待从 Google Scholar 获取论文后由 LLM 归纳",
+    "keywords": [
+      "computer vision",
+      "multimodal learning",
+      "embodied intelligence",
+      "neuromorphic vision",
+      "deep learning"
+    ],
+    "summary": {
+      "zh": "查正军，中国科学技术大学讲席教授、二级教授、博导，人力资源部部长、类脑智能技术及应用国家工程实验室执行主任。主要从事计算机视觉、图像视频分析、多模态智能理解与生成、具身智能感知与决策、神经形态视觉等方面研究。国家杰出青年科学基金获得者、国家优秀青年科学基金获得者。研究成果发表于一系列ACM/IEEE Trans. 及CCF A类会议论文，多次获得国际会议论文奖励，包括ACM Multimedia最佳论文奖、AAAI杰出论文奖等。",
+      "en": "Prof. Zhengjun Zha is a Chair Professor at USTC, Executive Director of the National Engineering Laboratory for Brain-inspired Intelligence Technology and Application. His research focuses on computer vision, image/video analysis, multimodal intelligence, embodied intelligence, and neuromorphic vision. He is a recipient of the National Science Fund for Distinguished Young Scholars."
+    },
+    "tags": [
+      "3D Vision",
+      "AI",
+      "Biomedical",
+      "CV",
+      "Computer Vision",
+      "Deep Learning",
+      "Generative AI",
+      "Image Restoration",
+      "LLM/MLLM",
+      "ML",
+      "Multimodal",
+      "Natural Language",
+      "Robotics"
+    ]
+  },
+  "publications": {
+    "source": "arxiv",
+    "source_url": null,
+    "source_note": "DBLP:0 OR:0 arXiv:0",
+    "total_count": 55,
+    "h_index": null,
+    "recent": [
+      {
+        "title": "Tail-Aware HiFloat4: W4A4 Post-Training Quantization for Wan2.2",
+        "authors": [
+          {
+            "name": "Zhanfeng Feng",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Shuai Guo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xin Di",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Long Peng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "GS-STVSR: Ultra-Efficient Continuous Spatio-Temporal Video Super-Resolution via 2D Gaussian Splatting",
+        "authors": [
+          {
+            "name": "Mingyu Shi",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Xin Di",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Long Peng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Boxiang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Anran Wu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhanfeng Feng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jiaming Guo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Renjing Pei",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xueyang Fu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "The First Challenge on Mobile Real-World Image Super-Resolution at NTIRE 2026: Benchmark Results and Method Overview",
+        "authors": [
+          {
+            "name": "Jiatong Li",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Zheng Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Kai Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jingkai Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zihan Zhou",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaoyang Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Libo Zhu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jue Gong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Radu Timofte",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yulun Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Congyu Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zihao Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ke Wu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xinzhe Zhu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Fengkai Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhongbao Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Long Sun",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jiangxin Dong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jinshan Pan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jiachen Tu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yaokun Shi",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Guoyi Xu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yaoxin Jiang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jiajia Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Renyuan Situ",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yixin Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhaorun Zhou",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Junyang Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuqi Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chuanguang Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Weilun Feng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chuanyue Yan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuedong Tan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yingli Tian",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhenzhong Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Tongqi Guo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ruhan Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Sangzi Shi",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Huazhang Deng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jie Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Wenzhuo Ma",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuantong Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Daiqin Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Tianrun Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Deyi Ji",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuxiao Jiang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Qi Zhu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Lanyun Zhu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuwen Pan",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Runze Tian",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Mingyu Shi",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhanfeng Feng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuanfei Bao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jiaming Guo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Renjing Pei",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xin Di",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Long Peng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Linfeng Jiang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xueyang Fu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Choulhyouc Lee",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shyang-En Weng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yi-Cheng Liao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jorge Tyrakowski",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yu-Syuan Xu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Wei-Chen Chiu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ching-Chun Huang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yoonjin Im",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jihye Park",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hyungju Chun",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hyunhee Park",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "MinKyu Park",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiaoxuan Yu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jianxing Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuxuan Jiang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chengxi Zeng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Tianhao Peng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Fan Zhang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "David Bull",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Watchara Ruangsang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Supavadee Aramvith",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "JiaHao Deng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Wei Zhou",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Hongyu Huang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Shaohui Lin",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zihan Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yilin Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yunchen Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Junbo Qiao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Wei Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jiao Xie",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Gaoqi He",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Wenxi Li",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "NTIRE 2026 webpage: https://cvlai.net/ntire/2026/. Code: https://github.com/jiat",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "WeMMU: Enhanced Bridging of Vision-Language Models and Diffusion Models via Noisy Query Tokens",
+        "authors": [
+          {
+            "name": "Jian Yang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Dacheng Yin"
+          },
+          {
+            "name": "Xiao He"
+          },
+          {
+            "name": "Yong Li"
+          },
+          {
+            "name": "Fengyun Rao"
+          },
+          {
+            "name": "Jing Lyu"
+          },
+          {
+            "name": "Wei Zhai"
+          },
+          {
+            "name": "Yang Cao"
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv",
+        "year": 2025,
+        "type": "preprint",
+        "source": "web_search",
+        "url": null
+      },
+      {
+        "title": "Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts",
+        "authors": [
+          {
+            "name": "Ruizhe Wang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yucheng Ding",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiao Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yaoxiang Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Peng Cheng",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Baining Guo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yeyun Gong",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "Accepted to ICML 2026",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Iterative Inference-time Scaling with Adaptive Frequency Steering for Image Super-Resolution",
+        "authors": [
+          {
+            "name": "Hexin Zhang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Dong Li",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jie Huang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Bingzhou Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xueyang Fu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Optimizing Large Language Model Training Using FP4 Quantization",
+        "authors": [
+          {
+            "name": "Ruizhe Wang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Yeyun Gong",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Xiao Liu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Guoshuai Zhao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Ziyue Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Baining Guo",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Peng Cheng",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "GRACE: Estimating Geometry-level 3D Human-Scene Contact from 2D Images",
+        "authors": [
+          {
+            "name": "Chengfeng Wang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Wei Zhai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yuhang Yang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "EMoTive: Event-guided Trajectory Modeling for 3D Motion Estimation",
+        "authors": [
+          {
+            "name": "Zengyu Wan",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Wei Zhai",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yang Cao",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments",
+        "authors": [
+          {
+            "name": "Yueting Liu",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Hanshi Wang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Weiming Hu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Jin Gao",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "LEMON: Learning 3D Human-Object Interaction Relation from 2D Images",
+        "authors": [
+          {
+            "name": "Yuhang Yang",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Wei Zhai"
+          },
+          {
+            "name": "Hongchen Luo"
+          },
+          {
+            "name": "Yang Cao"
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "CVPR",
+        "year": 2024,
+        "type": "conference",
+        "source": "web_search",
+        "url": null
+      },
+      {
+        "title": "Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection",
+        "authors": [
+          {
+            "name": "Junxi Chen",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Liang Li"
+          },
+          {
+            "name": "Li Su"
+          },
+          {
+            "name": "Qingming Huang"
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "CVPR",
+        "year": 2024,
+        "type": "conference",
+        "source": "web_search",
+        "url": null
+      },
+      {
+        "title": "HomoFormer: Homogenized Transformer for Image Shadow Removal",
+        "authors": [
+          {
+            "name": "Jie Xiao",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Xueyang Fu"
+          },
+          {
+            "name": "Yurui Zhu"
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "CVPR",
+        "year": 2024,
+        "type": "conference",
+        "source": "web_search",
+        "url": null
+      },
+      {
+        "title": "DreamClean: Restoring Clean Image Using Deep Diffusion Prior",
+        "authors": [
+          {
+            "name": "Jie Xiao",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Ruili Feng"
+          },
+          {
+            "name": "Han Zhang"
+          },
+          {
+            "name": "Zhiheng Liu"
+          },
+          {
+            "name": "Zhantao Yang"
+          },
+          {
+            "name": "Yurui Zhu"
+          },
+          {
+            "name": "Xueyang Fu"
+          },
+          {
+            "name": "Kai Zhu"
+          },
+          {
+            "name": "Yu Liu"
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "ICLR",
+        "year": 2024,
+        "type": "conference",
+        "source": "web_search",
+        "url": null
+      },
+      {
+        "title": "CCM: Real-Time Controllable Visual Content Creation Using Text-to-Image Consistency Models",
+        "authors": [
+          {
+            "name": "Jie Xiao",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Kai Zhu"
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "ICML",
+        "year": 2024,
+        "type": "conference",
+        "source": "web_search",
+        "url": null
+      },
+      {
+        "title": "Event-Adapted Video Super-Resolution",
+        "authors": [
+          {
+            "name": "Zeyu Xiao",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "ECCV",
+        "year": 2024,
+        "type": "conference",
+        "source": "web_search",
+        "url": null
+      },
+      {
+        "title": "Motion Aware Event Representation-Driven Image Deblurring",
+        "authors": [
+          {
+            "name": "Zhijing Sun",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "ECCV",
+        "year": 2024,
+        "type": "conference",
+        "source": "web_search",
+        "url": null
+      },
+      {
+        "title": "Neuromorphic Event Signal-Driven Network for Video De-raining",
+        "authors": [
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "AAAI",
+        "year": 2024,
+        "type": "conference",
+        "source": "web_search",
+        "url": null
+      },
+      {
+        "title": "Context-aware Difference Distilling for Multi-change Captioning",
+        "authors": [
+          {
+            "name": "Yunbin Tu",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "ACL",
+        "year": 2024,
+        "type": "conference",
+        "source": "web_search",
+        "url": null
+      },
+      {
+        "title": "I2V-Adapter: A General Image-to-Video Adapter for Diffusion Models",
+        "authors": [
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "SIGGRAPH",
+        "year": 2024,
+        "type": "conference",
+        "source": "web_search",
+        "url": null
+      },
+      {
+        "title": "Cross-Modal Semantic Alignment Learning for Text-Based Person Search",
+        "authors": [
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "ACM Multimedia",
+        "year": 2024,
+        "type": "conference",
+        "source": "web_search",
+        "url": null
+      },
+      {
+        "title": "Background Activation Suppression for Weakly Supervised Object Localization and Semantic Segmentation",
+        "authors": [
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "IJCV",
+        "year": 2024,
+        "type": "journal",
+        "source": "web_search",
+        "url": null
+      },
+      {
+        "title": "SMART: Syntax-Calibrated Multi-Aspect Relation Transformer for Change Captioning",
+        "authors": [
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "IEEE Trans. PAMI",
+        "year": 2024,
+        "type": "journal",
+        "source": "web_search",
+        "url": null
+      },
+      {
+        "title": "Inductive State-Relabeling Adversarial Active Learning",
+        "authors": [
+          {
+            "name": "Zhengjun Zha",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "IEEE Trans. PAMI",
+        "year": 2024,
+        "type": "journal",
+        "source": "web_search",
+        "url": null
+      }
+    ],
+    "top_venues": [
+      "CVPR",
+      "ICCV",
+      "ECCV",
+      "NeurIPS",
+      "ICML",
+      "ICLR",
+      "AAAI",
+      "ACL",
+      "ACM Multimedia",
+      "SIGGRAPH",
+      "IJCV",
+      "IEEE Trans. PAMI",
+      "IEEE Trans. MM",
+      "IEEE Trans. CSVT",
+      "IEEE Trans. TIFS",
+      "IEEE Trans. TNNLS"
+    ]
+  },
+  "students": {
+    "inferred_from_papers": [
+      {
+        "name": "Jian Yang",
+        "papers_count": 1,
+        "first_author_in": [
+          "arXiv 2025"
+        ]
+      },
+      {
+        "name": "Jie Xiao",
+        "papers_count": 3,
+        "first_author_in": [
+          "CVPR 2024",
+          "ICLR 2024",
+          "ICML 2024"
+        ]
+      },
+      {
+        "name": "Junxi Chen",
+        "papers_count": 1,
+        "first_author_in": [
+          "CVPR 2024"
+        ]
+      },
+      {
+        "name": "Yuhang Yang",
+        "papers_count": 1,
+        "first_author_in": [
+          "CVPR 2024"
+        ]
+      },
+      {
+        "name": "Yunbin Tu",
+        "papers_count": 1,
+        "first_author_in": [
+          "ACL 2024"
+        ]
+      },
+      {
+        "name": "Zeyu Xiao",
+        "papers_count": 1,
+        "first_author_in": [
+          "ECCV 2024"
+        ]
+      },
+      {
+        "name": "Zhijing Sun",
+        "papers_count": 1,
+        "first_author_in": [
+          "ECCV 2024"
+        ]
+      }
+    ],
+    "destinations": [],
+    "current_count": null,
+    "note": "从15篇论文一作列表推断"
+  },
+  "group": {
+    "name": {
+      "zh": "类脑智能技术及应用国家工程实验室",
+      "en": "National Engineering Laboratory for Brain-inspired Intelligence Technology and Application"
+    },
+    "url": null,
+    "source": "homepage_bio",
+    "peer_professor_ids": []
+  },
+  "admission": {
+    "is_recruiting": null,
+    "openings": null,
+    "requirements": {
+      "zh": null,
+      "en": null
+    },
+    "preferred_background": [],
+    "application_deadline": null,
+    "funding_notes": null,
+    "source": null,
+    "source_note": "待从主页«招生信息»子页面获取"
+  },
+  "education": [
+    {
+      "degree": "博士",
+      "school": "中国科学技术大学",
+      "major": "自动化",
+      "year": "2004-2009"
+    },
+    {
+      "degree": "学士",
+      "school": "中国科学技术大学",
+      "major": "自动化",
+      "year": "2000-2004"
+    }
+  ],
+  "awards": [
+    "国家杰出青年科学基金获得者",
+    "国家优秀青年科学基金获得者",
+    "国家创新人才计划青年项目",
+    "首届MIT TR35 China",
+    "中国科学院青年科学家奖",
+    "中国科学院优秀导师",
+    "霍英东教育基金会青年科学奖",
+    "国家教学成果二等奖",
+    "安徽省教学成果特等奖",
+    "安徽省自然科学一等奖",
+    "ACM Multimedia最佳论文奖",
+    "AAAI杰出论文奖"
+  ],
+  "_sources": {
+    "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList&wbtreeid=1014&st=0&id=1014&lang=zh_CN",
+    "homepage": "http://faculty.ustc.edu.cn/chazhengjun/zh_CN/index.htm",
+    "sub_pages_fetched": [],
+    "scholar": null,
+    "dblp": null,
+    "fetched_at": "2026-06-13T00:59:23.512171",
+    "papers_fetched": true
+  },
+  "_quality": {
+    "overall": "high",
+    "verified_via_multiple_sources": [
+      "name",
+      "title",
+      "phone",
+      "research_directions",
+      "publications_detail"
+    ],
+    "missing_fields": [
+      "email",
+      "student_destinations",
+      "admission_requirements",
+      "group_url"
+    ],
+    "notes": "基础信息已从主页获取。论文、邮箱、招生、学生去向等需从 Scholar 和子页面进一步获取。"
+  },
+  "auto_tags_from_papers": []
+}

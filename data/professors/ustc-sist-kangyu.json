@@ -1,0 +1,89 @@
+{
+  "id": "ustc-sist-kangyu",
+  "name": {
+    "zh": "康宇",
+    "en": "Yu Kang"
+  },
+  "title": "教授 / 博士生导师",
+  "university": {
+    "zh": "中国科学技术大学",
+    "en": "USTC",
+    "short": "USTC"
+  },
+  "department": {
+    "zh": "信息科学技术学院",
+    "en": "School of Information Science and Technology"
+  },
+  "region": "mainland_china",
+  "contact": {
+    "email": null,
+    "email_note": "JS加密",
+    "phone": null,
+    "office": null,
+    "homepage_url": "http://faculty.ustc.edu.cn/kangyu/zh_CN/index.htm",
+    "scholar_url": null,
+    "dblp_url": null
+  },
+  "research": {
+    "inferred_from_papers": [
+      "计算机视觉",
+      "深度学习",
+      "智能感知",
+      "机动车排放监测"
+    ],
+    "keywords": [
+      "computer vision",
+      "deep learning",
+      "emission monitoring"
+    ],
+    "tags": [
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "summary": {
+      "zh": "康宇，教授、博导。研究方向：计算机视觉、深度学习、智能感知。",
+      "en": "Prof. Yu Kang. Research: CV, deep learning, intelligent sensing."
+    }
+  },
+  "publications": {
+    "source": "web_search",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
+    "top_venues": [
+      "IEEE Trans",
+      "Neurocomputing"
+    ],
+    "recent": []
+  },
+  "students": {
+    "inferred_from_papers": [],
+    "destinations": [],
+    "current_count": null,
+    "note": ""
+  },
+  "group": {
+    "name": {
+      "zh": "",
+      "en": ""
+    },
+    "url": null,
+    "source": "",
+    "peer_professor_ids": []
+  },
+  "admission": {
+    "is_recruiting": null,
+    "source": "has_subpage",
+    "source_note": "有招生子页面"
+  },
+  "education": [],
+  "awards": [],
+  "_sources": {
+    "web_search_done": true,
+    "fetched_at": "2026-06-13T00:59:20.693864",
+    "papers_fetched": true
+  },
+  "_quality": {
+    "overall": "low",
+    "notes": "待进一步搜索论文详情。"
+  },
+  "auto_tags_from_papers": []
+}

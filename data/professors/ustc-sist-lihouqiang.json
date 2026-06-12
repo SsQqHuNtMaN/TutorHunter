@@ -1,0 +1,72 @@
+{
+  "id": "ustc-sist-lihouqiang",
+  "name": {
+    "zh": "李厚强",
+    "en": "Houqiang Li"
+  },
+  "title": "教授 / 博士生导师 / IEEE Fellow",
+  "university": {
+    "zh": "中国科学技术大学",
+    "en": "USTC",
+    "short": "USTC"
+  },
+  "department": {
+    "zh": "信息科学技术学院",
+    "en": "School of Information Science and Technology"
+  },
+  "region": "mainland_china",
+  "contact": {
+    "scholar_url": "https://scholar.google.com/citations?user=7sFMIKoAAAAJ"
+  },
+  "research": {
+    "summary": {
+      "zh": "李厚强，教授、博导，IEEE Fellow，信息科学技术学院副院长。主要研究方向：视频编码与通信、计算机视觉、手语识别与翻译、多模态学习。Google Scholar已确认。",
+      "en": "Prof. Houqiang Li, IEEE Fellow. Research: video coding, CV, sign language recognition, multimodal learning. Google Scholar confirmed."
+    }
+  },
+  "publications": {
+    "source": "web_search+scholar",
+    "source_url": "https://scholar.google.com/citations?user=7sFMIKoAAAAJ",
+    "source_note": "Google Scholar confirmed; iVC Lab papers: https://ustc-ivclab.github.io/pages/papers/",
+    "top_venues": [
+      "IEEE TPAMI",
+      "CVPR",
+      "ICCV",
+      "AAAI",
+      "IEEE TIP",
+      "IEEE TCSVT",
+      "ACM Multimedia"
+    ]
+  },
+  "students": {
+    "inferred_from_papers": [],
+    "destinations": [],
+    "current_count": null,
+    "note": ""
+  },
+  "group": {
+    "name": {
+      "zh": "",
+      "en": ""
+    },
+    "url": null,
+    "source": "",
+    "peer_professor_ids": []
+  },
+  "admission": {
+    "is_recruiting": null,
+    "source": "has_subpage",
+    "source_note": "有招生子页面"
+  },
+  "education": [],
+  "awards": [],
+  "_sources": {
+    "scholar": "https://scholar.google.com/citations?user=7sFMIKoAAAAJ",
+    "web_search_done": true
+  },
+  "_quality": {
+    "overall": "high",
+    "notes": "IEEE Fellow。Google Scholar已确认。iVC Lab主页有完整论文列表。"
+  },
+  "auto_tags_from_papers": []
+}

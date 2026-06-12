@@ -1,0 +1,95 @@
+{
+  "id": "ustc-sist-wangyong",
+  "name": {
+    "zh": "王永",
+    "en": "Yong Wang"
+  },
+  "title": "教授 / 博士生导师",
+  "university": {
+    "zh": "中国科学技术大学",
+    "en": "USTC",
+    "short": "USTC"
+  },
+  "department": {
+    "zh": "信息科学技术学院",
+    "en": "School of Information Science and Technology"
+  },
+  "region": "mainland_china",
+  "contact": {
+    "email": "yongwang@ustc.edu.cn",
+    "email_note": "WebSearch发现（非JS加密）"
+  },
+  "research": {
+    "inferred_from_papers": [
+      "分数阶系统与控制",
+      "机器人控制",
+      "振动主动控制",
+      "飞行器制导"
+    ],
+    "keywords": [
+      "fractional order systems",
+      "robot control",
+      "vibration control"
+    ],
+    "tags": [
+      "Control Systems",
+      "Optimization",
+      "Robotics"
+    ],
+    "summary": {
+      "zh": "王永，教授、博导，副院长。1978年中科大少年班。2024安徽省最美科技工作者。",
+      "en": "Prof. Yong Wang, USTC Vice Dean. Fractional order systems, robotics."
+    }
+  },
+  "publications": {
+    "source": "web_search",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
+    "recent": [
+      {
+        "title": "Event-triggered finite-time formation tracking of multi-agent systems",
+        "venue": "ISA Transactions",
+        "year": 2024,
+        "type": "journal",
+        "source": "web_search"
+      }
+    ],
+    "top_venues": [
+      "ISA Transactions",
+      "IEEE Trans Control"
+    ]
+  },
+  "students": {
+    "inferred_from_papers": [],
+    "destinations": [],
+    "current_count": null,
+    "note": ""
+  },
+  "group": {
+    "name": {
+      "zh": "",
+      "en": ""
+    },
+    "url": null,
+    "source": "",
+    "peer_professor_ids": []
+  },
+  "admission": {
+    "is_recruiting": null,
+    "source": "has_subpage"
+  },
+  "education": [],
+  "awards": [
+    "安徽省最美科技工作者(2024)",
+    "中国自动化学会分数阶专委会主任(2025)"
+  ],
+  "_sources": {
+    "web_search_done": true,
+    "fetched_at": "2026-06-13T00:59:23.996170",
+    "papers_fetched": true
+  },
+  "_quality": {
+    "overall": "medium",
+    "notes": "重要教授。邮箱非JS加密。"
+  },
+  "auto_tags_from_papers": []
+}

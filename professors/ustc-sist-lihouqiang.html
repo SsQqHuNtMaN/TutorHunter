@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>李厚强 — TutorHunter</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="app-header">
+        <div class="header-inner">
+            <div>
+                <span class="app-title">🎯 TutorHunter</span>
+            </div>
+            <div class="header-actions">
+                <div class="lang-toggle">
+                    <button class="lang-btn active" data-lang="zh">中文</button>
+                    <button class="lang-btn" data-lang="en">EN</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="app-main">
+        <!-- Back link -->
+        <div class="detail-header-bar">
+            <a href="../index.html" class="back-link">← <span data-zh="返回全部导师" data-en="Back to All Professors"></span></a>
+        </div>
+
+        <!-- Hero Section -->
+        <div id="professor-hero" class="professor-hero">
+            <!-- Rendered by professor-card.js -->
+        </div>
+
+        <!-- Tabs -->
+        <nav class="tab-nav">
+            <button class="tab-btn active" data-tab="research" data-zh="研究方向" data-en="Research"></button>
+            <button class="tab-btn" data-tab="publications" data-zh="论文" data-en="Publications"></button>
+            <button class="tab-btn" data-tab="students" data-zh="学生" data-en="Students"></button>
+            <button class="tab-btn" data-tab="group" data-zh="课题组" data-en="Group"></button>
+            <button class="tab-btn" data-tab="admission" data-zh="招生" data-en="Admission"></button>
+            <button class="tab-btn" data-tab="sources" data-zh="数据来源" data-en="Sources"></button>
+        </nav>
+
+        <!-- Tab Contents -->
+        <div class="tab-content active" id="tab-research"></div>
+        <div class="tab-content" id="tab-publications"></div>
+        <div class="tab-content" id="tab-students"></div>
+        <div class="tab-content" id="tab-group"></div>
+        <div class="tab-content" id="tab-admission"></div>
+        <div class="tab-content" id="tab-sources"></div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+        <p>TutorHunter · <span data-zh="导师信息辅助研究生申请工具" data-en="Professor Database for Graduate School Applications"></span></p>
+    </footer>
+
+    <!-- Embedded professor data -->
+    <script id="embedded-data" type="application/json">
+    {"_quality": {"notes": "IEEE Fellow\u3002Google Scholar\u5df2\u786e\u8ba4\u3002iVC Lab\u4e3b\u9875\u6709\u5b8c\u6574\u8bba\u6587\u5217\u8868\u3002", "overall": "high"}, "_sources": {"scholar": "https://scholar.google.com/citations?user=7sFMIKoAAAAJ", "web_search_done": true}, "admission": {"is_recruiting": null, "source": "has_subpage", "source_note": "\u6709\u62db\u751f\u5b50\u9875\u9762"}, "auto_tags_from_papers": [], "awards": [], "contact": {"scholar_url": "https://scholar.google.com/citations?user=7sFMIKoAAAAJ"}, "department": {"en": "School of Information Science and Technology", "zh": "\u4fe1\u606f\u79d1\u5b66\u6280\u672f\u5b66\u9662"}, "destinations": [], "display_admission": "", "display_department": "\u4fe1\u606f\u79d1\u5b66\u6280\u672f\u5b66\u9662", "display_group": "", "display_name": "\u674e\u539a\u5f3a", "display_name_en": "Houqiang Li", "display_university": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66", "education": [], "group": {"name": {"en": "", "zh": ""}, "peer_professor_ids": [], "source": "", "url": null}, "has_dblp": false, "has_email": false, "has_phone": false, "has_scholar": true, "homepage_dirs": [], "id": "ustc-sist-lihouqiang", "inferred_dirs": [], "inferred_students": [], "is_recruiting": null, "keywords": [], "missing_fields": [], "name": {"en": "Houqiang Li", "zh": "\u674e\u539a\u5f3a"}, "publications": {"source": "web_search+scholar", "source_note": "Google Scholar confirmed; iVC Lab papers: https://ustc-ivclab.github.io/pages/papers/", "source_url": "https://scholar.google.com/citations?user=7sFMIKoAAAAJ", "top_venues": ["IEEE TPAMI", "CVPR", "ICCV", "AAAI", "IEEE TIP", "IEEE TCSVT", "ACM Multimedia"]}, "quality_notes": "IEEE Fellow\u3002Google Scholar\u5df2\u786e\u8ba4\u3002iVC Lab\u4e3b\u9875\u6709\u5b8c\u6574\u8bba\u6587\u5217\u8868\u3002", "quality_overall": "high", "recent_pubs": [], "region": "mainland_china", "research": {"summary": {"en": "Prof. Houqiang Li, IEEE Fellow. Research: video coding, CV, sign language recognition, multimodal learning. Google Scholar confirmed.", "zh": "\u674e\u539a\u5f3a\uff0c\u6559\u6388\u3001\u535a\u5bfc\uff0cIEEE Fellow\uff0c\u4fe1\u606f\u79d1\u5b66\u6280\u672f\u5b66\u9662\u526f\u9662\u957f\u3002\u4e3b\u8981\u7814\u7a76\u65b9\u5411\uff1a\u89c6\u9891\u7f16\u7801\u4e0e\u901a\u4fe1\u3001\u8ba1\u7b97\u673a\u89c6\u89c9\u3001\u624b\u8bed\u8bc6\u522b\u4e0e\u7ffb\u8bd1\u3001\u591a\u6a21\u6001\u5b66\u4e60\u3002Google Scholar\u5df2\u786e\u8ba4\u3002"}}, "sources": {"scholar": "https://scholar.google.com/citations?user=7sFMIKoAAAAJ", "web_search_done": true}, "students": {"current_count": null, "destinations": [], "inferred_from_papers": [], "note": ""}, "tags": [], "title": "\u6559\u6388 / \u535a\u58eb\u751f\u5bfc\u5e08 / IEEE Fellow", "university": {"en": "USTC", "short": "USTC", "zh": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66"}}
+    </script>
+
+    <!-- JS Components -->
+    <script src="../js/i18n.js"></script>
+    <script src="../js/data-loader.js"></script>
+    <script src="../js/professor-card.js"></script>
+    <script>
+    (function () {
+        'use strict';
+
+        function init() {
+            var embeddedData = document.getElementById('embedded-data');
+            var professor = null;
+
+            if (embeddedData) {
+                try {
+                    professor = JSON.parse(embeddedData.textContent);
+                } catch (e) {
+                    console.warn('Failed to parse embedded data');
+                }
+            }
+
+            // Fallback: load from JSON file based on page filename
+            if (!professor || Object.keys(professor).length === 0) {
+                var pathParts = window.location.pathname.split('/');
+                var filename = pathParts[pathParts.length - 1];
+                var profId = filename.replace('.html', '');
+
+                if (window.TutorHunterData && profId) {
+                    window.TutorHunterData.loadProfessor(profId).then(function (data) {
+                        window.TutorHunterCard.renderDetailPage(data);
+                    }).catch(function (err) {
+                        console.error('Failed to load professor:', err);
+                    });
+                }
+                return;
+            }
+
+            if (window.TutorHunterCard) {
+                window.TutorHunterCard.renderDetailPage(professor);
+            }
+        }
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', init);
+        } else {
+            init();
+        }
+    })();
+    </script>
+</body>
+</html>

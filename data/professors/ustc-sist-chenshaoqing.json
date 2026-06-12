@@ -1,0 +1,227 @@
+{
+  "id": "ustc-sist-chenshaoqing",
+  "name": {
+    "zh": "陈绍青",
+    "en": "Shaoqing Chen"
+  },
+  "title": "工程师",
+  "university": {
+    "zh": "中国科学技术大学",
+    "en": "University of Science and Technology of China",
+    "short": "USTC"
+  },
+  "department": {
+    "zh": "信息科学技术学院",
+    "en": "School of Information Science and Technology"
+  },
+  "region": "mainland_china",
+  "contact": {
+    "email": "windcsq@ustc.edu.cn",
+    "email_note": "Web搜索交叉验证",
+    "phone": null,
+    "office": null,
+    "homepage_url": "http://faculty.ustc.edu.cn/chenshaoqing/zh_CN/index.htm",
+    "scholar_url": null,
+    "dblp_url": null
+  },
+  "research": {
+    "homepage_directions": [],
+    "inferred_from_papers": [
+      "振动主动控制",
+      "磁悬浮隔振器",
+      "自适应前馈控制",
+      "自抗扰控制(ADRC)"
+    ],
+    "inferred_from_papers_note": "基于WebSearch和主页项目/论文获取（2026-06）",
+    "keywords": [
+      "active vibration control",
+      "magnetic levitation",
+      "ADRC",
+      "adaptive control"
+    ],
+    "summary": {
+      "zh": "陈绍青，工程师，博士（自动化系，导航制导与控制）。研究方向为振动主动控制与隔振技术，包括磁悬浮隔振器的自适应前馈控制、自抗扰控制(ADRC)。应用涉及水下航行器减振降噪、空间微重力隔振及飞行器姿态控制。",
+      "en": "Shaoqing Chen, Engineer, PhD (USTC Automation). Research: active vibration control, magnetic levitation, ADRC."
+    },
+    "tags": [
+      "Automation",
+      "Control",
+      "Vibration"
+    ]
+  },
+  "publications": {
+    "source": "arxiv",
+    "source_url": "https://faculty.ustc.edu.cn/chenshaoqing/en/lwcg/229980/list/index.htm",
+    "source_note": "DBLP:0 OR:0 arXiv:0",
+    "total_count": null,
+    "h_index": null,
+    "recent": [
+      {
+        "title": "Remarks on Linear Growth of Vorticity Gradients and Support Diameters for 2D Euler Flow in Half-Plane",
+        "authors": [
+          {
+            "name": "Shaoqing Chen",
+            "role": "first_author",
+            "likely_student": false
+          },
+          {
+            "name": "Yongzhong Sun",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "arXiv preprint",
+        "year": 2026,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Bistability and Noise-Induced Evasion in Tumor-Immune Dynamics with Antigen Accumulation and Immune Escape",
+        "authors": [
+          {
+            "name": "Mengfan Tan",
+            "role": "first_author",
+            "likely_student": true
+          },
+          {
+            "name": "Shaoqing Chen",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Chunjin Wei",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Da Zhou",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "24 pages, 14 figures",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      },
+      {
+        "title": "Fixed-budget simulation method for growing cell populations",
+        "authors": [
+          {
+            "name": "Shaoqing Chen",
+            "role": "first_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zhou Fang",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Zheng Hu",
+            "role": "co_author",
+            "likely_student": false
+          },
+          {
+            "name": "Da Zhou",
+            "role": "corresponding",
+            "likely_student": false
+          }
+        ],
+        "venue": "30 pages,2 figures",
+        "year": 2025,
+        "type": "preprint",
+        "source": "arxiv",
+        "url": "",
+        "citations": null
+      }
+    ],
+    "top_venues": []
+  },
+  "students": {
+    "inferred_from_papers": [],
+    "destinations": [],
+    "current_count": null,
+    "note": "待从论文作者列表推断"
+  },
+  "group": {
+    "name": {
+      "zh": "",
+      "en": ""
+    },
+    "url": null,
+    "source": "",
+    "peer_professor_ids": []
+  },
+  "admission": {
+    "is_recruiting": null,
+    "source": "has_subpage",
+    "source_note": "有招生信息子页面"
+  },
+  "education": [
+    {
+      "degree": "学士",
+      "school": "中国科学技术大学",
+      "major": "自动化",
+      "year": "2003-2007"
+    },
+    {
+      "degree": "博士",
+      "school": "中国科学技术大学",
+      "major": "导航、制导与控制",
+      "year": "2007-2013"
+    }
+  ],
+  "awards": [],
+  "_sources": {
+    "listing_page": "https://faculty.ustc.edu.cn/xyjslb.jsp?urltype=tsites.CollegeTeacherList&wbtreeid=1014&st=0&id=1014&lang=zh_CN",
+    "homepage": "http://faculty.ustc.edu.cn/chenshaoqing/zh_CN/index.htm",
+    "sub_pages_fetched": [
+      "首页",
+      "科学研究",
+      "研究领域",
+      "论文成果",
+      "专利",
+      "著作成果",
+      "科研项目",
+      "教学研究",
+      "教学资源",
+      "授课信息",
+      "教学成果",
+      "获奖信息",
+      "实验室地址",
+      "招生信息",
+      "学生信息",
+      "我的相册",
+      "教师博客",
+      "自适应控制",
+      "振动主动控制"
+    ],
+    "scholar": null,
+    "dblp": null,
+    "fetched_at": "2026-06-13T00:59:18.848341",
+    "web_search_done": true,
+    "papers_fetched": true
+  },
+  "_quality": {
+    "overall": "medium",
+    "verified_via_multiple_sources": [
+      "name",
+      "title",
+      "email",
+      "research",
+      "education"
+    ],
+    "missing_fields": [
+      "scholar_url",
+      "phone",
+      "student_destinations"
+    ],
+    "notes": "控制工程/自动化方向，非传统电子工程。"
+  },
+  "auto_tags_from_papers": []
+}

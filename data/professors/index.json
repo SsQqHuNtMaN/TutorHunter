@@ -1,0 +1,3546 @@
+[
+  {
+    "id": "ustc-sist-aipingliu",
+    "name": {
+      "zh": "刘爱萍",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-aiyang",
+    "name": {
+      "zh": "艾杨",
+      "en": "Yang Ai"
+    },
+    "title": "特任副研究员 / 硕士生导师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "University of Science and Technology of China",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [
+      "AI",
+      "Audio",
+      "Biomedical",
+      "Circuit/IC",
+      "Signal Processing",
+      "Speech",
+      "Speech/Audio"
+    ],
+    "is_recruiting": true,
+    "last_updated": "2026-06-13T00:59:14.484448"
+  },
+  {
+    "id": "ustc-sist-caoyang",
+    "name": {
+      "zh": "曹洋",
+      "en": "Yang Cao"
+    },
+    "title": "副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "University of Science and Technology of China",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [
+      "AI",
+      "Biomedical",
+      "CV",
+      "Circuit/IC",
+      "Deep Learning",
+      "LLM/MLLM",
+      "Robotics",
+      "Security"
+    ],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:59:14.845517"
+  },
+  {
+    "id": "ustc-sist-caoyang1",
+    "name": {
+      "zh": "曹洋",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-changxiaojun",
+    "name": {
+      "zh": "常晓军",
+      "en": "Xiaojun Chang"
+    },
+    "title": "讲席教授 / 博士生导师 / 硕士生导师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "University of Science and Technology of China",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [
+      "AI",
+      "Biomedical",
+      "CV",
+      "Circuit/IC",
+      "Computer Vision",
+      "Embodied AI",
+      "LLM",
+      "LLM/MLLM",
+      "Multimodal"
+    ],
+    "is_recruiting": true,
+    "last_updated": "2026-06-13T00:59:15.157857"
+  },
+  {
+    "id": "ustc-sist-chazhengjun",
+    "name": {
+      "zh": "查正军",
+      "en": ""
+    },
+    "title": "教授 / 博导 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-chenchang",
+    "name": {
+      "zh": "陈畅",
+      "en": "Chang Chen"
+    },
+    "title": "正高级工程师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "University of Science and Technology of China",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [
+      "Circuit/IC",
+      "Computer Vision",
+      "Embodied AI",
+      "Imaging",
+      "LLM/MLLM",
+      "RF",
+      "Radar",
+      "Robotics",
+      "Signal Processing"
+    ],
+    "is_recruiting": true,
+    "last_updated": "2026-06-13T00:59:15.490250"
+  },
+  {
+    "id": "ustc-sist-chenhe",
+    "name": {
+      "zh": "陈鹤",
+      "en": "He Chen"
+    },
+    "title": "博士后研究员",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "University of Science and Technology of China",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [
+      "Biomedical",
+      "Generative AI",
+      "LLM/MLLM",
+      "Wireless/Comm"
+    ],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:59:16.501105"
+  },
+  {
+    "id": "ustc-sist-chenli",
+    "name": {
+      "zh": "陈力",
+      "en": "Li Chen"
+    },
+    "title": "特任教授 / 副教授 / 博士生导师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "University of Science and Technology of China",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [
+      "6G",
+      "Biomedical",
+      "Circuit/IC",
+      "Communications",
+      "Computer Vision",
+      "Distributed ML",
+      "Embodied AI",
+      "ISAC",
+      "Robotics",
+      "Wireless"
+    ],
+    "is_recruiting": true,
+    "last_updated": "2026-06-13T00:59:18.514026"
+  },
+  {
+    "id": "ustc-sist-chenli1",
+    "name": {
+      "zh": "陈力",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-chenshaoqing",
+    "name": {
+      "zh": "陈绍青",
+      "en": "Shaoqing Chen"
+    },
+    "title": "工程师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "University of Science and Technology of China",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [
+      "Automation",
+      "Control",
+      "Vibration"
+    ],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:59:18.848341"
+  },
+  {
+    "id": "ustc-sist-chenshuangwu",
+    "name": {
+      "zh": "陈双武",
+      "en": "Shuangwu Chen"
+    },
+    "title": "副教授 / 副研究员",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "University of Science and Technology of China",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [
+      "Biomedical",
+      "Communications",
+      "Computer Vision",
+      "LLM/MLLM",
+      "ML",
+      "Networking",
+      "Security"
+    ],
+    "is_recruiting": true,
+    "last_updated": "2026-06-13T00:59:19.309962"
+  },
+  {
+    "id": "ustc-sist-chenweidong",
+    "name": {
+      "zh": "陈卫东",
+      "en": "Weidong Chen"
+    },
+    "title": "教授 / 博士生导师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "University of Science and Technology of China",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [
+      "Biomedical",
+      "Circuit/IC",
+      "Computer Vision",
+      "Generative AI",
+      "Imaging",
+      "Microwave",
+      "Radar",
+      "Signal Processing",
+      "Speech/Audio"
+    ],
+    "is_recruiting": true,
+    "last_updated": "2026-06-13T00:59:19.568423"
+  },
+  {
+    "id": "ustc-sist-chenweidong1",
+    "name": {
+      "zh": "陈伟东",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-chenxiaohui",
+    "name": {
+      "zh": "陈晓辉",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-chenzhibo",
+    "name": {
+      "zh": "陈志波",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-chenzonghai",
+    "name": {
+      "zh": "陈宗海",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 讲师 / 博导 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-dailirong",
+    "name": {
+      "zh": "戴礼荣",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 讲师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-daixuchu",
+    "name": {
+      "zh": "戴旭初",
+      "en": ""
+    },
+    "title": "教授 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-dingweiping",
+    "name": {
+      "zh": "丁卫平",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-dongeliu",
+    "name": {
+      "zh": "刘东",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员 / 博士后 / 博导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-dujun",
+    "name": {
+      "zh": "杜俊",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-fangyi",
+    "name": {
+      "zh": "方毅",
+      "en": ""
+    },
+    "title": "工程师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-fuweiming",
+    "name": {
+      "zh": "付维明",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-fuxueyang",
+    "name": {
+      "zh": "傅雪阳",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员 / 副研究员",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-fuzheren",
+    "name": {
+      "zh": "付哲仁",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-gaohongbo",
+    "name": {
+      "zh": "高洪波",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-gongchen",
+    "name": {
+      "zh": "龚晨",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 工程师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-guofengqian",
+    "name": {
+      "zh": "郭凤谦",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-guowu",
+    "name": {
+      "zh": "郭武",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-hehuasen",
+    "name": {
+      "zh": "何华森",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员 / 副研究员 / 工程师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-huangnuo",
+    "name": {
+      "zh": "黄诺",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-huhonggang1",
+    "name": {
+      "zh": "胡红钢",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-icim",
+    "name": {
+      "zh": "牛田野",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员 / 工程师 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-jiangxiaofeng12",
+    "name": {
+      "zh": "姜晓枫",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-jianyang",
+    "name": {
+      "zh": "杨坚",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-jihaibo",
+    "name": {
+      "zh": "季海波",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-jinying",
+    "name": {
+      "zh": "杨巾英",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-jiyang",
+    "name": {
+      "zh": "计洋",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-jzhang6",
+    "name": {
+      "zh": "张结",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员 / 副研究员 / 工程师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-kangqiyu",
+    "name": {
+      "zh": "康奇宇",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 博士后 / 博导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-kangyu",
+    "name": {
+      "zh": "康宇",
+      "en": "Yu Kang"
+    },
+    "title": "教授 / 博士生导师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:59:20.693864"
+  },
+  {
+    "id": "ustc-sist-kanzhen",
+    "name": {
+      "zh": "阚震",
+      "en": ""
+    },
+    "title": "教授 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-kuangsen",
+    "name": {
+      "zh": "匡森",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-lewu",
+    "name": {
+      "zh": "吴乐",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-liao",
+    "name": {
+      "zh": "李骜",
+      "en": ""
+    },
+    "title": "教授 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-libin123",
+    "name": {
+      "zh": "李斌",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 讲师 / 博导 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "类脑智能技术及应用国家工程实验",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-lichengpan",
+    "name": {
+      "zh": "李成盼",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-lihouqiang",
+    "name": {
+      "zh": "李厚强",
+      "en": "Houqiang Li"
+    },
+    "title": "教授 / 博士生导师 / IEEE Fellow",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": ""
+  },
+  {
+    "id": "ustc-sist-lihui1234",
+    "name": {
+      "zh": "李辉",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-lil1",
+    "name": {
+      "zh": "李礼",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-lingqiang",
+    "name": {
+      "zh": "凌强",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-lingzhenhua",
+    "name": {
+      "zh": "凌震华",
+      "en": "Zhenhua Ling"
+    },
+    "title": "教授 / 博士生导师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [
+      "Deep Learning",
+      "Generative AI",
+      "Speech/Audio"
+    ],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:59:22.893755"
+  },
+  {
+    "id": "ustc-sist-lishangbin",
+    "name": {
+      "zh": "李上宾",
+      "en": ""
+    },
+    "title": "工程师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-liucb92",
+    "name": {
+      "zh": "刘传彬",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-liufalin",
+    "name": {
+      "zh": "刘发林",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 讲师 / 工程师 / 博导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-liuji",
+    "name": {
+      "zh": "刘际",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-liuji1",
+    "name": {
+      "zh": "刘际",
+      "en": ""
+    },
+    "title": "研究员 / 博导 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-liujiawei",
+    "name": {
+      "zh": "刘嘉威",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-liujun123",
+    "name": {
+      "zh": "刘军",
+      "en": ""
+    },
+    "title": "博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-liulei13",
+    "name": {
+      "zh": "刘磊",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-liuwu",
+    "name": {
+      "zh": "刘武",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-liyu1234567891011",
+    "name": {
+      "zh": "李煜",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-lizhihui",
+    "name": {
+      "zh": "李志慧",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-luguanghua",
+    "name": {
+      "zh": "陆广华",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-luhancheng",
+    "name": {
+      "zh": "卢汉成",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-lwj1993",
+    "name": {
+      "zh": "刘伟杰",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员 / 博士后 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-maozhendong",
+    "name": {
+      "zh": "毛震东",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员 / 副研究员",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-maqichao",
+    "name": {
+      "zh": "马麒超",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-mhwang",
+    "name": {
+      "zh": "王明会",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-nigula",
+    "name": {
+      "zh": "尼古拉",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-nilin",
+    "name": {
+      "zh": "倪林",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-pengxiao",
+    "name": {
+      "zh": "肖鹏",
+      "en": ""
+    },
+    "title": "研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-pfli",
+    "name": {
+      "zh": "李鹏飞",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-qianchen1",
+    "name": {
+      "zh": "钱辰",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-qinjiahu",
+    "name": {
+      "zh": "秦家虎",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-qinxiaowei",
+    "name": {
+      "zh": "秦晓卫",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-qiubensheng",
+    "name": {
+      "zh": "邱本胜",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 讲师 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-qiuling",
+    "name": {
+      "zh": "邱玲",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-shali",
+    "name": {
+      "zh": "沙力",
+      "en": ""
+    },
+    "title": "研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-shangweiwei",
+    "name": {
+      "zh": "尚伟伟",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-shengjie",
+    "name": {
+      "zh": "盛捷",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-songjiade",
+    "name": {
+      "zh": "宋嘉德",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-songpeipei",
+    "name": {
+      "zh": "宋培培",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-songyan",
+    "name": {
+      "zh": "宋彦",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-sujue",
+    "name": {
+      "zh": "苏觉",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-sunliguo",
+    "name": {
+      "zh": "孙利国",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 副研究员 / 工程师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-sunxiaoyan",
+    "name": {
+      "zh": "孙晓艳",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 副研究员",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-sunzhendong",
+    "name": {
+      "zh": "孙震东",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-tianxinmei",
+    "name": {
+      "zh": "田新梅",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-tianxinmei1",
+    "name": {
+      "zh": "田新梅",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 博导 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wangbaizong",
+    "name": {
+      "zh": "王百宗",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wanggang1",
+    "name": {
+      "zh": "王刚",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 博士后 / 博导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wanghaifeng",
+    "name": {
+      "zh": "王海峰",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wanghao1",
+    "name": {
+      "zh": "王浩",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wangjie1",
+    "name": {
+      "zh": "王杰",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wangjikai",
+    "name": {
+      "zh": "王纪凯",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wanglei89",
+    "name": {
+      "zh": "王雷",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wangmingbao",
+    "name": {
+      "zh": "王明宝",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wangsong2",
+    "name": {
+      "zh": "王嵩",
+      "en": ""
+    },
+    "title": "讲师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wangweidong1",
+    "name": {
+      "zh": "王卫东",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wangwenjie",
+    "name": {
+      "zh": "王文杰",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 博士后 / 博导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wangxinghu",
+    "name": {
+      "zh": "王兴虎",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wangyanming",
+    "name": {
+      "zh": "王艳明",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wangyong",
+    "name": {
+      "zh": "王永",
+      "en": "Yong Wang"
+    },
+    "title": "教授 / 博士生导师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [
+      "Control Systems",
+      "Optimization",
+      "Robotics"
+    ],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:59:23.996170"
+  },
+  {
+    "id": "ustc-sist-wangyujie",
+    "name": {
+      "zh": "汪玉洁",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wangzilei",
+    "name": {
+      "zh": "王子磊",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 博士后 / 博导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wlv",
+    "name": {
+      "zh": "吕文君",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-wugang",
+    "name": {
+      "zh": "吴刚",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xbtan",
+    "name": {
+      "zh": "谭小彬",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xiaojunbin",
+    "name": {
+      "zh": "肖俊斌",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 博士后 / 博导 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xiaoli",
+    "name": {
+      "zh": "肖力",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xiaopeng",
+    "name": {
+      "zh": "肖鹏",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xiaxiaobo",
+    "name": {
+      "zh": "夏晓波",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 博士后 / 博导 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xiechao",
+    "name": {
+      "zh": "谢超",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xiehongtao",
+    "name": {
+      "zh": "谢洪涛",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 副研究员 / 博导 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xieqingguo",
+    "name": {
+      "zh": "谢庆国",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 博导 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xiongjunlin",
+    "name": {
+      "zh": "熊军林",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xiongzhiwei",
+    "name": {
+      "zh": "熊志伟",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xlichen",
+    "name": {
+      "zh": "陈小良",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xuejinchen",
+    "name": {
+      "zh": "陈雪锦",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xuemeisheng",
+    "name": {
+      "zh": "薛美盛",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xuguangwei",
+    "name": {
+      "zh": "徐光伟",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xujinhui1",
+    "name": {
+      "zh": "徐金辉",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 博士后 / 博导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xujun1",
+    "name": {
+      "zh": "徐骏",
+      "en": ""
+    },
+    "title": "工程师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xuxiaodong",
+    "name": {
+      "zh": "许小东",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xuxu",
+    "name": {
+      "zh": "徐旭",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xuyunsheng",
+    "name": {
+      "zh": "徐云生",
+      "en": ""
+    },
+    "title": "教授 / 博士后 / 博导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-xuzhengyuan",
+    "name": {
+      "zh": "徐正元",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 工程师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-yanghu",
+    "name": {
+      "zh": "胡洋",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-yangli1",
+    "name": {
+      "zh": "杨利",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-yangwenfei",
+    "name": {
+      "zh": "杨文飞",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-yangxun",
+    "name": {
+      "zh": "杨勋",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-yaohantao",
+    "name": {
+      "zh": "姚涵涛",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员 / 博士后 / 博导 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-yinbaoqun",
+    "name": {
+      "zh": "殷保群",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-yinhuarui",
+    "name": {
+      "zh": "尹华锐",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-yuanguofu",
+    "name": {
+      "zh": "袁国富",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-yuanpingbo",
+    "name": {
+      "zh": "袁平波",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-yujun_ai",
+    "name": {
+      "zh": "於俊",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-yulingyun",
+    "name": {
+      "zh": "于灵云",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhaiwei",
+    "name": {
+      "zh": "翟伟",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员 / 博士后 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhangan12",
+    "name": {
+      "zh": "张岸",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhangbin",
+    "name": {
+      "zh": "张彬",
+      "en": ""
+    },
+    "title": "研究员 / 副研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhangrong",
+    "name": {
+      "zh": "张荣",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhangtianzhu",
+    "name": {
+      "zh": "张天柱",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhangwenyi",
+    "name": {
+      "zh": "张文逸",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 工程师 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhangyongdong",
+    "name": {
+      "zh": "张勇东",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 副研究员 / 工程师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhaofeng1",
+    "name": {
+      "zh": "赵峰",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员 / 副研究员 / 讲师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhaogang",
+    "name": {
+      "zh": "赵刚",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 工程师 / 博导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhaoming",
+    "name": {
+      "zh": "赵明",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhazhengjun",
+    "name": {
+      "zh": "查正军",
+      "en": "Zhengjun Zha"
+    },
+    "title": "教授 / 博士生导师 / 硕士生导师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "University of Science and Technology of China",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [
+      "3D Vision",
+      "AI",
+      "Biomedical",
+      "CV",
+      "Computer Vision",
+      "Deep Learning",
+      "Generative AI",
+      "Image Restoration",
+      "LLM/MLLM",
+      "ML",
+      "Multimodal",
+      "Natural Language",
+      "Robotics"
+    ],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:59:23.512171"
+  },
+  {
+    "id": "ustc-sist-zhengquan1",
+    "name": {
+      "zh": "赵云波",
+      "en": ""
+    },
+    "title": "教授 / 副教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhoufeng",
+    "name": {
+      "zh": "郑烇",
+      "en": ""
+    },
+    "title": "讲师",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhoupengyuan",
+    "name": {
+      "zh": "周烽",
+      "en": ""
+    },
+    "title": "博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhouwengang",
+    "name": {
+      "zh": "周鹏远",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 博士后 / 博导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhouwuyang",
+    "name": {
+      "zh": "周文罡",
+      "en": ""
+    },
+    "title": "教授 / 博导 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhouyi1234",
+    "name": {
+      "zh": "周武旸",
+      "en": ""
+    },
+    "title": "教授",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhouyuanyuan",
+    "name": {
+      "zh": "周熠",
+      "en": ""
+    },
+    "title": "",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhubeier",
+    "name": {
+      "zh": "朱贝尔",
+      "en": ""
+    },
+    "title": "教授 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhubing",
+    "name": {
+      "zh": "朱冰",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 研究员 / 讲师 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhujin",
+    "name": {
+      "zh": "朱进",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 博士后 / 博导 / 硕导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhujing",
+    "name": {
+      "zh": "朱静",
+      "en": ""
+    },
+    "title": "研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhuqi",
+    "name": {
+      "zh": "朱旗",
+      "en": ""
+    },
+    "title": "教授 / 研究员 / 博士后",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  },
+  {
+    "id": "ustc-sist-zhuzuqing",
+    "name": {
+      "zh": "朱祖勍",
+      "en": ""
+    },
+    "title": "教授 / 副教授 / 工程师 / 博导",
+    "university": {
+      "zh": "中国科学技术大学",
+      "en": "USTC",
+      "short": "USTC"
+    },
+    "department": {
+      "zh": "信息科学技术学院",
+      "en": "School of Information Science and Technology"
+    },
+    "region": "mainland_china",
+    "research_tags": [],
+    "is_recruiting": null,
+    "last_updated": "2026-06-13T00:00:00Z"
+  }
+]
