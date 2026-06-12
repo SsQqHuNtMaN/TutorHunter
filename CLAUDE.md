@@ -79,7 +79,7 @@ python scripts/collect_papers.py  # 5线程并发，DBLP+OpenReview+arXiv
 3. arXiv: 搜索作者名 → 解析XML → 筛选 year>=2024
 4. 合并去重 → 生成研究方向标签 → 写入JSON
 
-**注意**：DBLP 名称歧义严重（Li Chen 几十个），只取第一个匹配；OpenReview 仅覆盖 ML 会议；arXiv 仅预印本。
+**注意**：DBLP 名称歧义严重（Li Chen 几十个），只取第一个匹配，**约 90% 中文常见名无法唯一匹配**。OpenReview 仅覆盖 ML 会议；arXiv 仅预印本。**结论：API 渠道适合名称独特的教授（如 Zhengjun Zha），对常见中文名教授（Li Chen, Yang Cao）精度极低。WebSearch 仍是主力。**
 
 ### USTC 主页系统特征
 - 4+ 种 CMS 模板：jszwmb02, jszwmb08, jszw40, 自定义模板
