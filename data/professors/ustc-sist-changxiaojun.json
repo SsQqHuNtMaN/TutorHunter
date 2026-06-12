@@ -47,9 +47,10 @@
     "tags": [
       "AI",
       "CV",
-      "Multimodal",
+      "Computer Vision",
       "Embodied AI",
-      "LLM"
+      "LLM",
+      "Multimodal"
     ]
   },
   "publications": {
@@ -90,7 +91,9 @@
         ],
         "venue": "IEEE Trans. PAMI",
         "year": 2024,
-        "type": "journal"
+        "type": "journal",
+        "source": "web_search",
+        "url": "https://scholar.google.com/citations?user=8suupocAAAAJ"
       },
       {
         "title": "DNA Family: Boosting Weight-Sharing NAS With Block-Wise Supervisions",
@@ -126,7 +129,9 @@
         ],
         "venue": "IEEE Trans. PAMI",
         "year": 2024,
-        "type": "journal"
+        "type": "journal",
+        "source": "web_search",
+        "url": "https://scholar.google.com/citations?user=8suupocAAAAJ"
       },
       {
         "title": "Semantics-Guided Contrastive Network for Zero-Shot Object Detection",
@@ -156,7 +161,9 @@
         ],
         "venue": "IEEE Trans. PAMI",
         "year": 2024,
-        "type": "journal"
+        "type": "journal",
+        "source": "web_search",
+        "url": "https://scholar.google.com/citations?user=8suupocAAAAJ"
       }
     ],
     "top_venues": [
@@ -275,5 +282,8 @@
       "phone"
     ],
     "notes": "信息最完整。Scholar已确认，引用超2万次。"
-  }
+  },
+  "auto_tags_from_papers": [
+    "Computer Vision"
+  ]
 }

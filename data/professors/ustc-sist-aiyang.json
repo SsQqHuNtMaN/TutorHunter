@@ -45,23 +45,35 @@
       "en": "Yang Ai, Associate Research Fellow. Research focuses on speech signal processing including synthesis, enhancement, separation, and audio coding. Published 60+ papers in IEEE TASLP, ICASSP, Interspeech."
     },
     "tags": [
-      "Speech",
-      "Audio",
       "AI",
-      "Signal Processing"
+      "Audio",
+      "Signal Processing",
+      "Speech"
     ]
   },
   "publications": {
-    "source": "ieee_xplore",
+    "source": "dblp+openreview",
     "source_url": "https://ieeexplore.ieee.org/author/37086348873",
-    "source_note": "IEEE Xplore author profile",
+    "source_note": "DBLP API + OpenReview API; 0 from DBLP, 1 from OpenReview",
     "total_count": 60,
     "h_index": null,
-    "recent": [],
+    "recent": [
+      {
+        "title": "{'value': 'Yang-Baxter Invariants for Line Configurations'}",
+        "authors": [],
+        "venue": "{'value': 'Discret. Comput. Geom. 1996'}",
+        "year": 8204,
+        "type": "conference",
+        "url": "https://ieeexplore.ieee.org/author/37086348873",
+        "citations": null,
+        "source": "dblp+openreview"
+      }
+    ],
     "top_venues": [
-      "IEEE TASLP",
       "ICASSP",
-      "Interspeech"
+      "IEEE TASLP",
+      "Interspeech",
+      "{'value': 'Discret. Comput. Geom. 1996'}"
     ]
   },
   "students": {
@@ -123,8 +135,10 @@
     ],
     "scholar": null,
     "dblp": null,
-    "fetched_at": "2026-06-12T23:40:08.068167",
-    "web_search_done": true
+    "fetched_at": "2026-06-13T00:14:03.075825",
+    "web_search_done": true,
+    "dblp_fetched": true,
+    "openreview_fetched": true
   },
   "_quality": {
     "overall": "medium",
@@ -140,5 +154,6 @@
       "student_destinations"
     ],
     "notes": "邮箱/研究方向/论文数从WebSearch验证。Google Scholar待确认。"
-  }
+  },
+  "auto_tags_from_papers": []
 }

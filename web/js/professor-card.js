@@ -102,26 +102,54 @@
     }
     document.getElementById('tab-research').innerHTML = researchHtml;
 
-    // Publications tab
+    // Publications tab - sorted by year desc, with source labels and research tags
     var pubHtml = '';
-    var pubs = prof.recent_pubs || [];
+    var pubs = (prof.recent_pubs || []).slice().sort(function(a, b) {
+      return (b.year || 0) - (a.year || 0);
+    });
     if (pubs.length > 0) {
       pubHtml += '<div class="section-card">';
-      pubHtml += '<h3 class="section-title">' + pubs.length + ' <span data-zh="篇近期论文" data-en="Recent Publications"></span></h3>';
+      pubHtml += '<h3 class="section-title">' + pubs.length + ' <span data-zh="篇近期论文 (2024-2026)" data-en="Recent Papers (2024-2026)"></span></h3>';
+
+      // Source summary
       if (prof.publications && prof.publications.source) {
-        pubHtml += '<p style="font-size:0.85rem;color:var(--text-secondary);margin-bottom:1rem;" data-zh="来源：" data-en="Source: ">' + (prof.publications.source || '') + '</p>';
+        var sourceLabel = prof.publications.source || 'unknown';
+        var sourceNote = prof.publications.source_note || '';
+        pubHtml += '<p style="font-size:0.82rem;color:var(--text-secondary);margin-bottom:1rem;">';
+        pubHtml += '<span data-zh="数据来源" data-en="Source"></span>: <strong>' + sourceLabel + '</strong>';
+        if (sourceNote) pubHtml += ' <span style="opacity:0.7;">(' + sourceNote + ')</span>';
+        pubHtml += '</p>';
       }
+
+      // Auto-generated research tags from paper titles
+      if (prof.auto_tags_from_papers && prof.auto_tags_from_papers.length > 0) {
+        pubHtml += '<div style="margin-bottom:1rem;display:flex;flex-wrap:wrap;gap:0.3rem;">';
+        pubHtml += '<span style="font-size:0.8rem;color:var(--text-secondary);margin-right:0.3rem;" data-zh="研究方向标签：" data-en="Research Tags: "></span>';
+        var tagColors = ["tag-blue", "tag-green", "tag-purple", "tag-orange", "tag-red"];
+        prof.auto_tags_from_papers.forEach(function(tag, i) {
+          pubHtml += '<span class="tag ' + tagColors[i % tagColors.length] + '" style="font-size:0.78rem;">' + tag + '</span>';
+        });
+        pubHtml += '</div>';
+      }
+
       pubHtml += '<ul class="pub-list">';
+      var currentYear = null;
       pubs.forEach(function (pub) {
-        pubHtml += '<li class="pub-item">';
+        // Year separator
+        if (pub.year !== currentYear) {
+          currentYear = pub.year;
+          pubHtml += '<li style="list-style:none;padding:0.4rem 0;margin-top:0.3rem;font-weight:700;color:var(--primary);font-size:0.9rem;border-bottom:2px solid var(--primary-light);">\u{1F4C5} ' + currentYear + '</li>';
+        }
+
+        pubHtml += '<li class="pub-item" style="padding-left:0.5rem;">';
         pubHtml += '<div class="pub-title">' + (pub.title || '') + '</div>';
         if (pub.authors && pub.authors.length > 0) {
           pubHtml += '<div class="pub-authors">';
           pub.authors.forEach(function (author) {
             var cls = author.likely_student ? 'pub-author student' : (author.role === 'corresponding' ? 'pub-author professor' : '');
             var label = '';
-            if (author.role === 'first_author') label = ' (1ˢᵗ)';
-            if (author.role === 'corresponding') label = ' (✉)';
+            if (author.role === 'first_author') label = ' <sup>1st</sup>';
+            if (author.role === 'corresponding') label = ' <sup>✉</sup>';
             pubHtml += '<span class="' + cls + '">' + (author.name || '') + label + '</span>; ';
           });
           pubHtml += '</div>';
@@ -129,17 +157,23 @@
         pubHtml += '<div class="pub-meta">';
         if (pub.venue) pubHtml += '<span class="pub-venue">' + pub.venue + '</span>';
         if (pub.year) pubHtml += '<span class="pub-year">' + pub.year + '</span>';
-        if (pub.citations) pubHtml += '<span class="pub-citations">' + pub.citations + ' citations</span>';
-        if (pub.url) pubHtml += '<a href="' + pub.url + '" target="_blank" style="font-size:0.85rem;">[link]</a>';
+        if (pub.type) pubHtml += '<span style="font-size:0.78rem;color:var(--text-secondary);margin-left:0.3rem;">[' + pub.type + ']</span>';
+        if (pub.citations) pubHtml += '<span class="pub-citations">Cited ' + pub.citations + '</span>';
+        if (pub.url) pubHtml += ' <a href="' + pub.url + '" target="_blank" style="font-size:0.8rem;">[link]</a>';
         pubHtml += '</div>';
+        // Source badge per paper
+        if (pub.source) {
+          pubHtml += '<div style="font-size:0.72rem;color:var(--text-secondary);margin-top:0.15rem;">\u{1F4CE} ' + pub.source + '</div>';
+        }
         pubHtml += '</li>';
       });
       pubHtml += '</ul></div>';
     } else {
-      pubHtml = '<div class="empty-state"><p data-zh="暂无论文数据，需从 Google Scholar 获取" data-en="No publication data. Fetch from Google Scholar."></p></div>';
+      pubHtml = '<div class="empty-state"><p data-zh="暂无论文数据" data-en="No publication data available"></p><p style="font-size:0.85rem;color:var(--text-secondary);">';
+      pubHtml += '<span data-zh="可尝试来源：Google Scholar · DBLP · OpenReview · arXiv · WebSearch" data-en="Try: Google Scholar · DBLP · OpenReview · arXiv · WebSearch"></span>';
+      pubHtml += '</p></div>';
     }
     document.getElementById('tab-publications').innerHTML = pubHtml;
-
     // Students tab
     var studentsHtml = '';
     var inferredStudents = prof.inferred_students || [];

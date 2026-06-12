@@ -63,8 +63,13 @@
     "tags": [
       "AI",
       "CV",
+      "Computer Vision",
+      "Deep Learning",
+      "Generative AI",
+      "Image Restoration",
       "ML",
       "Multimodal",
+      "Natural Language",
       "Robotics"
     ]
   },
@@ -112,7 +117,9 @@
         ],
         "venue": "arXiv",
         "year": 2025,
-        "type": "preprint"
+        "type": "preprint",
+        "source": "web_search",
+        "url": null
       },
       {
         "title": "LEMON: Learning 3D Human-Object Interaction Relation from 2D Images",
@@ -139,7 +146,9 @@
         ],
         "venue": "CVPR",
         "year": 2024,
-        "type": "conference"
+        "type": "conference",
+        "source": "web_search",
+        "url": null
       },
       {
         "title": "Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection",
@@ -166,7 +175,9 @@
         ],
         "venue": "CVPR",
         "year": 2024,
-        "type": "conference"
+        "type": "conference",
+        "source": "web_search",
+        "url": null
       },
       {
         "title": "HomoFormer: Homogenized Transformer for Image Shadow Removal",
@@ -190,7 +201,9 @@
         ],
         "venue": "CVPR",
         "year": 2024,
-        "type": "conference"
+        "type": "conference",
+        "source": "web_search",
+        "url": null
       },
       {
         "title": "DreamClean: Restoring Clean Image Using Deep Diffusion Prior",
@@ -232,7 +245,9 @@
         ],
         "venue": "ICLR",
         "year": 2024,
-        "type": "conference"
+        "type": "conference",
+        "source": "web_search",
+        "url": null
       },
       {
         "title": "CCM: Real-Time Controllable Visual Content Creation Using Text-to-Image Consistency Models",
@@ -253,7 +268,9 @@
         ],
         "venue": "ICML",
         "year": 2024,
-        "type": "conference"
+        "type": "conference",
+        "source": "web_search",
+        "url": null
       },
       {
         "title": "Event-Adapted Video Super-Resolution",
@@ -271,7 +288,9 @@
         ],
         "venue": "ECCV",
         "year": 2024,
-        "type": "conference"
+        "type": "conference",
+        "source": "web_search",
+        "url": null
       },
       {
         "title": "Motion Aware Event Representation-Driven Image Deblurring",
@@ -289,7 +308,9 @@
         ],
         "venue": "ECCV",
         "year": 2024,
-        "type": "conference"
+        "type": "conference",
+        "source": "web_search",
+        "url": null
       },
       {
         "title": "Neuromorphic Event Signal-Driven Network for Video De-raining",
@@ -302,7 +323,9 @@
         ],
         "venue": "AAAI",
         "year": 2024,
-        "type": "conference"
+        "type": "conference",
+        "source": "web_search",
+        "url": null
       },
       {
         "title": "Context-aware Difference Distilling for Multi-change Captioning",
@@ -320,7 +343,9 @@
         ],
         "venue": "ACL",
         "year": 2024,
-        "type": "conference"
+        "type": "conference",
+        "source": "web_search",
+        "url": null
       },
       {
         "title": "I2V-Adapter: A General Image-to-Video Adapter for Diffusion Models",
@@ -333,7 +358,9 @@
         ],
         "venue": "SIGGRAPH",
         "year": 2024,
-        "type": "conference"
+        "type": "conference",
+        "source": "web_search",
+        "url": null
       },
       {
         "title": "Cross-Modal Semantic Alignment Learning for Text-Based Person Search",
@@ -346,7 +373,9 @@
         ],
         "venue": "ACM Multimedia",
         "year": 2024,
-        "type": "conference"
+        "type": "conference",
+        "source": "web_search",
+        "url": null
       },
       {
         "title": "Background Activation Suppression for Weakly Supervised Object Localization and Semantic Segmentation",
@@ -359,7 +388,9 @@
         ],
         "venue": "IJCV",
         "year": 2024,
-        "type": "journal"
+        "type": "journal",
+        "source": "web_search",
+        "url": null
       },
       {
         "title": "SMART: Syntax-Calibrated Multi-Aspect Relation Transformer for Change Captioning",
@@ -372,7 +403,9 @@
         ],
         "venue": "IEEE Trans. PAMI",
         "year": 2024,
-        "type": "journal"
+        "type": "journal",
+        "source": "web_search",
+        "url": null
       },
       {
         "title": "Inductive State-Relabeling Adversarial Active Learning",
@@ -385,7 +418,9 @@
         ],
         "venue": "IEEE Trans. PAMI",
         "year": 2024,
-        "type": "journal"
+        "type": "journal",
+        "source": "web_search",
+        "url": null
       }
     ],
     "top_venues": [
@@ -539,5 +574,13 @@
       "group_url"
     ],
     "notes": "基础信息已从主页获取。论文、邮箱、招生、学生去向等需从 Scholar 和子页面进一步获取。"
-  }
+  },
+  "auto_tags_from_papers": [
+    "Computer Vision",
+    "Generative AI",
+    "Multimodal",
+    "Image Restoration",
+    "Natural Language",
+    "Deep Learning"
+  ]
 }
